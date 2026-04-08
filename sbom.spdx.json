@@ -1,0 +1,12 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "name": "climate-change-spain-latin-america",
+  "packages": [
+    {
+      "name": "analysis-code",
+      "versionInfo": "1.0.0",
+      "licenseDeclared": "CC0-1.0"
+    }
+  ]
+}

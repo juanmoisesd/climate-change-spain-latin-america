@@ -1,0 +1,5 @@
+identifier,type,relation
+10.5281/zenodo.19145316,DOI,isIdentifiedBy
+https://github.com/juanmoisesd/climate-change-spain-latin-america,URL,isSourceOf
+https://orcid.org/0000-0002-8401-8018,ORCID,isCreatedBy
+https://data.mendeley.com/datasets/pdx8knj45j,MendeleyData,isVersionOf

@@ -1,0 +1,20 @@
+{
+  "name": "climate-change-spain-latin-america",
+  "title": "Climate Change in Spain and Latin America (2000-2024)",
+  "resources": [
+    {
+      "name": "temperature_anomalies_spain_latam",
+      "path": "data/temperature_anomalies_spain_latam.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "Country", "type": "string" },
+          { "name": "Year", "type": "integer" },
+          { "name": "Anomaly", "type": "number" }
+        ]
+      }
+    }
+  ],
+  "keywords": ["climate", "environment", "spain", "latin-america"]
+}

@@ -1,0 +1,8 @@
+variable,label,value,description
+Region,Europe,ESP,Spain
+Region,North America,MEX,Mexico
+Region,South America,BRA,Brazil
+Region,South America,ARG,Argentina
+Region,South America,COL,Colombia
+Region,South America,CHL,Chile
+Region,South America,PER,Peru

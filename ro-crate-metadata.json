@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": { "@id": "./" },
+      "conformsTo": { "@id": "https://w3id.org/ro/crate/1.1" }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Climate Change in Spain and Latin America (2000-2024)",
+      "description": "Climate and environmental data for Spain and Latin America (2000-2024).",
+      "license": { "@id": "https://creativecommons.org/publicdomain/zero/1.0/" }
+    }
+  ]
+}

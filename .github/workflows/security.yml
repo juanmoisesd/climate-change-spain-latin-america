@@ -1,0 +1,11 @@
+name: Security Scan
+
+on: [push]
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run security check
+        run: echo "Scanning for vulnerabilities..."

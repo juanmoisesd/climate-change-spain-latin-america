@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Climate Change Spain Latin America Data Schema",
+  "type": "object",
+  "properties": {
+    "Country": { "type": "string" },
+    "Year": { "type": "integer", "minimum": 2000, "maximum": 2024 },
+    "CO2_per_capita": { "type": "number" },
+    "Temp_Anomaly": { "type": "number" }
+  },
+  "required": ["Country", "Year"]
+}

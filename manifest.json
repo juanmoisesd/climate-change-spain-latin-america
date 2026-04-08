@@ -1,0 +1,7 @@
+{
+  "files": [
+    { "path": "README.md", "sha256": "795033a1d91612c7caaaace0526cf019cf1fc2b86cb326d8253c8cc3adcfa59c" },
+    { "path": "LICENSE", "sha256": "9990ed6ef098da38ebd694e78d965b8b21f02f3444a016bee616092416b034c5" },
+    { "path": "CITATION.cff", "sha256": "36b40d4549a0cd01d99ab829aca4282a344cc7df5fddf8dc5191786287f45700" }
+  ]
+}

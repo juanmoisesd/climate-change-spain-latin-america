@@ -1,0 +1,6 @@
+variable_name,description,unit,data_type,source
+Country,Name of the country,String,metadata,Various
+Year,Year of observation,Integer,time,Various
+CO2_per_capita,Carbon dioxide emissions per capita,tonnes,numeric,Global Carbon Project
+Temp_Anomaly,Mean temperature anomaly vs 1961-1990,Celsius,numeric,AEMET/Copernicus
+Glacier_Area_Loss,Percentage of glacier area loss since 1986,percentage,numeric,SENAMHI

@@ -1,0 +1,5 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ex: <http://example.org/> .
+
+ex:climate_data a prov:Entity ;
+    prov:wasGeneratedBy ex:data_collection_activity .
