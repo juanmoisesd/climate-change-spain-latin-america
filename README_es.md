@@ -1,6 +1,6 @@
 # Cambio Climático en España y América Latina (2000-2024)
 
-[![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-pdx8knj45j-red)](https://data.mendeley.com/drafts/pdx8knj45j) [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-pdx8knj45j-red)](https://data.mendeley.com/drafts/pdx8knj45j) [![Licencia: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Descripción
 Datos climáticos y ambientales de España y América Latina (2000-2024). Incluye anomalías de temperatura media anual (AEMET/Copernicus), CO2 atmosférico del Observatorio de Izaña, emisiones nacionales de GEI, aumento del nivel del mar, retroceso de los glaciares andinos, deforestación del Amazonas y eventos climáticos extremos.

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variables - Climate Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+    <nav class="border-b border-slate-800 p-4 sticky top-0 bg-slate-950/80 backdrop-blur-md z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold text-blue-400">Climate Dashboard</h1>
+            <div class="space-x-6 text-sm">
+                <a href="index.html" class="hover:text-blue-400">Overview</a>
+                <a href="variables.html" class="text-blue-400">Variables</a>
+                <a href="combinations.html" class="hover:text-blue-400">Combinations</a>
+                <a href="insights.html" class="hover:text-blue-400">Insights</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto p-6 space-y-12">
+        <section class="space-y-6">
+            <h2 class="text-3xl font-bold">CO2 Emissions Evolution</h2>
+            <div class="card rounded-2xl p-6">
+                <canvas id="co2TrendChart" height="150"></canvas>
+            </div>
+        </section>
+
+        <section class="space-y-6">
+            <h2 class="text-3xl font-bold">Renewable Energy Mix (2010 vs 2024)</h2>
+            <div class="card rounded-2xl p-6">
+                <canvas id="renewableChart" height="150"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        async function loadCharts() {
+            const co2Res = await fetch('data/co2_emissions.json');
+            const co2Data = await co2Res.json();
+
+            const trendCtx = document.getElementById('co2TrendChart').getContext('2d');
+            const years = ['2000', '2005', '2010', '2015', '2020', '2024'];
+
+            new Chart(trendCtx, {
+                type: 'line',
+                data: {
+                    labels: years,
+                    datasets: co2Data.map((country, idx) => ({
+                        label: country.Country,
+                        data: years.map(y => country[y]),
+                        borderColor: `hsl(${idx * 50}, 70%, 50%)`,
+                        backgroundColor: 'transparent',
+                        tension: 0.4,
+                        borderWidth: 3,
+                        pointRadius: 4
+                    }))
+                },
+                options: {
+                    responsive: true,
+                    plugins: { legend: { position: 'right', labels: { color: '#94a3b8' } } },
+                    scales: {
+                        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#94a3b8' } },
+                        x: { grid: { display: false }, ticks: { color: '#94a3b8' } }
+                    }
+                }
+            });
+
+            const renRes = await fetch('data/renewable_energy.json');
+            const renData = await renRes.json();
+            const renCtx = document.getElementById('renewableChart').getContext('2d');
+
+            new Chart(renCtx, {
+                type: 'bar',
+                data: {
+                    labels: renData.map(d => d.Country),
+                    datasets: [
+                        {
+                            label: '2010 Share (%)',
+                            data: renData.map(d => d['2010']),
+                            backgroundColor: 'rgba(59, 130, 246, 0.4)',
+                            borderColor: 'rgb(59, 130, 246)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: '2024 Share (%)',
+                            data: renData.map(d => d['2024']),
+                            backgroundColor: 'rgba(16, 185, 129, 0.6)',
+                            borderColor: 'rgb(16, 185, 129)',
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#94a3b8' } },
+                        x: { ticks: { color: '#94a3b8' } }
+                    }
+                }
+            });
+        }
+        loadCharts();
+    </script>
+</body>
+</html>

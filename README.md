@@ -1,6 +1,6 @@
 # Climate Change in Spain and Latin America (2000-2024)
 
-[![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-pdx8knj45j-red)](https://data.mendeley.com/drafts/pdx8knj45j) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-pdx8knj45j-red)](https://data.mendeley.com/drafts/pdx8knj45j) [![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Description
 Climate and environmental data for Spain and Latin America (2000-2024). Includes annual mean temperature anomalies (AEMET/Copernicus), atmospheric CO2 from the Izana Observatory, national GHG emissions, sea level rise, Andean glacier retreat, Amazon deforestation and extreme weather events.

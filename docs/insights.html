@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insights - Climate Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
+    <nav class="border-b border-slate-800 p-4 sticky top-0 bg-slate-950/80 backdrop-blur-md z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold text-blue-400">Climate Dashboard</h1>
+            <div class="space-x-6 text-sm font-medium">
+                <a href="index.html" class="hover:text-blue-400">Overview</a>
+                <a href="variables.html" class="hover:text-blue-400">Variables</a>
+                <a href="combinations.html" class="hover:text-blue-400">Combinations</a>
+                <a href="insights.html" class="text-blue-400">Insights</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-5xl mx-auto p-6 space-y-12">
+        <header class="space-y-4">
+            <h2 class="text-4xl font-bold text-white">Data Insights & Questions</h2>
+            <p class="text-slate-400 text-lg">Answering critical climate questions through data visualization.</p>
+        </header>
+
+        <section class="space-y-8">
+            <!-- Question 1 -->
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-emerald-400">Who is leading the Energy Transition?</h3>
+                <p class="text-slate-300">Analysis of countries with the highest growth in renewable energy share from 2010 to 2024.</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                    <div>
+                        <canvas id="transitionChart"></canvas>
+                    </div>
+                    <div class="space-y-4">
+                        <div class="p-4 bg-emerald-500/10 border border-emerald-500/20 rounded-xl">
+                            <p class="font-bold text-emerald-400">Leader: Brazil</p>
+                            <p class="text-sm text-slate-400">Achieved an impressive 83.4% renewable share in its electricity mix by 2024.</p>
+                        </div>
+                        <div class="p-4 bg-blue-500/10 border border-blue-500/20 rounded-xl">
+                            <p class="font-bold text-blue-400">Most Improved: Spain</p>
+                            <p class="text-sm text-slate-400">Increased its renewable share by over 20 percentage points in 14 years.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-blue-400">Is CO2 per capita decreasing?</h3>
+                <p class="text-slate-300">Spain shows a clear downward trend since 2000, while some Latin American countries maintain stable or slightly increasing levels as they develop.</p>
+                <canvas id="co2ReductionChart" height="100"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        async function loadInsights() {
+            const renRes = await fetch('data/renewable_energy.json');
+            const renData = await renRes.json();
+
+            const transCtx = document.getElementById('transitionChart').getContext('2d');
+            new Chart(transCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: renData.map(d => d.Country),
+                    datasets: [{
+                        data: renData.map(d => d['2024']),
+                        backgroundColor: renData.map((_, i) => `hsl(${140 + i * 20}, 70%, 50%)`),
+                        borderWidth: 0,
+                        hoverOffset: 20
+                    }]
+                },
+                options: {
+                    plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8' } } },
+                    cutout: '70%'
+                }
+            });
+
+            const co2Res = await fetch('data/co2_emissions.json');
+            const co2Data = await co2Res.json();
+            const co2RedCtx = document.getElementById('co2ReductionChart').getContext('2d');
+
+            new Chart(co2RedCtx, {
+                type: 'line',
+                data: {
+                    labels: ['2000', '2024'],
+                    datasets: co2Data.map(d => ({
+                        label: d.Country,
+                        data: [d['2000'], d['2024']],
+                        borderColor: d.Country === 'Spain' ? '#3b82f6' : 'rgba(148, 163, 184, 0.3)',
+                        borderWidth: d.Country === 'Spain' ? 4 : 2,
+                        pointRadius: 6
+                    }))
+                },
+                options: {
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#94a3b8' } },
+                        x: { ticks: { color: '#94a3b8' } }
+                    }
+                }
+            });
+        }
+        loadInsights();
+    </script>
+</body>
+</html>
