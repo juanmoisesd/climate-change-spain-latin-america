@@ -44,7 +44,31 @@
             <h3 class="text-2xl font-bold">Regional Snapshot</h3>
             <canvas id="overviewChart" class="w-full" height="300"></canvas>
         </div>
+
+        <!-- Data Access -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-white"><i class="fas fa-download mr-3 text-blue-400"></i>Data Access</h3>
+                <p class="text-slate-400">Download the processed datasets in multiple formats for your own research.</p>
+                <div class="flex flex-wrap gap-4">
+                    <a href="data/co2_emissions.json" class="px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm font-medium transition-colors">CO2 (JSON)</a>
+                    <a href="data/renewable_energy.json" class="px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm font-medium transition-colors">Renewables (JSON)</a>
+                </div>
+            </div>
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-white"><i class="fas fa-code-branch mr-3 text-emerald-400"></i>Open Science</h3>
+                <p class="text-slate-400">This project follows FAIR principles and is fully open source.</p>
+                <div class="flex gap-4">
+                    <a href="https://github.com/juanmoisesd/climate-change-spain-latin-america" class="text-blue-400 hover:underline text-sm">GitHub Repository</a>
+                    <a href="https://data.mendeley.com/datasets/pdx8knj45j" class="text-blue-400 hover:underline text-sm">Mendeley Data</a>
+                </div>
+            </div>
+        </section>
     </main>
+
+    <footer class="max-w-7xl mx-auto p-12 border-t border-slate-900 text-center text-slate-500 text-sm">
+        <p>&copy; 2024 Juan Moisés de la Serna Tuya. Released under CC0 1.0 Public Domain.</p>
+    </footer>
 
     <script>
         async function loadDashboard() {
