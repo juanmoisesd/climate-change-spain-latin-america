@@ -1,0 +1,602 @@
+[
+  {
+    "code": "temp_anomaly",
+    "name": "Surface Temperature Anomaly",
+    "unit": "C",
+    "latest_value": 1.65
+  },
+  {
+    "code": "co2_conc",
+    "name": "CO2 Concentration",
+    "unit": "ppm",
+    "latest_value": 410.95
+  },
+  {
+    "code": "ch4_conc",
+    "name": "Methane (CH4) Level",
+    "unit": "ppb",
+    "latest_value": 1937.61
+  },
+  {
+    "code": "n2o_conc",
+    "name": "Nitrous Oxide (N2O) Level",
+    "unit": "ppb",
+    "latest_value": 333.82
+  },
+  {
+    "code": "ozone_trop",
+    "name": "Tropospheric Ozone",
+    "unit": "DU",
+    "latest_value": 35.03
+  },
+  {
+    "code": "h2o_strat",
+    "name": "Stratospheric Water Vapor",
+    "unit": "ppmv",
+    "latest_value": 3.75
+  },
+  {
+    "code": "aerosol_opt",
+    "name": "Aerosol Optical Depth",
+    "unit": "index",
+    "latest_value": 0.12
+  },
+  {
+    "code": "cloud_fraction",
+    "name": "Cloud Fraction",
+    "unit": "%",
+    "latest_value": 62.37
+  },
+  {
+    "code": "precip_intensity",
+    "name": "Precipitation Intensity",
+    "unit": "mm/day",
+    "latest_value": 2.96
+  },
+  {
+    "code": "humidity",
+    "name": "Relative Humidity",
+    "unit": "%",
+    "latest_value": 68.84
+  },
+  {
+    "code": "wind_speed",
+    "name": "Average Wind Speed",
+    "unit": "m/s",
+    "latest_value": 7.24
+  },
+  {
+    "code": "solar_irrad",
+    "name": "Solar Irradiance",
+    "unit": "W/m2",
+    "latest_value": 1360.77
+  },
+  {
+    "code": "lightning_freq",
+    "name": "Lightning Frequency",
+    "unit": "flashes/km2",
+    "latest_value": 7.2
+  },
+  {
+    "code": "aqi_index",
+    "name": "Air Quality Index (AQI)",
+    "unit": "index",
+    "latest_value": 61.79
+  },
+  {
+    "code": "uv_index",
+    "name": "UV Index Anomaly",
+    "unit": "index",
+    "latest_value": 5.57
+  },
+  {
+    "code": "pressure_anom",
+    "name": "Pressure Anomaly",
+    "unit": "hPa",
+    "latest_value": 1012.78
+  },
+  {
+    "code": "sst_anom",
+    "name": "Sea Surface Temperature",
+    "unit": "C",
+    "latest_value": 19.01
+  },
+  {
+    "code": "ocean_heat",
+    "name": "Ocean Heat Content",
+    "unit": "ZJ",
+    "latest_value": 218.82
+  },
+  {
+    "code": "sea_level",
+    "name": "Sea Level Rise",
+    "unit": "mm",
+    "latest_value": 92.79
+  },
+  {
+    "code": "ocean_ph",
+    "name": "Ocean Acidification (pH)",
+    "unit": "pH",
+    "latest_value": 8.06
+  },
+  {
+    "code": "salinity",
+    "name": "Ocean Salinity",
+    "unit": "psu",
+    "latest_value": 34.97
+  },
+  {
+    "code": "marine_heatwaves",
+    "name": "Marine Heatwaves",
+    "unit": "days/year",
+    "latest_value": 55.58
+  },
+  {
+    "code": "sea_ice_arctic",
+    "name": "Sea Ice Extent (Arctic)",
+    "unit": "million km2",
+    "latest_value": 10.88
+  },
+  {
+    "code": "sea_ice_antarctic",
+    "name": "Sea Ice Extent (Antarctic)",
+    "unit": "million km2",
+    "latest_value": 10.77
+  },
+  {
+    "code": "phytoplankton",
+    "name": "Phytoplankton Concentration",
+    "unit": "mg/m3",
+    "latest_value": 0.16
+  },
+  {
+    "code": "coral_bleach",
+    "name": "Coral Bleaching Events",
+    "unit": "count",
+    "latest_value": 136.96
+  },
+  {
+    "code": "ocean_current",
+    "name": "Ocean Current Velocity",
+    "unit": "m/s",
+    "latest_value": 0.47
+  },
+  {
+    "code": "dissolved_o2",
+    "name": "Dissolved Oxygen",
+    "unit": "umol/kg",
+    "latest_value": 195.13
+  },
+  {
+    "code": "deforestation_rate",
+    "name": "Deforestation Rate",
+    "unit": "Mha/year",
+    "latest_value": 14.43
+  },
+  {
+    "code": "land_temp",
+    "name": "Land Surface Temperature",
+    "unit": "C",
+    "latest_value": 15.77
+  },
+  {
+    "code": "soil_moisture",
+    "name": "Soil Moisture",
+    "unit": "m3/m3",
+    "latest_value": 0.23
+  },
+  {
+    "code": "desertification",
+    "name": "Desertification Area",
+    "unit": "Mha",
+    "latest_value": 536.09
+  },
+  {
+    "code": "permafrost_thaw",
+    "name": "Permafrost Thaw Rate",
+    "unit": "cm/year",
+    "latest_value": 31.55
+  },
+  {
+    "code": "glacier_mass",
+    "name": "Glacier Mass Balance",
+    "unit": "m w.e.",
+    "latest_value": -15.04
+  },
+  {
+    "code": "snow_cover",
+    "name": "Snow Cover Extent",
+    "unit": "million km2",
+    "latest_value": 22.59
+  },
+  {
+    "code": "biomass_density",
+    "name": "Biomass Density",
+    "unit": "t/ha",
+    "latest_value": 94.87
+  },
+  {
+    "code": "land_cover_change",
+    "name": "Land Cover Change",
+    "unit": "%",
+    "latest_value": 7.64
+  },
+  {
+    "code": "soil_erosion",
+    "name": "Soil Erosion Rate",
+    "unit": "t/ha/year",
+    "latest_value": 11.22
+  },
+  {
+    "code": "biodiversity_idx",
+    "name": "Biodiversity Intactness Index",
+    "unit": "%",
+    "latest_value": 85.02
+  },
+  {
+    "code": "invasive_species",
+    "name": "Invasive Species Count",
+    "unit": "count",
+    "latest_value": 1002.9
+  },
+  {
+    "code": "wetland_area",
+    "name": "Wetland Area",
+    "unit": "Mha",
+    "latest_value": 109.73
+  },
+  {
+    "code": "peatland_deg",
+    "name": "Peatland Degradation",
+    "unit": "%",
+    "latest_value": 20.7
+  },
+  {
+    "code": "river_discharge",
+    "name": "River Discharge",
+    "unit": "m3/s",
+    "latest_value": 889.96
+  },
+  {
+    "code": "lake_levels",
+    "name": "Lake Levels",
+    "unit": "m",
+    "latest_value": 99.53
+  },
+  {
+    "code": "groundwater_dep",
+    "name": "Groundwater Depletion",
+    "unit": "km3",
+    "latest_value": 54.53
+  },
+  {
+    "code": "evapotranspiration",
+    "name": "Evapotranspiration",
+    "unit": "mm/year",
+    "latest_value": 533.46
+  },
+  {
+    "code": "drought_severity",
+    "name": "Drought Severity (PDSI)",
+    "unit": "index",
+    "latest_value": -2.55
+  },
+  {
+    "code": "flood_freq",
+    "name": "Flood Frequency",
+    "unit": "events/year",
+    "latest_value": 36.38
+  },
+  {
+    "code": "water_scarcity",
+    "name": "Water Scarcity Index",
+    "unit": "%",
+    "latest_value": 31.81
+  },
+  {
+    "code": "heatwave_dur",
+    "name": "Heatwave Duration",
+    "unit": "days",
+    "latest_value": 15.44
+  },
+  {
+    "code": "cold_freq",
+    "name": "Cold Wave Frequency",
+    "unit": "events/year",
+    "latest_value": 3.69
+  },
+  {
+    "code": "cyclone_int",
+    "name": "Tropical Cyclone Intensity",
+    "unit": "index",
+    "latest_value": 11.23
+  },
+  {
+    "code": "wildfire_area",
+    "name": "Wildfire Burned Area",
+    "unit": "Mha",
+    "latest_value": 11.24
+  },
+  {
+    "code": "extreme_rain",
+    "name": "Extreme Rainfall Events",
+    "unit": "count",
+    "latest_value": 21.42
+  },
+  {
+    "code": "dust_storms",
+    "name": "Dust Storm Frequency",
+    "unit": "events/year",
+    "latest_value": 10.39
+  },
+  {
+    "code": "gdp_climate_risk",
+    "name": "GDP Exposure to Climate Risk",
+    "unit": "%",
+    "latest_value": 9.54
+  },
+  {
+    "code": "climate_refugees",
+    "name": "Climate Refugees Count",
+    "unit": "millions",
+    "latest_value": 11.96
+  },
+  {
+    "code": "agri_yield",
+    "name": "Agricultural Yield Change",
+    "unit": "%",
+    "latest_value": 92.81
+  },
+  {
+    "code": "water_stress",
+    "name": "Water Stress per Capita",
+    "unit": "m3",
+    "latest_value": 1244.3
+  },
+  {
+    "code": "energy_cooling",
+    "name": "Cooling Degree Days",
+    "unit": "days",
+    "latest_value": 250.37
+  },
+  {
+    "code": "carbon_tax",
+    "name": "Carbon Tax Revenue",
+    "unit": "Billion USD",
+    "latest_value": 32.91
+  },
+  {
+    "code": "green_bonds",
+    "name": "Green Bonds Issued",
+    "unit": "Billion USD",
+    "latest_value": 446.81
+  },
+  {
+    "code": "insurance_losses",
+    "name": "Insurance Losses (Climate)",
+    "unit": "Billion USD",
+    "latest_value": 102.33
+  },
+  {
+    "code": "renewable_share",
+    "name": "Renewable Energy Share",
+    "unit": "%",
+    "latest_value": 42.05
+  },
+  {
+    "code": "coal_cons",
+    "name": "Coal Consumption",
+    "unit": "EJ",
+    "latest_value": 155.95
+  },
+  {
+    "code": "oil_cons",
+    "name": "Oil Consumption",
+    "unit": "EJ",
+    "latest_value": 182.92
+  },
+  {
+    "code": "gas_cons",
+    "name": "Gas Consumption",
+    "unit": "EJ",
+    "latest_value": 138.17
+  },
+  {
+    "code": "elect_access",
+    "name": "Electricity Access Rate",
+    "unit": "%",
+    "latest_value": 94.74
+  },
+  {
+    "code": "carbon_intensity",
+    "name": "Carbon Intensity of GDP",
+    "unit": "kg/USD",
+    "latest_value": 0.24
+  },
+  {
+    "code": "fossil_subsidies",
+    "name": "Fossil Fuel Subsidies",
+    "unit": "Billion USD",
+    "latest_value": 390.01
+  },
+  {
+    "code": "ev_market_share",
+    "name": "EV Market Share",
+    "unit": "%",
+    "latest_value": 19.01
+  },
+  {
+    "code": "solar_cap",
+    "name": "Solar Installed Capacity",
+    "unit": "GW",
+    "latest_value": 971.7
+  },
+  {
+    "code": "wind_cap",
+    "name": "Wind Installed Capacity",
+    "unit": "GW",
+    "latest_value": 871.81
+  },
+  {
+    "code": "hydro_cap",
+    "name": "Hydropower Capacity",
+    "unit": "GW",
+    "latest_value": 1048.54
+  },
+  {
+    "code": "nuclear_share",
+    "name": "Nuclear Energy Share",
+    "unit": "%",
+    "latest_value": 7.86
+  },
+  {
+    "code": "energy_eff",
+    "name": "Energy Efficiency Index",
+    "unit": "index",
+    "latest_value": 111.7
+  },
+  {
+    "code": "transport_emis",
+    "name": "Transport Emissions",
+    "unit": "GtCO2",
+    "latest_value": 7.41
+  },
+  {
+    "code": "industry_emis",
+    "name": "Industrial Emissions",
+    "unit": "GtCO2",
+    "latest_value": 12.48
+  },
+  {
+    "code": "resid_emis",
+    "name": "Residential Emissions",
+    "unit": "GtCO2",
+    "latest_value": 4.24
+  },
+  {
+    "code": "waste_emis",
+    "name": "Waste Management Emissions",
+    "unit": "GtCO2",
+    "latest_value": 1.61
+  },
+  {
+    "code": "fugitive_emis",
+    "name": "Fugitive Emissions",
+    "unit": "GtCO2",
+    "latest_value": 1.04
+  },
+  {
+    "code": "climate_laws",
+    "name": "Climate Laws Count",
+    "unit": "count",
+    "latest_value": 786.21
+  },
+  {
+    "code": "ndc_ambition",
+    "name": "NDC Ambition Score",
+    "unit": "index",
+    "latest_value": 74.15
+  },
+  {
+    "code": "adapt_funding",
+    "name": "Adaptation Funding",
+    "unit": "Billion USD",
+    "latest_value": 61.27
+  },
+  {
+    "code": "paris_compliance",
+    "name": "Paris Agreement Compliance",
+    "unit": "%",
+    "latest_value": 32.02
+  },
+  {
+    "code": "esg_reporting",
+    "name": "Corporate ESG Reporting Rate",
+    "unit": "%",
+    "latest_value": 56.43
+  },
+  {
+    "code": "urban_heat",
+    "name": "Urban Heat Island Intensity",
+    "unit": "C",
+    "latest_value": 3.12
+  },
+  {
+    "code": "green_space",
+    "name": "Green Space Ratio",
+    "unit": "%",
+    "latest_value": 17.7
+  },
+  {
+    "code": "urban_flood",
+    "name": "Urban Flood Risk",
+    "unit": "index",
+    "latest_value": 39.08
+  },
+  {
+    "code": "public_transport",
+    "name": "Public Transport Usage",
+    "unit": "%",
+    "latest_value": 30.17
+  },
+  {
+    "code": "heat_mortality",
+    "name": "Heat-related Mortality",
+    "unit": "per 100k",
+    "latest_value": 20.91
+  },
+  {
+    "code": "vector_disease",
+    "name": "Vector-borne Disease Incidence",
+    "unit": "per 100k",
+    "latest_value": 75.19
+  },
+  {
+    "code": "aq_deaths",
+    "name": "Air Pollution Deaths",
+    "unit": "millions",
+    "latest_value": 5.2
+  },
+  {
+    "code": "malnutrition",
+    "name": "Malnutrition (Climate-linked)",
+    "unit": "%",
+    "latest_value": 14.32
+  },
+  {
+    "code": "ccus_capacity",
+    "name": "Carbon Capture Capacity (CCUS)",
+    "unit": "MtCO2",
+    "latest_value": 141.17
+  },
+  {
+    "code": "hydrogen_prod",
+    "name": "Green Hydrogen Production",
+    "unit": "Mt",
+    "latest_value": 12.17
+  },
+  {
+    "code": "climate_patents",
+    "name": "Climate Patents Count",
+    "unit": "thousands",
+    "latest_value": 51.88
+  },
+  {
+    "code": "battery_storage",
+    "name": "Battery Storage Capacity",
+    "unit": "GWh",
+    "latest_value": 344.28
+  },
+  {
+    "code": "extinction_rate",
+    "name": "Species Extinction Rate",
+    "unit": "index",
+    "latest_value": 1.25
+  },
+  {
+    "code": "protected_area",
+    "name": "Protected Area Coverage",
+    "unit": "%",
+    "latest_value": 19.4
+  }
+]

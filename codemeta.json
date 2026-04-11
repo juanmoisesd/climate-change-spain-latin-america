@@ -2,11 +2,11 @@
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
   "name": "Climate Change Spain Latin America Analysis",
-  "description": "Analysis of climate change indicators in Spain and Latin America.",
+  "description": "A data repository and interactive dashboard for 100 climate change indicators.",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Moisés",
+      "givenName": "Juan Mois\u00e9s",
       "familyName": "de la Serna Tuya",
       "identifier": "https://orcid.org/0000-0002-8401-8018"
     }
