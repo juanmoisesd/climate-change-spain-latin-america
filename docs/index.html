@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Change Spain & Latam - Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); }
+        .card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
+    <nav class="border-b border-slate-800 p-4 sticky top-0 bg-slate-950/80 backdrop-blur-md z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
+                Climate Dashboard
+            </h1>
+            <div class="space-x-6 text-sm font-medium">
+                <a href="index.html" class="hover:text-blue-400 transition-colors">Overview</a>
+                <a href="variables.html" class="hover:text-blue-400 transition-colors">Variables</a>
+                <a href="combinations.html" class="hover:text-blue-400 transition-colors">Combinations</a>
+                <a href="insights.html" class="hover:text-blue-400 transition-colors">Insights</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto p-6 space-y-8">
+        <!-- Hero Section -->
+        <header class="py-12 text-center space-y-4">
+            <h2 class="text-4xl md:text-5xl font-extrabold text-white">Climate Change in Spain & Latin America</h2>
+            <p class="text-slate-400 text-lg max-w-2xl mx-auto">Tracking environmental indicators from 2000 to 2024 to understand the regional impact of global warming.</p>
+        </header>
+
+        <!-- Stats Cards -->
+        <div id="stats-container" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <!-- Dynamically populated -->
+        </div>
+
+        <!-- Dashboard Preview -->
+        <div class="card rounded-2xl p-8 space-y-6">
+            <h3 class="text-2xl font-bold">Regional Snapshot</h3>
+            <canvas id="overviewChart" class="w-full" height="300"></canvas>
+        </div>
+
+        <!-- Data Access -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-white"><i class="fas fa-download mr-3 text-blue-400"></i>Data Access</h3>
+                <p class="text-slate-400">Download the processed datasets in multiple formats for your own research.</p>
+                <div class="flex flex-wrap gap-4">
+                    <a href="data/co2_emissions.json" class="px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm font-medium transition-colors">CO2 (JSON)</a>
+                    <a href="data/renewable_energy.json" class="px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm font-medium transition-colors">Renewables (JSON)</a>
+                </div>
+            </div>
+            <div class="card rounded-2xl p-8 space-y-4">
+                <h3 class="text-2xl font-bold text-white"><i class="fas fa-code-branch mr-3 text-emerald-400"></i>Open Science</h3>
+                <p class="text-slate-400">This project follows FAIR principles and is fully open source.</p>
+                <div class="flex gap-4">
+                    <a href="https://github.com/juanmoisesd/climate-change-spain-latin-america" class="text-blue-400 hover:underline text-sm">GitHub Repository</a>
+                    <a href="https://data.mendeley.com/datasets/pdx8knj45j" class="text-blue-400 hover:underline text-sm">Mendeley Data</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="max-w-7xl mx-auto p-12 border-t border-slate-900 text-center text-slate-500 text-sm">
+        <p>&copy; 2024 Juan Moisés de la Serna Tuya. Released under CC0 1.0 Public Domain.</p>
+    </footer>
+
+    <script>
+        async function loadDashboard() {
+            const summaryRes = await fetch('data/summary.json');
+            const summary = await summaryRes.json();
+
+            const statsContainer = document.getElementById('stats-container');
+            summary.key_indicators.forEach(indicator => {
+                const card = `
+                    <div class="card rounded-2xl p-6 space-y-2">
+                        <p class="text-slate-400 text-sm font-medium uppercase tracking-wider">${indicator.label}</p>
+                        <p class="text-3xl font-bold text-white">${indicator.value}</p>
+                    </div>
+                `;
+                statsContainer.innerHTML += card;
+            });
+
+            const co2Res = await fetch('data/co2_emissions.json');
+            const co2Data = await co2Res.json();
+
+            const ctx = document.getElementById('overviewChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: co2Data.map(d => d.Country),
+                    datasets: [{
+                        label: 'CO2 per Capita (2024)',
+                        data: co2Data.map(d => d['2024']),
+                        backgroundColor: 'rgba(52, 211, 153, 0.6)',
+                        borderColor: 'rgb(52, 211, 153)',
+                        borderWidth: 2,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { labels: { color: '#94a3b8' } }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(255,255,255,0.05)' },
+                            ticks: { color: '#94a3b8' }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: { color: '#94a3b8' }
+                        }
+                    }
+                }
+            });
+        }
+        loadDashboard();
+    </script>
+</body>
+</html>

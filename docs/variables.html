@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Dashboard - Variables</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { background-color: #0f172a; color: #f1f5f9; }
+        .card { background-color: #1e293b; border: 1px solid #334155; }
+    </style>
+</head>
+<body class="min-h-screen font-sans">
+    <nav class="p-6 flex justify-between items-center border-b border-slate-800">
+        <h1 class="text-2xl font-bold text-emerald-400">Climate Dashboard</h1>
+        <div class="space-x-6">
+            <a href="index.html" class="hover:text-emerald-400">Overview</a>
+            <a href="variables.html" class="text-emerald-400 font-bold underline">Variables</a>
+            <a href="combinations.html" class="hover:text-emerald-400">Combinations</a>
+            <a href="insights.html" class="hover:text-emerald-400">Insights</a>
+        </div>
+    </nav>
+
+    <main class="p-8">
+        <div class="mb-12">
+            <h2 class="text-4xl font-extrabold mb-4">Explore 100 Climate Indicators</h2>
+            <p class="text-slate-400 text-lg">Detailed analysis of the full environmental monitoring suite.</p>
+        </div>
+
+        <!-- Search and Filter -->
+        <div class="mb-8 flex flex-col md:flex-row gap-4">
+            <input type="text" id="searchInput" placeholder="Search variables..."
+                   class="bg-slate-800 border border-slate-700 rounded-lg px-4 py-2 w-full md:w-96 focus:outline-none focus:ring-2 focus:ring-emerald-500">
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" id="variablesGrid">
+            <!-- Cards will be injected here -->
+        </div>
+    </main>
+
+    <!-- Modal for Detailed Chart -->
+    <div id="chartModal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50">
+        <div class="card w-full max-w-4xl p-8 rounded-2xl relative">
+            <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-white text-2xl">&times;</button>
+            <h3 id="modalTitle" class="text-2xl font-bold mb-4 text-emerald-400"></h3>
+            <div class="h-96">
+                <canvas id="modalChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allVariables = [];
+        let modalChartInstance = null;
+
+        async function init() {
+            const response = await fetch('data/variables_index.json');
+            allVariables = await response.json();
+            renderGrid(allVariables);
+
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                const term = e.target.value.toLowerCase();
+                const filtered = allVariables.filter(v => v.name.toLowerCase().includes(term) || v.code.toLowerCase().includes(term));
+                renderGrid(filtered);
+            });
+        }
+
+        function renderGrid(vars) {
+            const grid = document.getElementById('variablesGrid');
+            grid.innerHTML = vars.map(v => `
+                <div onclick="showChart('${v.code}')" class="card p-6 rounded-xl cursor-pointer hover:border-emerald-500 transition-all">
+                    <h4 class="text-emerald-400 font-bold mb-2">${v.name}</h4>
+                    <div class="flex justify-between items-end">
+                        <span class="text-3xl font-bold">${v.latest_value}</span>
+                        <span class="text-slate-500 text-sm">${v.unit}</span>
+                    </div>
+                    <div class="mt-4 text-xs text-slate-500 uppercase tracking-widest">${v.code}</div>
+                </div>
+            `).join('');
+        }
+
+        async function showChart(code) {
+            const response = await fetch(`data/${code}.json`);
+            const data = await response.json();
+
+            document.getElementById('modalTitle').textContent = data.indicator;
+            document.getElementById('chartModal').classList.remove('hidden');
+
+            const ctx = document.getElementById('modalChart').getContext('2d');
+            if (modalChartInstance) modalChartInstance.destroy();
+
+            modalChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.labels,
+                    datasets: [{
+                        label: data.unit,
+                        data: data.values,
+                        borderColor: '#10b981',
+                        backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                        fill: true,
+                        tension: 0.3,
+                        pointBackgroundColor: '#10b981'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: { grid: { color: '#334155' }, ticks: { color: '#94a3b8' } },
+                        x: { grid: { display: false }, ticks: { color: '#94a3b8' } }
+                    }
+                }
+            });
+        }
+
+        function closeModal() {
+            document.getElementById('chartModal').classList.add('hidden');
+        }
+
+        init();
+    </script>
+</body>
+</html>

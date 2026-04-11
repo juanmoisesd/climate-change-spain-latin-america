@@ -1,0 +1,38 @@
+{
+  "data": {
+    "id": "10.5281/zenodo.19145316",
+    "type": "datasets",
+    "attributes": {
+      "doi": "10.5281/zenodo.19145316",
+      "creators": [
+        {
+          "name": "de la Serna Tuya, Juan Moisés",
+          "givenName": "Juan Moisés",
+          "familyName": "de la Serna Tuya",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://orcid.org/0000-0002-8401-8018",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Climate Change in Spain and Latin America (2000-2024)"
+        }
+      ],
+      "publisher": "Zenodo",
+      "publicationYear": 2024,
+      "types": {
+        "resourceTypeGeneral": "Dataset"
+      },
+      "descriptions": [
+        {
+          "description": "Climate and environmental data for Spain and Latin America (2000-2024).",
+          "descriptionType": "Abstract"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+rule all:
+    input:
+        "data/clean/climate_data.csv"
+
+rule process:
+    input:
+        "data/raw/climate_data_raw.csv"
+    output:
+        "data/clean/climate_data.csv"
+    shell:
+        "python3 scripts/etl/process.py"

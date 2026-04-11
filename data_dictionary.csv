@@ -1,0 +1,101 @@
+variable,description,unit,category
+temp_anomaly,Surface Temperature Anomaly,C,Climate Indicator
+co2_conc,CO2 Concentration,ppm,Climate Indicator
+ch4_conc,Methane (CH4) Level,ppb,Climate Indicator
+n2o_conc,Nitrous Oxide (N2O) Level,ppb,Climate Indicator
+ozone_trop,Tropospheric Ozone,DU,Climate Indicator
+h2o_strat,Stratospheric Water Vapor,ppmv,Climate Indicator
+aerosol_opt,Aerosol Optical Depth,index,Climate Indicator
+cloud_fraction,Cloud Fraction,%,Climate Indicator
+precip_intensity,Precipitation Intensity,mm/day,Climate Indicator
+humidity,Relative Humidity,%,Climate Indicator
+wind_speed,Average Wind Speed,m/s,Climate Indicator
+solar_irrad,Solar Irradiance,W/m2,Climate Indicator
+lightning_freq,Lightning Frequency,flashes/km2,Climate Indicator
+aqi_index,Air Quality Index (AQI),index,Climate Indicator
+uv_index,UV Index Anomaly,index,Climate Indicator
+pressure_anom,Pressure Anomaly,hPa,Climate Indicator
+sst_anom,Sea Surface Temperature,C,Climate Indicator
+ocean_heat,Ocean Heat Content,ZJ,Climate Indicator
+sea_level,Sea Level Rise,mm,Climate Indicator
+ocean_ph,Ocean Acidification (pH),pH,Climate Indicator
+salinity,Ocean Salinity,psu,Climate Indicator
+marine_heatwaves,Marine Heatwaves,days/year,Climate Indicator
+sea_ice_arctic,Sea Ice Extent (Arctic),million km2,Climate Indicator
+sea_ice_antarctic,Sea Ice Extent (Antarctic),million km2,Climate Indicator
+phytoplankton,Phytoplankton Concentration,mg/m3,Climate Indicator
+coral_bleach,Coral Bleaching Events,count,Climate Indicator
+ocean_current,Ocean Current Velocity,m/s,Climate Indicator
+dissolved_o2,Dissolved Oxygen,umol/kg,Climate Indicator
+deforestation_rate,Deforestation Rate,Mha/year,Climate Indicator
+land_temp,Land Surface Temperature,C,Climate Indicator
+soil_moisture,Soil Moisture,m3/m3,Climate Indicator
+desertification,Desertification Area,Mha,Climate Indicator
+permafrost_thaw,Permafrost Thaw Rate,cm/year,Climate Indicator
+glacier_mass,Glacier Mass Balance,m w.e.,Climate Indicator
+snow_cover,Snow Cover Extent,million km2,Climate Indicator
+biomass_density,Biomass Density,t/ha,Climate Indicator
+land_cover_change,Land Cover Change,%,Climate Indicator
+soil_erosion,Soil Erosion Rate,t/ha/year,Climate Indicator
+biodiversity_idx,Biodiversity Intactness Index,%,Climate Indicator
+invasive_species,Invasive Species Count,count,Climate Indicator
+wetland_area,Wetland Area,Mha,Climate Indicator
+peatland_deg,Peatland Degradation,%,Climate Indicator
+river_discharge,River Discharge,m3/s,Climate Indicator
+lake_levels,Lake Levels,m,Climate Indicator
+groundwater_dep,Groundwater Depletion,km3,Climate Indicator
+evapotranspiration,Evapotranspiration,mm/year,Climate Indicator
+drought_severity,Drought Severity (PDSI),index,Climate Indicator
+flood_freq,Flood Frequency,events/year,Climate Indicator
+water_scarcity,Water Scarcity Index,%,Climate Indicator
+heatwave_dur,Heatwave Duration,days,Climate Indicator
+cold_freq,Cold Wave Frequency,events/year,Climate Indicator
+cyclone_int,Tropical Cyclone Intensity,index,Climate Indicator
+wildfire_area,Wildfire Burned Area,Mha,Climate Indicator
+extreme_rain,Extreme Rainfall Events,count,Climate Indicator
+dust_storms,Dust Storm Frequency,events/year,Climate Indicator
+gdp_climate_risk,GDP Exposure to Climate Risk,%,Climate Indicator
+climate_refugees,Climate Refugees Count,millions,Climate Indicator
+agri_yield,Agricultural Yield Change,%,Climate Indicator
+water_stress,Water Stress per Capita,m3,Climate Indicator
+energy_cooling,Cooling Degree Days,days,Climate Indicator
+carbon_tax,Carbon Tax Revenue,Billion USD,Climate Indicator
+green_bonds,Green Bonds Issued,Billion USD,Climate Indicator
+insurance_losses,Insurance Losses (Climate),Billion USD,Climate Indicator
+renewable_share,Renewable Energy Share,%,Climate Indicator
+coal_cons,Coal Consumption,EJ,Climate Indicator
+oil_cons,Oil Consumption,EJ,Climate Indicator
+gas_cons,Gas Consumption,EJ,Climate Indicator
+elect_access,Electricity Access Rate,%,Climate Indicator
+carbon_intensity,Carbon Intensity of GDP,kg/USD,Climate Indicator
+fossil_subsidies,Fossil Fuel Subsidies,Billion USD,Climate Indicator
+ev_market_share,EV Market Share,%,Climate Indicator
+solar_cap,Solar Installed Capacity,GW,Climate Indicator
+wind_cap,Wind Installed Capacity,GW,Climate Indicator
+hydro_cap,Hydropower Capacity,GW,Climate Indicator
+nuclear_share,Nuclear Energy Share,%,Climate Indicator
+energy_eff,Energy Efficiency Index,index,Climate Indicator
+transport_emis,Transport Emissions,GtCO2,Climate Indicator
+industry_emis,Industrial Emissions,GtCO2,Climate Indicator
+resid_emis,Residential Emissions,GtCO2,Climate Indicator
+waste_emis,Waste Management Emissions,GtCO2,Climate Indicator
+fugitive_emis,Fugitive Emissions,GtCO2,Climate Indicator
+climate_laws,Climate Laws Count,count,Climate Indicator
+ndc_ambition,NDC Ambition Score,index,Climate Indicator
+adapt_funding,Adaptation Funding,Billion USD,Climate Indicator
+paris_compliance,Paris Agreement Compliance,%,Climate Indicator
+esg_reporting,Corporate ESG Reporting Rate,%,Climate Indicator
+urban_heat,Urban Heat Island Intensity,C,Climate Indicator
+green_space,Green Space Ratio,%,Climate Indicator
+urban_flood,Urban Flood Risk,index,Climate Indicator
+public_transport,Public Transport Usage,%,Climate Indicator
+heat_mortality,Heat-related Mortality,per 100k,Climate Indicator
+vector_disease,Vector-borne Disease Incidence,per 100k,Climate Indicator
+aq_deaths,Air Pollution Deaths,millions,Climate Indicator
+malnutrition,Malnutrition (Climate-linked),%,Climate Indicator
+ccus_capacity,Carbon Capture Capacity (CCUS),MtCO2,Climate Indicator
+hydrogen_prod,Green Hydrogen Production,Mt,Climate Indicator
+climate_patents,Climate Patents Count,thousands,Climate Indicator
+battery_storage,Battery Storage Capacity,GWh,Climate Indicator
+extinction_rate,Species Extinction Rate,index,Climate Indicator
+protected_area,Protected Area Coverage,%,Climate Indicator

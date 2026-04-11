@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Climate Change in Spain and Latin America (2000-2024)",
+  "description": "Climate and environmental data for Spain and Latin America (2000-2024).",
+  "url": "https://github.com/juanmoisesd/climate-change-spain-latin-america",
+  "identifier": "https://doi.org/10.5281/zenodo.19145316",
+  "creator": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "sameAs": "https://orcid.org/0000-0002-8401-8018"
+  },
+  "keywords": [
+    "Climate Change",
+    "Spain",
+    "Latin America",
+    "Temperature Anomalies",
+    "CO2 Emissions"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,5 @@
+lineage:
+  source: data/raw/
+  transformation: scripts/etl/process.py
+  output: data/clean/
+  version: 1.0.0

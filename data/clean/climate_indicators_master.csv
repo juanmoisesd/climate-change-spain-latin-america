@@ -1,0 +1,2501 @@
+year,value,indicator,unit,code
+2000,0.5496714153011233,Surface Temperature Anomaly,C,temp_anomaly
+2001,0.5361735698828816,Surface Temperature Anomaly,C,temp_anomaly
+2002,0.6647688538100692,Surface Temperature Anomaly,C,temp_anomaly
+2003,0.8023029856408026,Surface Temperature Anomaly,C,temp_anomaly
+2004,0.6765846625276664,Surface Temperature Anomaly,C,temp_anomaly
+2005,0.726586304305082,Surface Temperature Anomaly,C,temp_anomaly
+2006,0.9579212815507392,Surface Temperature Anomaly,C,temp_anomaly
+2007,0.926743472915291,Surface Temperature Anomaly,C,temp_anomaly
+2008,0.8530525614065048,Surface Temperature Anomaly,C,temp_anomaly
+2009,1.0042560043585964,Surface Temperature Anomaly,C,temp_anomaly
+2010,0.9536582307187538,Surface Temperature Anomaly,C,temp_anomaly
+2011,1.0034270246429744,Surface Temperature Anomaly,C,temp_anomaly
+2012,1.1241962271566035,Surface Temperature Anomaly,C,temp_anomaly
+2013,0.9586719755342201,Surface Temperature Anomaly,C,temp_anomaly
+2014,1.0275082167486969,Surface Temperature Anomaly,C,temp_anomaly
+2015,1.1937712470759028,Surface Temperature Anomaly,C,temp_anomaly
+2016,1.1987168879665577,Surface Temperature Anomaly,C,temp_anomaly
+2017,1.3814247332595275,Surface Temperature Anomaly,C,temp_anomaly
+2018,1.309197592447879,Surface Temperature Anomaly,C,temp_anomaly
+2019,1.308769629866471,Surface Temperature Anomaly,C,temp_anomaly
+2020,1.6465648768921555,Surface Temperature Anomaly,C,temp_anomaly
+2021,1.5274223699513465,Surface Temperature Anomaly,C,temp_anomaly
+2022,1.6067528204687924,Surface Temperature Anomaly,C,temp_anomaly
+2023,1.5075251813786545,Surface Temperature Anomaly,C,temp_anomaly
+2024,1.6455617275474819,Surface Temperature Anomaly,C,temp_anomaly
+2000,370.4436903588395,CO2 Concentration,ppm,co2_conc
+2001,367.3960256903108,CO2 Concentration,ppm,co2_conc
+2002,375.5027920733827,CO2 Concentration,ppm,co2_conc
+2003,373.59744524032476,CO2 Concentration,ppm,co2_conc
+2004,376.83322500082687,CO2 Concentration,ppm,co2_conc
+2005,377.59317355108243,CO2 Concentration,ppm,co2_conc
+2006,389.40911273803573,CO2 Concentration,ppm,co2_conc
+2007,383.94601110104827,CO2 Concentration,ppm,co2_conc
+2008,381.7691562841764,CO2 Concentration,ppm,co2_conc
+2009,391.29017964841273,CO2 Concentration,ppm,co2_conc
+2010,385.11662540011594,CO2 Concentration,ppm,co2_conc
+2011,392.83545438001903,CO2 Concentration,ppm,co2_conc
+2012,386.1613195044809,CO2 Concentration,ppm,co2_conc
+2013,390.6872558044063,CO2 Concentration,ppm,co2_conc
+2014,398.7874449434765,CO2 Concentration,ppm,co2_conc
+2015,402.9538663199816,CO2 Concentration,ppm,co2_conc
+2016,402.6854731247599,CO2 Concentration,ppm,co2_conc
+2017,403.53740687044706,CO2 Concentration,ppm,co2_conc
+2018,404.79558521764284,CO2 Concentration,ppm,co2_conc
+2019,402.0859120385303,CO2 Concentration,ppm,co2_conc
+2020,407.1206231664212,CO2 Concentration,ppm,co2_conc
+2021,410.15744491616084,CO2 Concentration,ppm,co2_conc
+2022,418.2284889048757,CO2 Concentration,ppm,co2_conc
+2023,417.3744731582739,CO2 Concentration,ppm,co2_conc
+2024,410.9478393785491,CO2 Concentration,ppm,co2_conc
+2000,1756.4816793878958,Methane (CH4) Level,ppb,ch4_conc
+2001,1752.2983543916737,Methane (CH4) Level,ppb,ch4_conc
+2002,1756.4615599938809,Methane (CH4) Level,ppb,ch4_conc
+2003,1792.2335257768173,Methane (CH4) Level,ppb,ch4_conc
+2004,1810.619990449919,Methane (CH4) Level,ppb,ch4_conc
+2005,1818.625602382324,Methane (CH4) Level,ppb,ch4_conc
+2006,1793.2156495355473,Methane (CH4) Level,ppb,ch4_conc
+2007,1813.8157524829758,Methane (CH4) Level,ppb,ch4_conc
+2008,1836.6252686280714,Methane (CH4) Level,ppb,ch4_conc
+2009,1859.5109025424472,Methane (CH4) Level,ppb,ch4_conc
+2010,1840.4165152430942,Methane (CH4) Level,ppb,ch4_conc
+2011,1856.2868204667236,Methane (CH4) Level,ppb,ch4_conc
+2012,1847.8733005198794,Methane (CH4) Level,ppb,ch4_conc
+2013,1856.0758675183865,Methane (CH4) Level,ppb,ch4_conc
+2014,1906.250516447884,Methane (CH4) Level,ppb,ch4_conc
+2015,1927.1248005714165,Methane (CH4) Level,ppb,ch4_conc
+2016,1908.5597975683934,Methane (CH4) Level,ppb,ch4_conc
+2017,1940.0706579578405,Methane (CH4) Level,ppb,ch4_conc
+2018,1937.2327205009526,Methane (CH4) Level,ppb,ch4_conc
+2019,1927.0976049078974,Methane (CH4) Level,ppb,ch4_conc
+2020,1957.2279121101683,Methane (CH4) Level,ppb,ch4_conc
+2021,1990.7607313293195,Methane (CH4) Level,ppb,ch4_conc
+2022,1969.283479217801,Methane (CH4) Level,ppb,ch4_conc
+2023,2011.2928731162801,Methane (CH4) Level,ppb,ch4_conc
+2024,1937.605097918205,Methane (CH4) Level,ppb,ch4_conc
+2000,316.3150440070004,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2001,315.9392753091811,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2002,316.1215882392546,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2003,317.54681724245677,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2004,315.01988973663856,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2005,318.64852497946,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2006,320.3713801144188,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2007,322.9646304715865,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2008,320.57076765076215,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2009,320.9064102353709,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2010,322.1971887302647,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2011,325.26464338832335,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2012,325.1260017754555,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2013,324.5523836739727,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2014,327.02122789298136,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2015,327.1553240789569,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2016,329.34983198485264,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2017,327.47671504979627,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2018,328.87574056544355,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2019,329.57262695498855,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2020,328.65837608298864,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2021,332.2737924433033,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2022,333.01768843548786,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2023,333.4081815306279,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2024,333.82466058659975,Nitrous Oxide (N2O) Level,ppb,n2o_conc
+2000,29.433851703179833,Tropospheric Ozone,DU,ozone_trop
+2001,30.031741870893857,Tropospheric Ozone,DU,ozone_trop
+2002,30.262914193389292,Tropospheric Ozone,DU,ozone_trop
+2003,30.279089092311352,Tropospheric Ozone,DU,ozone_trop
+2004,30.735485715333596,Tropospheric Ozone,DU,ozone_trop
+2005,31.161620342725815,Tropospheric Ozone,DU,ozone_trop
+2006,31.954474360484213,Tropospheric Ozone,DU,ozone_trop
+2007,31.469831125132735,Tropospheric Ozone,DU,ozone_trop
+2008,31.703020156289107,Tropospheric Ozone,DU,ozone_trop
+2009,31.770221633693534,Tropospheric Ozone,DU,ozone_trop
+2010,31.232491513880383,Tropospheric Ozone,DU,ozone_trop
+2011,32.18939444982031,Tropospheric Ozone,DU,ozone_trop
+2012,32.42409208397641,Tropospheric Ozone,DU,ozone_trop
+2013,33.58529684499412,Tropospheric Ozone,DU,ozone_trop
+2014,32.72305561408755,Tropospheric Ozone,DU,ozone_trop
+2015,33.12061893693345,Tropospheric Ozone,DU,ozone_trop
+2016,33.186115292117904,Tropospheric Ozone,DU,ozone_trop
+2017,32.93252878495218,Tropospheric Ozone,DU,ozone_trop
+2018,34.05712912580601,Tropospheric Ozone,DU,ozone_trop
+2019,34.10077321307471,Tropospheric Ozone,DU,ozone_trop
+2020,34.31641277881722,Tropospheric Ozone,DU,ozone_trop
+2021,33.83624501808211,Tropospheric Ozone,DU,ozone_trop
+2022,34.96111772437444,Tropospheric Ozone,DU,ozone_trop
+2023,34.03925957488309,Tropospheric Ozone,DU,ozone_trop
+2024,35.034742837520106,Tropospheric Ozone,DU,ozone_trop
+2000,3.5438091125161995,Stratospheric Water Vapor,ppmv,h2o_strat
+2001,3.490189273497386,Stratospheric Water Vapor,ppmv,h2o_strat
+2002,3.5086740454079446,Stratospheric Water Vapor,ppmv,h2o_strat
+2003,3.531993027301753,Stratospheric Water Vapor,ppmv,h2o_strat
+2004,3.529930486917676,Stratospheric Water Vapor,ppmv,h2o_strat
+2005,3.518986731378677,Stratospheric Water Vapor,ppmv,h2o_strat
+2006,3.5613712594961204,Stratospheric Water Vapor,ppmv,h2o_strat
+2007,3.5487539257254777,Stratospheric Water Vapor,ppmv,h2o_strat
+2008,3.5894718486127037,Stratospheric Water Vapor,ppmv,h2o_strat
+2009,3.5716115153153236,Stratospheric Water Vapor,ppmv,h2o_strat
+2010,3.630998688100351,Stratospheric Water Vapor,ppmv,h2o_strat
+2011,3.594334934153275,Stratospheric Water Vapor,ppmv,h2o_strat
+2012,3.6135587696758864,Stratospheric Water Vapor,ppmv,h2o_strat
+2013,3.646270344347393,Stratospheric Water Vapor,ppmv,h2o_strat
+2014,3.615382713671321,Stratospheric Water Vapor,ppmv,h2o_strat
+2015,3.6545491986920826,Stratospheric Water Vapor,ppmv,h2o_strat
+2016,3.6861428550856488,Stratospheric Water Vapor,ppmv,h2o_strat
+2017,3.637850335308775,Stratospheric Water Vapor,ppmv,h2o_strat
+2018,3.6836926771706464,Stratospheric Water Vapor,ppmv,h2o_strat
+2019,3.6951976558849684,Stratospheric Water Vapor,ppmv,h2o_strat
+2020,3.7156364574355463,Stratospheric Water Vapor,ppmv,h2o_strat
+2021,3.6852609857824383,Stratospheric Water Vapor,ppmv,h2o_strat
+2022,3.6935908677383145,Stratospheric Water Vapor,ppmv,h2o_strat
+2023,3.740438831312338,Stratospheric Water Vapor,ppmv,h2o_strat
+2024,3.745939693464664,Stratospheric Water Vapor,ppmv,h2o_strat
+2000,0.10050098570069176,Aerosol Optical Depth,index,aerosol_opt
+2001,0.10169289641899396,Aerosol Optical Depth,index,aerosol_opt
+2002,0.10063995055684302,Aerosol Optical Depth,index,aerosol_opt
+2003,0.10346450739432202,Aerosol Optical Depth,index,aerosol_opt
+2004,0.10458614494659738,Aerosol Optical Depth,index,aerosol_opt
+2005,0.10357129716394728,Aerosol Optical Depth,index,aerosol_opt
+2006,0.10973154902228953,Aerosol Optical Depth,index,aerosol_opt
+2007,0.10794766584182358,Aerosol Optical Depth,index,aerosol_opt
+2008,0.10561739300559471,Aerosol Optical Depth,index,aerosol_opt
+2009,0.11031310721726767,Aerosol Optical Depth,index,aerosol_opt
+2010,0.10805063665954535,Aerosol Optical Depth,index,aerosol_opt
+2011,0.1125741692074849,Aerosol Optical Depth,index,aerosol_opt
+2012,0.11431719115801481,Aerosol Optical Depth,index,aerosol_opt
+2013,0.11135863536329658,Aerosol Optical Depth,index,aerosol_opt
+2014,0.11592675225848864,Aerosol Optical Depth,index,aerosol_opt
+2015,0.11582556185387301,Aerosol Optical Depth,index,aerosol_opt
+2016,0.11764412031998898,Aerosol Optical Depth,index,aerosol_opt
+2017,0.1207935859653079,Aerosol Optical Depth,index,aerosol_opt
+2018,0.11750922376799426,Aerosol Optical Depth,index,aerosol_opt
+2019,0.11749252767128503,Aerosol Optical Depth,index,aerosol_opt
+2020,0.11822097114074896,Aerosol Optical Depth,index,aerosol_opt
+2021,0.11936837943006913,Aerosol Optical Depth,index,aerosol_opt
+2022,0.12184579658117178,Aerosol Optical Depth,index,aerosol_opt
+2023,0.12368230394963328,Aerosol Optical Depth,index,aerosol_opt
+2024,0.12455338159866004,Aerosol Optical Depth,index,aerosol_opt
+2000,65.1654366498072,Cloud Fraction,%,cloud_fraction
+2001,64.90260037837558,Cloud Fraction,%,cloud_fraction
+2002,65.09070681543146,Cloud Fraction,%,cloud_fraction
+2003,64.64706863335242,Cloud Fraction,%,cloud_fraction
+2004,65.14403383331792,Cloud Fraction,%,cloud_fraction
+2005,64.625133469553,Cloud Fraction,%,cloud_fraction
+2006,64.22856848871675,Cloud Fraction,%,cloud_fraction
+2007,64.08582150038778,Cloud Fraction,%,cloud_fraction
+2008,64.29649448304863,Cloud Fraction,%,cloud_fraction
+2009,64.05530744293482,Cloud Fraction,%,cloud_fraction
+2010,64.14280009881841,Cloud Fraction,%,cloud_fraction
+2011,63.994647524914704,Cloud Fraction,%,cloud_fraction
+2012,63.78543421746862,Cloud Fraction,%,cloud_fraction
+2013,63.530641256386325,Cloud Fraction,%,cloud_fraction
+2014,63.297030555062825,Cloud Fraction,%,cloud_fraction
+2015,63.4106970095866,Cloud Fraction,%,cloud_fraction
+2016,63.57127975886469,Cloud Fraction,%,cloud_fraction
+2017,63.34281874882604,Cloud Fraction,%,cloud_fraction
+2018,62.950852244257604,Cloud Fraction,%,cloud_fraction
+2019,63.13463618517024,Cloud Fraction,%,cloud_fraction
+2020,63.07706347594577,Cloud Fraction,%,cloud_fraction
+2021,62.723228512759775,Cloud Fraction,%,cloud_fraction
+2022,62.8307450211891,Cloud Fraction,%,cloud_fraction
+2023,62.7116417436892,Cloud Fraction,%,cloud_fraction
+2024,62.371405940433874,Cloud Fraction,%,cloud_fraction
+2000,2.5143114944139313,Precipitation Intensity,mm/day,precip_intensity
+2001,2.542431381054729,Precipitation Intensity,mm/day,precip_intensity
+2002,2.5833220497270113,Precipitation Intensity,mm/day,precip_intensity
+2003,2.602152082081396,Precipitation Intensity,mm/day,precip_intensity
+2004,2.5248932252817164,Precipitation Intensity,mm/day,precip_intensity
+2005,2.5624869984033953,Precipitation Intensity,mm/day,precip_intensity
+2006,2.6406014106883466,Precipitation Intensity,mm/day,precip_intensity
+2007,2.6605514380364883,Precipitation Intensity,mm/day,precip_intensity
+2008,2.680601907452242,Precipitation Intensity,mm/day,precip_intensity
+2009,2.834109259626189,Precipitation Intensity,mm/day,precip_intensity
+2010,2.722835620427727,Precipitation Intensity,mm/day,precip_intensity
+2011,2.7654226256072243,Precipitation Intensity,mm/day,precip_intensity
+2012,2.7781600705397285,Precipitation Intensity,mm/day,precip_intensity
+2013,2.7860556500522318,Precipitation Intensity,mm/day,precip_intensity
+2014,2.7673892302143863,Precipitation Intensity,mm/day,precip_intensity
+2015,2.8303587688197305,Precipitation Intensity,mm/day,precip_intensity
+2016,2.789086991418497,Precipitation Intensity,mm/day,precip_intensity
+2017,2.8305272557303995,Precipitation Intensity,mm/day,precip_intensity
+2018,2.840585458086836,Precipitation Intensity,mm/day,precip_intensity
+2019,2.8832749655754526,Precipitation Intensity,mm/day,precip_intensity
+2020,2.9925863426669403,Precipitation Intensity,mm/day,precip_intensity
+2021,2.84530939229633,Precipitation Intensity,mm/day,precip_intensity
+2022,2.9674504076149804,Precipitation Intensity,mm/day,precip_intensity
+2023,2.895491365152414,Precipitation Intensity,mm/day,precip_intensity
+2024,2.9611227253684227,Precipitation Intensity,mm/day,precip_intensity
+2000,70.10889505969674,Relative Humidity,%,humidity
+2001,69.95642800190954,Relative Humidity,%,humidity
+2002,69.79222552220708,Relative Humidity,%,humidity
+2003,69.778469629074,Relative Humidity,%,humidity
+2004,69.86795977489346,Relative Humidity,%,humidity
+2005,69.67696333682828,Relative Humidity,%,humidity
+2006,69.7216458589582,Relative Humidity,%,humidity
+2007,69.65455718399039,Relative Humidity,%,humidity
+2008,69.53483996523941,Relative Humidity,%,humidity
+2009,69.76439440893253,Relative Humidity,%,humidity
+2010,69.5633919022318,Relative Humidity,%,humidity
+2011,69.24748574133424,Relative Humidity,%,humidity
+2012,69.41864543147695,Relative Humidity,%,humidity
+2013,69.28382135352315,Relative Humidity,%,humidity
+2014,69.38524333347962,Relative Humidity,%,humidity
+2015,69.17074792615674,Relative Humidity,%,humidity
+2016,69.18852635585331,Relative Humidity,%,humidity
+2017,69.20049872789805,Relative Humidity,%,humidity
+2018,69.186575519417,Relative Humidity,%,humidity
+2019,68.92997035929442,Relative Humidity,%,humidity
+2020,68.96654987641591,Relative Humidity,%,humidity
+2021,68.9025054688839,Relative Humidity,%,humidity
+2022,68.83466707674263,Relative Humidity,%,humidity
+2023,69.0265454240281,Relative Humidity,%,humidity
+2024,68.84049817109609,Relative Humidity,%,humidity
+2000,7.474782320913299,Average Wind Speed,m/s,wind_speed
+2001,7.5083572389410955,Average Wind Speed,m/s,wind_speed
+2002,7.522443123940253,Average Wind Speed,m/s,wind_speed
+2003,7.490649305211023,Average Wind Speed,m/s,wind_speed
+2004,7.42961260068092,Average Wind Speed,m/s,wind_speed
+2005,7.440315318542675,Average Wind Speed,m/s,wind_speed
+2006,7.465338222983733,Average Wind Speed,m/s,wind_speed
+2007,7.415846610687624,Average Wind Speed,m/s,wind_speed
+2008,7.428876388562925,Average Wind Speed,m/s,wind_speed
+2009,7.425492681068587,Average Wind Speed,m/s,wind_speed
+2010,7.381461390568439,Average Wind Speed,m/s,wind_speed
+2011,7.388809492878764,Average Wind Speed,m/s,wind_speed
+2012,7.315174653198619,Average Wind Speed,m/s,wind_speed
+2013,7.3495122471733145,Average Wind Speed,m/s,wind_speed
+2014,7.3549486369721375,Average Wind Speed,m/s,wind_speed
+2015,7.325044336360703,Average Wind Speed,m/s,wind_speed
+2016,7.372648226078632,Average Wind Speed,m/s,wind_speed
+2017,7.301397172440788,Average Wind Speed,m/s,wind_speed
+2018,7.3111991102660605,Average Wind Speed,m/s,wind_speed
+2019,7.312614811545721,Average Wind Speed,m/s,wind_speed
+2020,7.328825465781322,Average Wind Speed,m/s,wind_speed
+2021,7.261282756976411,Average Wind Speed,m/s,wind_speed
+2022,7.3032632750431,Average Wind Speed,m/s,wind_speed
+2023,7.270204661220391,Average Wind Speed,m/s,wind_speed
+2024,7.240369826979041,Average Wind Speed,m/s,wind_speed
+2000,1361.0092420694853,Solar Irradiance,W/m2,solar_irrad
+2001,1360.9939811939114,Solar Irradiance,W/m2,solar_irrad
+2002,1360.9679956624568,Solar Irradiance,W/m2,solar_irrad
+2003,1360.9713960416998,Solar Irradiance,W/m2,solar_irrad
+2004,1360.9522937280628,Solar Irradiance,W/m2,solar_irrad
+2005,1360.9522703469052,Solar Irradiance,W/m2,solar_irrad
+2006,1360.9532426134904,Solar Irradiance,W/m2,solar_irrad
+2007,1360.961720336323,Solar Irradiance,W/m2,solar_irrad
+2008,1360.8952436900236,Solar Irradiance,W/m2,solar_irrad
+2009,1360.9526606674933,Solar Irradiance,W/m2,solar_irrad
+2010,1360.8609582440097,Solar Irradiance,W/m2,solar_irrad
+2011,1360.8869642980994,Solar Irradiance,W/m2,solar_irrad
+2012,1360.8917663441298,Solar Irradiance,W/m2,solar_irrad
+2013,1360.8756198373546,Solar Irradiance,W/m2,solar_irrad
+2014,1360.8475460096035,Solar Irradiance,W/m2,solar_irrad
+2015,1360.8458375549928,Solar Irradiance,W/m2,solar_irrad
+2016,1360.8301399813067,Solar Irradiance,W/m2,solar_irrad
+2017,1360.818212704861,Solar Irradiance,W/m2,solar_irrad
+2018,1360.8369920419404,Solar Irradiance,W/m2,solar_irrad
+2019,1360.8171403097192,Solar Irradiance,W/m2,solar_irrad
+2020,1360.7861418080947,Solar Irradiance,W/m2,solar_irrad
+2021,1360.8079919975087,Solar Irradiance,W/m2,solar_irrad
+2022,1360.7861459904175,Solar Irradiance,W/m2,solar_irrad
+2023,1360.7862572423767,Solar Irradiance,W/m2,solar_irrad
+2024,1360.7725925768384,Solar Irradiance,W/m2,solar_irrad
+2000,4.834200997815586,Lightning Frequency,flashes/km2,lightning_freq
+2001,4.987963791960606,Lightning Frequency,flashes/km2,lightning_freq
+2002,5.349458721024653,Lightning Frequency,flashes/km2,lightning_freq
+2003,5.422074053086693,Lightning Frequency,flashes/km2,lightning_freq
+2004,5.395819681207171,Lightning Frequency,flashes/km2,lightning_freq
+2005,5.523465476661756,Lightning Frequency,flashes/km2,lightning_freq
+2006,5.855532979157685,Lightning Frequency,flashes/km2,lightning_freq
+2007,5.581685722232834,Lightning Frequency,flashes/km2,lightning_freq
+2008,5.9094194762340075,Lightning Frequency,flashes/km2,lightning_freq
+2009,5.859561469513221,Lightning Frequency,flashes/km2,lightning_freq
+2010,5.9564637593545555,Lightning Frequency,flashes/km2,lightning_freq
+2011,6.319755370397438,Lightning Frequency,flashes/km2,lightning_freq
+2012,6.365083269797606,Lightning Frequency,flashes/km2,lightning_freq
+2013,6.462701927200127,Lightning Frequency,flashes/km2,lightning_freq
+2014,6.661095761430866,Lightning Frequency,flashes/km2,lightning_freq
+2015,6.504200768326552,Lightning Frequency,flashes/km2,lightning_freq
+2016,6.736390594258992,Lightning Frequency,flashes/km2,lightning_freq
+2017,6.637946648681309,Lightning Frequency,flashes/km2,lightning_freq
+2018,6.864833270497688,Lightning Frequency,flashes/km2,lightning_freq
+2019,6.8739713891264635,Lightning Frequency,flashes/km2,lightning_freq
+2020,7.019399192998543,Lightning Frequency,flashes/km2,lightning_freq
+2021,7.2190314050873825,Lightning Frequency,flashes/km2,lightning_freq
+2022,7.036355863353306,Lightning Frequency,flashes/km2,lightning_freq
+2023,7.7184774551370925,Lightning Frequency,flashes/km2,lightning_freq
+2024,7.19879652370006,Lightning Frequency,flashes/km2,lightning_freq
+2000,48.78581138721227,Air Quality Index (AQI),index,aqi_index
+2001,51.65811087350007,Air Quality Index (AQI),index,aqi_index
+2002,51.791662693962934,Air Quality Index (AQI),index,aqi_index
+2003,52.124119817052154,Air Quality Index (AQI),index,aqi_index
+2004,52.62834550926428,Air Quality Index (AQI),index,aqi_index
+2005,52.487753227153085,Air Quality Index (AQI),index,aqi_index
+2006,52.10274562851417,Air Quality Index (AQI),index,aqi_index
+2007,53.575804558193724,Air Quality Index (AQI),index,aqi_index
+2008,53.32283828848789,Air Quality Index (AQI),index,aqi_index
+2009,55.47511973341775,Air Quality Index (AQI),index,aqi_index
+2010,54.85294261849786,Air Quality Index (AQI),index,aqi_index
+2011,54.67450280320749,Air Quality Index (AQI),index,aqi_index
+2012,55.67861415834701,Air Quality Index (AQI),index,aqi_index
+2013,56.91293145427562,Air Quality Index (AQI),index,aqi_index
+2014,56.436275447196024,Air Quality Index (AQI),index,aqi_index
+2015,56.67777960443357,Air Quality Index (AQI),index,aqi_index
+2016,58.24368721149191,Air Quality Index (AQI),index,aqi_index
+2017,58.74496657110872,Air Quality Index (AQI),index,aqi_index
+2018,58.49305682462887,Air Quality Index (AQI),index,aqi_index
+2019,59.02896169438168,Air Quality Index (AQI),index,aqi_index
+2020,60.23204993735764,Air Quality Index (AQI),index,aqi_index
+2021,59.05191565850268,Air Quality Index (AQI),index,aqi_index
+2022,59.59253622562345,Air Quality Index (AQI),index,aqi_index
+2023,60.78155577874757,Air Quality Index (AQI),index,aqi_index
+2024,61.78655284828815,Air Quality Index (AQI),index,aqi_index
+2000,5.01243630262392,UV Index Anomaly,index,uv_index
+2001,5.079014248677981,UV Index Anomaly,index,uv_index
+2002,5.0743063849280805,UV Index Anomaly,index,uv_index
+2003,5.053602458801462,UV Index Anomaly,index,uv_index
+2004,5.079239351683893,UV Index Anomaly,index,uv_index
+2005,5.059898825414487,UV Index Anomaly,index,uv_index
+2006,5.119259474560304,UV Index Anomaly,index,uv_index
+2007,5.128453654443194,UV Index Anomaly,index,uv_index
+2008,5.172908742413524,UV Index Anomaly,index,uv_index
+2009,5.146910762257907,UV Index Anomaly,index,uv_index
+2010,5.220773860569647,UV Index Anomaly,index,uv_index
+2011,5.281309556520103,UV Index Anomaly,index,uv_index
+2012,5.235649594061726,UV Index Anomaly,index,uv_index
+2013,5.276068468883958,UV Index Anomaly,index,uv_index
+2014,5.307605759668445,UV Index Anomaly,index,uv_index
+2015,5.283951181124566,UV Index Anomaly,index,uv_index
+2016,5.328963699272417,UV Index Anomaly,index,uv_index
+2017,5.340503696031272,UV Index Anomaly,index,uv_index
+2018,5.363907043941953,UV Index Anomaly,index,uv_index
+2019,5.3490796086457815,UV Index Anomaly,index,uv_index
+2020,5.400980406970358,UV Index Anomaly,index,uv_index
+2021,5.439919931649818,UV Index Anomaly,index,uv_index
+2022,5.498045744311802,UV Index Anomaly,index,uv_index
+2023,5.498370833043408,UV Index Anomaly,index,uv_index
+2024,5.566127298300462,UV Index Anomaly,index,uv_index
+2000,1012.9846530487422,Pressure Anomaly,hPa,pressure_anom
+2001,1013.0074464127345,Pressure Anomaly,hPa,pressure_anom
+2002,1012.9836668401148,Pressure Anomaly,hPa,pressure_anom
+2003,1013.0137960586644,Pressure Anomaly,hPa,pressure_anom
+2004,1012.9438340342929,Pressure Anomaly,hPa,pressure_anom
+2005,1012.9332055631564,Pressure Anomaly,hPa,pressure_anom
+2006,1012.9280121470912,Pressure Anomaly,hPa,pressure_anom
+2007,1012.8875220855138,Pressure Anomaly,hPa,pressure_anom
+2008,1012.9094848995663,Pressure Anomaly,hPa,pressure_anom
+2009,1012.894817346769,Pressure Anomaly,hPa,pressure_anom
+2010,1012.9030078757295,Pressure Anomaly,hPa,pressure_anom
+2011,1012.8968351195156,Pressure Anomaly,hPa,pressure_anom
+2012,1012.9175234167843,Pressure Anomaly,hPa,pressure_anom
+2013,1012.8890084767637,Pressure Anomaly,hPa,pressure_anom
+2014,1012.8484619268868,Pressure Anomaly,hPa,pressure_anom
+2015,1012.832031706573,Pressure Anomaly,hPa,pressure_anom
+2016,1012.8498383834302,Pressure Anomaly,hPa,pressure_anom
+2017,1012.8035953358597,Pressure Anomaly,hPa,pressure_anom
+2018,1012.8566291753172,Pressure Anomaly,hPa,pressure_anom
+2019,1012.8335888024144,Pressure Anomaly,hPa,pressure_anom
+2020,1012.7906164869579,Pressure Anomaly,hPa,pressure_anom
+2021,1012.7557373094181,Pressure Anomaly,hPa,pressure_anom
+2022,1012.8070774474833,Pressure Anomaly,hPa,pressure_anom
+2023,1012.7677092030949,Pressure Anomaly,hPa,pressure_anom
+2024,1012.7847563262395,Pressure Anomaly,hPa,pressure_anom
+2000,17.87244578729645,Sea Surface Temperature,C,sst_anom
+2001,17.992049998163697,Sea Surface Temperature,C,sst_anom
+2002,18.080419495977452,Sea Surface Temperature,C,sst_anom
+2003,18.12375844750118,Sea Surface Temperature,C,sst_anom
+2004,18.12399476228166,Sea Surface Temperature,C,sst_anom
+2005,18.2498279945878,Sea Surface Temperature,C,sst_anom
+2006,18.15459036564939,Sea Surface Temperature,C,sst_anom
+2007,18.268609641198296,Sea Surface Temperature,C,sst_anom
+2008,18.329623650536952,Sea Surface Temperature,C,sst_anom
+2009,18.401155106724698,Sea Surface Temperature,C,sst_anom
+2010,18.45692919024711,Sea Surface Temperature,C,sst_anom
+2011,18.350028632652972,Sea Surface Temperature,C,sst_anom
+2012,18.35727086634115,Sea Surface Temperature,C,sst_anom
+2013,18.62221414575188,Sea Surface Temperature,C,sst_anom
+2014,18.586585120958365,Sea Surface Temperature,C,sst_anom
+2015,18.540121077075476,Sea Surface Temperature,C,sst_anom
+2016,18.7640921580418,Sea Surface Temperature,C,sst_anom
+2017,18.68925397074343,Sea Surface Temperature,C,sst_anom
+2018,18.814343774725106,Sea Surface Temperature,C,sst_anom
+2019,18.76540147851281,Sea Surface Temperature,C,sst_anom
+2020,18.96485983399056,Sea Surface Temperature,C,sst_anom
+2021,18.980427267395456,Sea Surface Temperature,C,sst_anom
+2022,18.860082868121673,Sea Surface Temperature,C,sst_anom
+2023,18.99772567607635,Sea Surface Temperature,C,sst_anom
+2024,19.011630075966814,Sea Surface Temperature,C,sst_anom
+2000,27.372631150646974,Ocean Heat Content,ZJ,ocean_heat
+2001,-9.29846921160209,Ocean Heat Content,ZJ,ocean_heat
+2002,33.72102919996878,Ocean Heat Content,ZJ,ocean_heat
+2003,51.16848973699176,Ocean Heat Content,ZJ,ocean_heat
+2004,4.825210271537713,Ocean Heat Content,ZJ,ocean_heat
+2005,26.3348297466845,Ocean Heat Content,ZJ,ocean_heat
+2006,19.21535644479799,Ocean Heat Content,ZJ,ocean_heat
+2007,64.61186331110885,Ocean Heat Content,ZJ,ocean_heat
+2008,94.35084511591924,Ocean Heat Content,ZJ,ocean_heat
+2009,120.04714104192055,Ocean Heat Content,ZJ,ocean_heat
+2010,101.4818956083955,Ocean Heat Content,ZJ,ocean_heat
+2011,142.57231091142583,Ocean Heat Content,ZJ,ocean_heat
+2012,92.39797083570217,Ocean Heat Content,ZJ,ocean_heat
+2013,95.9323512128969,Ocean Heat Content,ZJ,ocean_heat
+2014,138.88904602206762,Ocean Heat Content,ZJ,ocean_heat
+2015,157.68130897878615,Ocean Heat Content,ZJ,ocean_heat
+2016,159.34610503811814,Ocean Heat Content,ZJ,ocean_heat
+2017,128.65115799920247,Ocean Heat Content,ZJ,ocean_heat
+2018,178.21759920974424,Ocean Heat Content,ZJ,ocean_heat
+2019,163.91060998990292,Ocean Heat Content,ZJ,ocean_heat
+2020,213.39345097660077,Ocean Heat Content,ZJ,ocean_heat
+2021,217.33196492193696,Ocean Heat Content,ZJ,ocean_heat
+2022,201.20240427345288,Ocean Heat Content,ZJ,ocean_heat
+2023,219.72266165326613,Ocean Heat Content,ZJ,ocean_heat
+2024,218.81572956222098,Ocean Heat Content,ZJ,ocean_heat
+2000,-0.42621786145756874,Sea Level Rise,mm,sea_level
+2001,9.89496777940842,Sea Level Rise,mm,sea_level
+2002,0.0970628849183024,Sea Level Rise,mm,sea_level
+2003,13.627516305521342,Sea Level Rise,mm,sea_level
+2004,9.994248195067403,Sea Level Rise,mm,sea_level
+2005,11.60846474061606,Sea Level Rise,mm,sea_level
+2006,19.672193552309004,Sea Level Rise,mm,sea_level
+2007,16.76035220754826,Sea Level Rise,mm,sea_level
+2008,23.43518472363916,Sea Level Rise,mm,sea_level
+2009,22.45443033039583,Sea Level Rise,mm,sea_level
+2010,47.36013090383145,Sea Level Rise,mm,sea_level
+2011,37.639792153407754,Sea Level Rise,mm,sea_level
+2012,36.041866545650414,Sea Level Rise,mm,sea_level
+2013,45.65506339299271,Sea Level Rise,mm,sea_level
+2014,46.83616926210236,Sea Level Rise,mm,sea_level
+2015,49.49740672317408,Sea Level Rise,mm,sea_level
+2016,58.57633356029529,Sea Level Rise,mm,sea_level
+2017,62.951052428321674,Sea Level Rise,mm,sea_level
+2018,57.59259219624841,Sea Level Rise,mm,sea_level
+2019,60.68443596361617,Sea Level Rise,mm,sea_level
+2020,66.12964845936882,Sea Level Rise,mm,sea_level
+2021,55.74693607979802,Sea Level Rise,mm,sea_level
+2022,64.49670077704984,Sea Level Rise,mm,sea_level
+2023,87.49474501862277,Sea Level Rise,mm,sea_level
+2024,92.78578045180872,Sea Level Rise,mm,sea_level
+2000,8.109003855841774,Ocean Acidification (pH),pH,ocean_ph
+2001,8.110306227852222,Ocean Acidification (pH),pH,ocean_ph
+2002,8.107245000618175,Ocean Acidification (pH),pH,ocean_ph
+2003,8.11631552323382,Ocean Acidification (pH),pH,ocean_ph
+2004,8.106478299645739,Ocean Acidification (pH),pH,ocean_ph
+2005,8.099488329634077,Ocean Acidification (pH),pH,ocean_ph
+2006,8.094177838237597,Ocean Acidification (pH),pH,ocean_ph
+2007,8.08957421471897,Ocean Acidification (pH),pH,ocean_ph
+2008,8.09481385454347,Ocean Acidification (pH),pH,ocean_ph
+2009,8.088974597018861,Ocean Acidification (pH),pH,ocean_ph
+2010,8.08431098516161,Ocean Acidification (pH),pH,ocean_ph
+2011,8.08541370846303,Ocean Acidification (pH),pH,ocean_ph
+2012,8.081673807985542,Ocean Acidification (pH),pH,ocean_ph
+2013,8.09074856654029,Ocean Acidification (pH),pH,ocean_ph
+2014,8.085526559027796,Ocean Acidification (pH),pH,ocean_ph
+2015,8.079968109434734,Ocean Acidification (pH),pH,ocean_ph
+2016,8.08391977655556,Ocean Acidification (pH),pH,ocean_ph
+2017,8.07630947323059,Ocean Acidification (pH),pH,ocean_ph
+2018,8.070554863194687,Ocean Acidification (pH),pH,ocean_ph
+2019,8.078092496309077,Ocean Acidification (pH),pH,ocean_ph
+2020,8.072155640174739,Ocean Acidification (pH),pH,ocean_ph
+2021,8.063851015382694,Ocean Acidification (pH),pH,ocean_ph
+2022,8.065238645287664,Ocean Acidification (pH),pH,ocean_ph
+2023,8.060497526986461,Ocean Acidification (pH),pH,ocean_ph
+2024,8.056468801076141,Ocean Acidification (pH),pH,ocean_ph
+2000,35.00185235509506,Ocean Salinity,psu,salinity
+2001,35.00281883328094,Ocean Salinity,psu,salinity
+2002,34.99520286485236,Ocean Salinity,psu,salinity
+2003,34.99812593847338,Ocean Salinity,psu,salinity
+2004,34.994698714861755,Ocean Salinity,psu,salinity
+2005,34.99402574923247,Ocean Salinity,psu,salinity
+2006,34.99281521215152,Ocean Salinity,psu,salinity
+2007,34.99127201846064,Ocean Salinity,psu,salinity
+2008,34.99209704325589,Ocean Salinity,psu,salinity
+2009,34.989338099767174,Ocean Salinity,psu,salinity
+2010,34.990540913651564,Ocean Salinity,psu,salinity
+2011,34.9888995237811,Ocean Salinity,psu,salinity
+2012,34.987522103906265,Ocean Salinity,psu,salinity
+2013,34.985184872675916,Ocean Salinity,psu,salinity
+2014,34.98484645733886,Ocean Salinity,psu,salinity
+2015,34.98651078245165,Ocean Salinity,psu,salinity
+2016,34.985001834375254,Ocean Salinity,psu,salinity
+2017,34.9810448895104,Ocean Salinity,psu,salinity
+2018,34.982198664610856,Ocean Salinity,psu,salinity
+2019,34.98250277424675,Ocean Salinity,psu,salinity
+2020,34.976661189437756,Ocean Salinity,psu,salinity
+2021,34.98008672038476,Ocean Salinity,psu,salinity
+2022,34.97667475248211,Ocean Salinity,psu,salinity
+2023,34.97814119733718,Ocean Salinity,psu,salinity
+2024,34.974473481686914,Ocean Salinity,psu,salinity
+2000,2.780471597341924,Marine Heatwaves,days/year,marine_heatwaves
+2001,5.489830248467349,Marine Heatwaves,days/year,marine_heatwaves
+2002,14.192339786645528,Marine Heatwaves,days/year,marine_heatwaves
+2003,17.03889000688593,Marine Heatwaves,days/year,marine_heatwaves
+2004,14.382733499582365,Marine Heatwaves,days/year,marine_heatwaves
+2005,22.554369835109497,Marine Heatwaves,days/year,marine_heatwaves
+2006,15.35391975092416,Marine Heatwaves,days/year,marine_heatwaves
+2007,23.735680805410734,Marine Heatwaves,days/year,marine_heatwaves
+2008,21.155935200950175,Marine Heatwaves,days/year,marine_heatwaves
+2009,25.392655568791362,Marine Heatwaves,days/year,marine_heatwaves
+2010,30.189594685265657,Marine Heatwaves,days/year,marine_heatwaves
+2011,28.55834653886419,Marine Heatwaves,days/year,marine_heatwaves
+2012,32.4617778230807,Marine Heatwaves,days/year,marine_heatwaves
+2013,40.02517123685776,Marine Heatwaves,days/year,marine_heatwaves
+2014,35.692432521907406,Marine Heatwaves,days/year,marine_heatwaves
+2015,43.342768448260564,Marine Heatwaves,days/year,marine_heatwaves
+2016,37.48117258136953,Marine Heatwaves,days/year,marine_heatwaves
+2017,46.11921671166113,Marine Heatwaves,days/year,marine_heatwaves
+2018,51.7662744826316,Marine Heatwaves,days/year,marine_heatwaves
+2019,38.11342199949084,Marine Heatwaves,days/year,marine_heatwaves
+2020,46.812418978118096,Marine Heatwaves,days/year,marine_heatwaves
+2021,54.30828850872216,Marine Heatwaves,days/year,marine_heatwaves
+2022,53.18781845582803,Marine Heatwaves,days/year,marine_heatwaves
+2023,57.48458349348523,Marine Heatwaves,days/year,marine_heatwaves
+2024,55.584059253136715,Marine Heatwaves,days/year,marine_heatwaves
+2000,12.00865897874729,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2001,11.934432276460791,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2002,12.01677820616598,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2003,11.875442084330121,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2004,11.833760266207522,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2005,11.708812303387754,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2006,11.65123937759275,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2007,11.606744181218039,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2008,11.63944521423783,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2009,11.507901551917975,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2010,11.52897748568964,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2011,11.657540079864543,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2012,11.48711247034317,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2013,11.317397646783215,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2014,11.420121392216394,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2015,11.209192462697844,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2016,10.996187546482213,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2017,11.04919136890826,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2018,10.912920807897414,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2019,11.01484865159587,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2020,11.001841837918954,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2021,11.117643731227528,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2022,10.932692737376417,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2023,10.828089947119114,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2024,10.88294055811835,Sea Ice Extent (Arctic),million km2,sea_ice_arctic
+2000,10.955777293819843,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2001,10.994712291162172,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2002,10.99541730387774,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2003,10.940428275084404,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2004,10.98287508086414,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2005,10.956769928149887,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2006,10.931694241721983,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2007,10.942655637322126,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2008,10.965413857156088,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2009,10.91363732510117,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2010,10.904964411726008,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2011,10.880812782009196,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2012,10.863003112610706,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2013,10.886606716330885,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2014,10.842878323481822,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2015,10.851431324744388,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2016,10.830446851064698,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2017,10.839579596514929,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2018,10.82667324210574,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2019,10.830750798885159,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2020,10.789799672022905,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2021,10.784602501294131,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2022,10.760424725684354,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2023,10.761114134798477,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2024,10.767546009860897,Sea Ice Extent (Antarctic),million km2,sea_ice_antarctic
+2000,0.20302795446658142,Phytoplankton Concentration,mg/m3,phytoplankton
+2001,0.1943113387032895,Phytoplankton Concentration,mg/m3,phytoplankton
+2002,0.19947842368042265,Phytoplankton Concentration,mg/m3,phytoplankton
+2003,0.1994225514352198,Phytoplankton Concentration,mg/m3,phytoplankton
+2004,0.1936537396128948,Phytoplankton Concentration,mg/m3,phytoplankton
+2005,0.19750718325023225,Phytoplankton Concentration,mg/m3,phytoplankton
+2006,0.18490484320358572,Phytoplankton Concentration,mg/m3,phytoplankton
+2007,0.18102138118675434,Phytoplankton Concentration,mg/m3,phytoplankton
+2008,0.1768851190043829,Phytoplankton Concentration,mg/m3,phytoplankton
+2009,0.18798417724595673,Phytoplankton Concentration,mg/m3,phytoplankton
+2010,0.18261746262541625,Phytoplankton Concentration,mg/m3,phytoplankton
+2011,0.1777776613163582,Phytoplankton Concentration,mg/m3,phytoplankton
+2012,0.1771198745052793,Phytoplankton Concentration,mg/m3,phytoplankton
+2013,0.16949804381080652,Phytoplankton Concentration,mg/m3,phytoplankton
+2014,0.18178300791846733,Phytoplankton Concentration,mg/m3,phytoplankton
+2015,0.1705168847279009,Phytoplankton Concentration,mg/m3,phytoplankton
+2016,0.1684375791784196,Phytoplankton Concentration,mg/m3,phytoplankton
+2017,0.16890306649559478,Phytoplankton Concentration,mg/m3,phytoplankton
+2018,0.16592403692694685,Phytoplankton Concentration,mg/m3,phytoplankton
+2019,0.16289553609711654,Phytoplankton Concentration,mg/m3,phytoplankton
+2020,0.15683810217821875,Phytoplankton Concentration,mg/m3,phytoplankton
+2021,0.159885873428544,Phytoplankton Concentration,mg/m3,phytoplankton
+2022,0.16352809798590015,Phytoplankton Concentration,mg/m3,phytoplankton
+2023,0.15938168018461993,Phytoplankton Concentration,mg/m3,phytoplankton
+2024,0.1583727465065576,Phytoplankton Concentration,mg/m3,phytoplankton
+2000,4.887843235688148,Coral Bleaching Events,count,coral_bleach
+2001,5.103951797414192,Coral Bleaching Events,count,coral_bleach
+2002,18.74213079900352,Coral Bleaching Events,count,coral_bleach
+2003,25.557249122886947,Coral Bleaching Events,count,coral_bleach
+2004,40.94191518470949,Coral Bleaching Events,count,coral_bleach
+2005,18.075353702851807,Coral Bleaching Events,count,coral_bleach
+2006,55.29550319460614,Coral Bleaching Events,count,coral_bleach
+2007,43.419921014210104,Coral Bleaching Events,count,coral_bleach
+2008,45.7311893005258,Coral Bleaching Events,count,coral_bleach
+2009,44.87895624739832,Coral Bleaching Events,count,coral_bleach
+2010,43.451433281342304,Coral Bleaching Events,count,coral_bleach
+2011,73.23170583961914,Coral Bleaching Events,count,coral_bleach
+2012,70.73317967188405,Coral Bleaching Events,count,coral_bleach
+2013,62.10039100258946,Coral Bleaching Events,count,coral_bleach
+2014,67.04921227936384,Coral Bleaching Events,count,coral_bleach
+2015,81.64215300709871,Coral Bleaching Events,count,coral_bleach
+2016,106.69021525289392,Coral Bleaching Events,count,coral_bleach
+2017,92.40408648636395,Coral Bleaching Events,count,coral_bleach
+2018,84.96857046881894,Coral Bleaching Events,count,coral_bleach
+2019,102.54256935914056,Coral Bleaching Events,count,coral_bleach
+2020,107.2727643025233,Coral Bleaching Events,count,coral_bleach
+2021,88.03113357058429,Coral Bleaching Events,count,coral_bleach
+2022,119.45705133482188,Coral Bleaching Events,count,coral_bleach
+2023,122.69065469791322,Coral Bleaching Events,count,coral_bleach
+2024,136.96206364813418,Coral Bleaching Events,count,coral_bleach
+2000,0.5036979121898907,Ocean Current Velocity,m/s,ocean_current
+2001,0.5012531300590956,Ocean Current Velocity,m/s,ocean_current
+2002,0.49746222261889034,Ocean Current Velocity,m/s,ocean_current
+2003,0.4947869481825167,Ocean Current Velocity,m/s,ocean_current
+2004,0.5011467196064997,Ocean Current Velocity,m/s,ocean_current
+2005,0.495118436868029,Ocean Current Velocity,m/s,ocean_current
+2006,0.49402785858382586,Ocean Current Velocity,m/s,ocean_current
+2007,0.49295174982578,Ocean Current Velocity,m/s,ocean_current
+2008,0.4923961695215357,Ocean Current Velocity,m/s,ocean_current
+2009,0.4907112791761521,Ocean Current Velocity,m/s,ocean_current
+2010,0.4888526759862395,Ocean Current Velocity,m/s,ocean_current
+2011,0.4879062821175192,Ocean Current Velocity,m/s,ocean_current
+2012,0.487934493459568,Ocean Current Velocity,m/s,ocean_current
+2013,0.4859131504577325,Ocean Current Velocity,m/s,ocean_current
+2014,0.48457430843464566,Ocean Current Velocity,m/s,ocean_current
+2015,0.48521286045538375,Ocean Current Velocity,m/s,ocean_current
+2016,0.4834900455651583,Ocean Current Velocity,m/s,ocean_current
+2017,0.4860079859771654,Ocean Current Velocity,m/s,ocean_current
+2018,0.47669806038321394,Ocean Current Velocity,m/s,ocean_current
+2019,0.4831830137038449,Ocean Current Velocity,m/s,ocean_current
+2020,0.48249217038499526,Ocean Current Velocity,m/s,ocean_current
+2021,0.47485321953518367,Ocean Current Velocity,m/s,ocean_current
+2022,0.4773146248118393,Ocean Current Velocity,m/s,ocean_current
+2023,0.4762571182680084,Ocean Current Velocity,m/s,ocean_current
+2024,0.47318497661056436,Ocean Current Velocity,m/s,ocean_current
+2000,199.68887332496365,Dissolved Oxygen,umol/kg,dissolved_o2
+2001,199.35576966181367,Dissolved Oxygen,umol/kg,dissolved_o2
+2002,200.30090817736945,Dissolved Oxygen,umol/kg,dissolved_o2
+2003,199.77427135725898,Dissolved Oxygen,umol/kg,dissolved_o2
+2004,199.70862203799766,Dissolved Oxygen,umol/kg,dissolved_o2
+2005,199.2886688256173,Dissolved Oxygen,umol/kg,dissolved_o2
+2006,198.3483792915131,Dissolved Oxygen,umol/kg,dissolved_o2
+2007,198.3901918934881,Dissolved Oxygen,umol/kg,dissolved_o2
+2008,198.59574982449118,Dissolved Oxygen,umol/kg,dissolved_o2
+2009,197.71114887644322,Dissolved Oxygen,umol/kg,dissolved_o2
+2010,198.28519937206894,Dissolved Oxygen,umol/kg,dissolved_o2
+2011,197.70386984073676,Dissolved Oxygen,umol/kg,dissolved_o2
+2012,197.45007167698014,Dissolved Oxygen,umol/kg,dissolved_o2
+2013,197.6843839872814,Dissolved Oxygen,umol/kg,dissolved_o2
+2014,197.37770532459442,Dissolved Oxygen,umol/kg,dissolved_o2
+2015,196.85561353367237,Dissolved Oxygen,umol/kg,dissolved_o2
+2016,197.2637319213457,Dissolved Oxygen,umol/kg,dissolved_o2
+2017,196.16757466896004,Dissolved Oxygen,umol/kg,dissolved_o2
+2018,196.6463742427777,Dissolved Oxygen,umol/kg,dissolved_o2
+2019,196.43724050318735,Dissolved Oxygen,umol/kg,dissolved_o2
+2020,195.8761814242744,Dissolved Oxygen,umol/kg,dissolved_o2
+2021,195.93045320889686,Dissolved Oxygen,umol/kg,dissolved_o2
+2022,195.09955456944587,Dissolved Oxygen,umol/kg,dissolved_o2
+2023,195.76961080768277,Dissolved Oxygen,umol/kg,dissolved_o2
+2024,195.1260391454228,Dissolved Oxygen,umol/kg,dissolved_o2
+2000,11.895455395896192,Deforestation Rate,Mha/year,deforestation_rate
+2001,12.309801845167378,Deforestation Rate,Mha/year,deforestation_rate
+2002,12.059131261891448,Deforestation Rate,Mha/year,deforestation_rate
+2003,12.01830774072729,Deforestation Rate,Mha/year,deforestation_rate
+2004,12.08867416529522,Deforestation Rate,Mha/year,deforestation_rate
+2005,12.621201990269128,Deforestation Rate,Mha/year,deforestation_rate
+2006,12.343914129500742,Deforestation Rate,Mha/year,deforestation_rate
+2007,13.050958836396873,Deforestation Rate,Mha/year,deforestation_rate
+2008,12.383614118423257,Deforestation Rate,Mha/year,deforestation_rate
+2009,13.239291273658008,Deforestation Rate,Mha/year,deforestation_rate
+2010,13.042203493440523,Deforestation Rate,Mha/year,deforestation_rate
+2011,13.08065737762592,Deforestation Rate,Mha/year,deforestation_rate
+2012,13.09101618263821,Deforestation Rate,Mha/year,deforestation_rate
+2013,13.379827222870414,Deforestation Rate,Mha/year,deforestation_rate
+2014,13.39247305951503,Deforestation Rate,Mha/year,deforestation_rate
+2015,13.720660376403304,Deforestation Rate,Mha/year,deforestation_rate
+2016,13.622845529732407,Deforestation Rate,Mha/year,deforestation_rate
+2017,13.730060352292375,Deforestation Rate,Mha/year,deforestation_rate
+2018,13.72727755755723,Deforestation Rate,Mha/year,deforestation_rate
+2019,13.888610875255788,Deforestation Rate,Mha/year,deforestation_rate
+2020,14.061560353778411,Deforestation Rate,Mha/year,deforestation_rate
+2021,13.757966321468675,Deforestation Rate,Mha/year,deforestation_rate
+2022,13.930362915578856,Deforestation Rate,Mha/year,deforestation_rate
+2023,14.448652818804543,Deforestation Rate,Mha/year,deforestation_rate
+2024,14.434173087625588,Deforestation Rate,Mha/year,deforestation_rate
+2000,14.477921999637678,Land Surface Temperature,C,land_temp
+2001,14.562212071967847,Land Surface Temperature,C,land_temp
+2002,14.6617098046434,Land Surface Temperature,C,land_temp
+2003,14.615228838362876,Land Surface Temperature,C,land_temp
+2004,14.646603432951723,Land Surface Temperature,C,land_temp
+2005,14.823501430611723,Land Surface Temperature,C,land_temp
+2006,14.742595266686196,Land Surface Temperature,C,land_temp
+2007,14.968990330685736,Land Surface Temperature,C,land_temp
+2008,14.77568996749146,Land Surface Temperature,C,land_temp
+2009,15.163498676479076,Land Surface Temperature,C,land_temp
+2010,15.156711697889564,Land Surface Temperature,C,land_temp
+2011,15.190723568117665,Land Surface Temperature,C,land_temp
+2012,15.337922918073462,Land Surface Temperature,C,land_temp
+2013,15.479856933335508,Land Surface Temperature,C,land_temp
+2014,15.461724407802176,Land Surface Temperature,C,land_temp
+2015,15.179095092240203,Land Surface Temperature,C,land_temp
+2016,15.306450763991716,Land Surface Temperature,C,land_temp
+2017,15.445021770676519,Land Surface Temperature,C,land_temp
+2018,15.5831309260253,Land Surface Temperature,C,land_temp
+2019,15.702119082456296,Land Surface Temperature,C,land_temp
+2020,15.612910742421583,Land Surface Temperature,C,land_temp
+2021,15.782412011737248,Land Surface Temperature,C,land_temp
+2022,15.729354048117601,Land Surface Temperature,C,land_temp
+2023,15.806617863640966,Land Surface Temperature,C,land_temp
+2024,15.771200668378214,Land Surface Temperature,C,land_temp
+2000,0.2481535335077782,Soil Moisture,m3/m3,soil_moisture
+2001,0.24629663078876735,Soil Moisture,m3/m3,soil_moisture
+2002,0.24604825349404533,Soil Moisture,m3/m3,soil_moisture
+2003,0.24910728359321568,Soil Moisture,m3/m3,soil_moisture
+2004,0.2441012022223361,Soil Moisture,m3/m3,soil_moisture
+2005,0.2502647641296748,Soil Moisture,m3/m3,soil_moisture
+2006,0.24498663580176178,Soil Moisture,m3/m3,soil_moisture
+2007,0.24336967224738973,Soil Moisture,m3/m3,soil_moisture
+2008,0.24028328443963756,Soil Moisture,m3/m3,soil_moisture
+2009,0.24240061975881796,Soil Moisture,m3/m3,soil_moisture
+2010,0.23884872434752444,Soil Moisture,m3/m3,soil_moisture
+2011,0.2392440196292907,Soil Moisture,m3/m3,soil_moisture
+2012,0.24312016907653758,Soil Moisture,m3/m3,soil_moisture
+2013,0.23680788020055069,Soil Moisture,m3/m3,soil_moisture
+2014,0.23829854665257133,Soil Moisture,m3/m3,soil_moisture
+2015,0.2335936471497482,Soil Moisture,m3/m3,soil_moisture
+2016,0.23393002301900606,Soil Moisture,m3/m3,soil_moisture
+2017,0.236541601271271,Soil Moisture,m3/m3,soil_moisture
+2018,0.23074606588442445,Soil Moisture,m3/m3,soil_moisture
+2019,0.23462489711599388,Soil Moisture,m3/m3,soil_moisture
+2020,0.23141550387091095,Soil Moisture,m3/m3,soil_moisture
+2021,0.22787506644821148,Soil Moisture,m3/m3,soil_moisture
+2022,0.22926481547811106,Soil Moisture,m3/m3,soil_moisture
+2023,0.22894510889925346,Soil Moisture,m3/m3,soil_moisture
+2024,0.2272436199244344,Soil Moisture,m3/m3,soil_moisture
+2000,495.2893258403286,Desertification Area,Mha,desertification
+2001,499.3185884725254,Desertification Area,Mha,desertification
+2002,502.2574440933455,Desertification Area,Mha,desertification
+2003,504.27669971269984,Desertification Area,Mha,desertification
+2004,507.862016292652,Desertification Area,Mha,desertification
+2005,508.03310300279975,Desertification Area,Mha,desertification
+2006,504.9939669238697,Desertification Area,Mha,desertification
+2007,511.6405935530179,Desertification Area,Mha,desertification
+2008,513.8317572358515,Desertification Area,Mha,desertification
+2009,515.1793713437932,Desertification Area,Mha,desertification
+2010,518.2423421766639,Desertification Area,Mha,desertification
+2011,519.0017664636467,Desertification Area,Mha,desertification
+2012,519.3775402376854,Desertification Area,Mha,desertification
+2013,519.2895028656241,Desertification Area,Mha,desertification
+2014,516.0171171994521,Desertification Area,Mha,desertification
+2015,523.7888546573978,Desertification Area,Mha,desertification
+2016,524.6230630614893,Desertification Area,Mha,desertification
+2017,526.3147365115861,Desertification Area,Mha,desertification
+2018,523.1697542725391,Desertification Area,Mha,desertification
+2019,525.2568303787752,Desertification Area,Mha,desertification
+2020,533.1594585599987,Desertification Area,Mha,desertification
+2021,531.38133453843,Desertification Area,Mha,desertification
+2022,535.0445020921179,Desertification Area,Mha,desertification
+2023,534.5849551283914,Desertification Area,Mha,desertification
+2024,536.0892684184872,Desertification Area,Mha,desertification
+2000,20.938283805976,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2001,19.983955271782627,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2002,21.09612077694098,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2003,21.037724711294956,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2004,21.565503772567684,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2005,22.190827876531362,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2006,23.222133771633715,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2007,23.021251378336522,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2008,25.25575612557352,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2009,23.605392697780495,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2010,24.81312835583864,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2011,25.060268941725823,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2012,27.446977884353732,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2013,26.696554776511576,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2014,28.031844539468636,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2015,26.01443962696303,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2016,28.26705026586926,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2017,29.389630795623436,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2018,29.082283989275425,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2019,30.565480375065352,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2020,29.482711549899626,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2021,31.90934744018558,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2022,33.29889812361925,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2023,31.13716143956034,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2024,31.554497478599227,Permafrost Thaw Rate,cm/year,permafrost_thaw
+2000,1.744061372541241,Glacier Mass Balance,m w.e.,glacier_mass
+2001,1.295486574876855,Glacier Mass Balance,m w.e.,glacier_mass
+2002,-1.8274320325839217,Glacier Mass Balance,m w.e.,glacier_mass
+2003,-2.3042241805150283,Glacier Mass Balance,m w.e.,glacier_mass
+2004,-2.7381415306326087,Glacier Mass Balance,m w.e.,glacier_mass
+2005,-4.6133406132411325,Glacier Mass Balance,m w.e.,glacier_mass
+2006,-4.702382335781038,Glacier Mass Balance,m w.e.,glacier_mass
+2007,-5.4049689201024815,Glacier Mass Balance,m w.e.,glacier_mass
+2008,-5.721357078124954,Glacier Mass Balance,m w.e.,glacier_mass
+2009,-5.441621864864137,Glacier Mass Balance,m w.e.,glacier_mass
+2010,-5.718942320956175,Glacier Mass Balance,m w.e.,glacier_mass
+2011,-4.7393994086231075,Glacier Mass Balance,m w.e.,glacier_mass
+2012,-8.398024848886548,Glacier Mass Balance,m w.e.,glacier_mass
+2013,-6.618813121828099,Glacier Mass Balance,m w.e.,glacier_mass
+2014,-8.656786613070611,Glacier Mass Balance,m w.e.,glacier_mass
+2015,-9.05935645158292,Glacier Mass Balance,m w.e.,glacier_mass
+2016,-8.790216609400074,Glacier Mass Balance,m w.e.,glacier_mass
+2017,-11.547266425874758,Glacier Mass Balance,m w.e.,glacier_mass
+2018,-10.341108304579139,Glacier Mass Balance,m w.e.,glacier_mass
+2019,-11.200257350144334,Glacier Mass Balance,m w.e.,glacier_mass
+2020,-11.409058483190222,Glacier Mass Balance,m w.e.,glacier_mass
+2021,-12.252997627310618,Glacier Mass Balance,m w.e.,glacier_mass
+2022,-10.253639832106927,Glacier Mass Balance,m w.e.,glacier_mass
+2023,-14.565287981101578,Glacier Mass Balance,m w.e.,glacier_mass
+2024,-15.03719634600218,Glacier Mass Balance,m w.e.,glacier_mass
+2000,24.875371894715048,Snow Cover Extent,million km2,snow_cover
+2001,24.788904576167948,Snow Cover Extent,million km2,snow_cover
+2002,24.672522574538696,Snow Cover Extent,million km2,snow_cover
+2003,24.93780330622151,Snow Cover Extent,million km2,snow_cover
+2004,24.88410084959797,Snow Cover Extent,million km2,snow_cover
+2005,24.385850741250106,Snow Cover Extent,million km2,snow_cover
+2006,24.23352888537915,Snow Cover Extent,million km2,snow_cover
+2007,24.394283111277282,Snow Cover Extent,million km2,snow_cover
+2008,24.089555391143804,Snow Cover Extent,million km2,snow_cover
+2009,24.226586363551103,Snow Cover Extent,million km2,snow_cover
+2010,24.04058460417026,Snow Cover Extent,million km2,snow_cover
+2011,23.596851177000552,Snow Cover Extent,million km2,snow_cover
+2012,24.109501040266014,Snow Cover Extent,million km2,snow_cover
+2013,24.059175534619104,Snow Cover Extent,million km2,snow_cover
+2014,23.477442261903125,Snow Cover Extent,million km2,snow_cover
+2015,23.422459688012804,Snow Cover Extent,million km2,snow_cover
+2016,23.45717307814498,Snow Cover Extent,million km2,snow_cover
+2017,23.366891357997407,Snow Cover Extent,million km2,snow_cover
+2018,23.331708854534565,Snow Cover Extent,million km2,snow_cover
+2019,23.502040907753273,Snow Cover Extent,million km2,snow_cover
+2020,22.96461055450119,Snow Cover Extent,million km2,snow_cover
+2021,22.74034055109231,Snow Cover Extent,million km2,snow_cover
+2022,22.524136154397095,Snow Cover Extent,million km2,snow_cover
+2023,22.553813992011616,Snow Cover Extent,million km2,snow_cover
+2024,22.593374605425243,Snow Cover Extent,million km2,snow_cover
+2000,100.71782314540711,Biomass Density,t/ha,biomass_density
+2001,99.59295548038553,Biomass Density,t/ha,biomass_density
+2002,99.68951518065555,Biomass Density,t/ha,biomass_density
+2003,99.3934308415709,Biomass Density,t/ha,biomass_density
+2004,99.67535730937924,Biomass Density,t/ha,biomass_density
+2005,100.01077297034945,Biomass Density,t/ha,biomass_density
+2006,98.58765249083187,Biomass Density,t/ha,biomass_density
+2007,98.40422422299271,Biomass Density,t/ha,biomass_density
+2008,98.81766435082764,Biomass Density,t/ha,biomass_density
+2009,98.47275659585053,Biomass Density,t/ha,biomass_density
+2010,98.73868293029442,Biomass Density,t/ha,biomass_density
+2011,98.03357127413038,Biomass Density,t/ha,biomass_density
+2012,97.45628316368517,Biomass Density,t/ha,biomass_density
+2013,97.63626193227692,Biomass Density,t/ha,biomass_density
+2014,97.64348143223316,Biomass Density,t/ha,biomass_density
+2015,97.32819287247895,Biomass Density,t/ha,biomass_density
+2016,97.00290961244292,Biomass Density,t/ha,biomass_density
+2017,97.02666987583565,Biomass Density,t/ha,biomass_density
+2018,96.86771823617828,Biomass Density,t/ha,biomass_density
+2019,96.75286359641501,Biomass Density,t/ha,biomass_density
+2020,96.25948395503586,Biomass Density,t/ha,biomass_density
+2021,95.73315276787325,Biomass Density,t/ha,biomass_density
+2022,95.65868547457332,Biomass Density,t/ha,biomass_density
+2023,95.88260358660335,Biomass Density,t/ha,biomass_density
+2024,94.8732257316051,Biomass Density,t/ha,biomass_density
+2000,5.07373466177458,Land Cover Change,%,land_cover_change
+2001,5.021332237534527,Land Cover Change,%,land_cover_change
+2002,5.205748964586964,Land Cover Change,%,land_cover_change
+2003,5.555690372521459,Land Cover Change,%,land_cover_change
+2004,5.438219813603981,Land Cover Change,%,land_cover_change
+2005,5.50928730963123,Land Cover Change,%,land_cover_change
+2006,5.328028771804016,Land Cover Change,%,land_cover_change
+2007,5.8492507132054445,Land Cover Change,%,land_cover_change
+2008,5.929096836228215,Land Cover Change,%,land_cover_change
+2009,6.332650944661093,Land Cover Change,%,land_cover_change
+2010,5.9384443530094,Land Cover Change,%,land_cover_change
+2011,6.1438300655327875,Land Cover Change,%,land_cover_change
+2012,6.249876736742151,Land Cover Change,%,land_cover_change
+2013,6.615490655952694,Land Cover Change,%,land_cover_change
+2014,6.3809408935226095,Land Cover Change,%,land_cover_change
+2015,6.5558043051540675,Land Cover Change,%,land_cover_change
+2016,6.721579301943308,Land Cover Change,%,land_cover_change
+2017,6.737321824631271,Land Cover Change,%,land_cover_change
+2018,6.710713277089894,Land Cover Change,%,land_cover_change
+2019,6.938817998579662,Land Cover Change,%,land_cover_change
+2020,7.214726349971954,Land Cover Change,%,land_cover_change
+2021,6.894696940117788,Land Cover Change,%,land_cover_change
+2022,7.226593934829375,Land Cover Change,%,land_cover_change
+2023,7.1599758370121664,Land Cover Change,%,land_cover_change
+2024,7.6390093257849685,Land Cover Change,%,land_cover_change
+2000,9.847681309521622,Soil Erosion Rate,t/ha/year,soil_erosion
+2001,9.994107815272843,Soil Erosion Rate,t/ha/year,soil_erosion
+2002,10.137721187506452,Soil Erosion Rate,t/ha/year,soil_erosion
+2003,10.306552402923435,Soil Erosion Rate,t/ha/year,soil_erosion
+2004,10.1934249738927,Soil Erosion Rate,t/ha/year,soil_erosion
+2005,10.19448004733068,Soil Erosion Rate,t/ha/year,soil_erosion
+2006,10.48811570694406,Soil Erosion Rate,t/ha/year,soil_erosion
+2007,10.205198609958375,Soil Erosion Rate,t/ha/year,soil_erosion
+2008,10.180119404337992,Soil Erosion Rate,t/ha/year,soil_erosion
+2009,10.494001445005333,Soil Erosion Rate,t/ha/year,soil_erosion
+2010,10.449794577564738,Soil Erosion Rate,t/ha/year,soil_erosion
+2011,10.44787671828693,Soil Erosion Rate,t/ha/year,soil_erosion
+2012,10.670835644729936,Soil Erosion Rate,t/ha/year,soil_erosion
+2013,10.67438007137712,Soil Erosion Rate,t/ha/year,soil_erosion
+2014,10.643592136926326,Soil Erosion Rate,t/ha/year,soil_erosion
+2015,10.62196956013291,Soil Erosion Rate,t/ha/year,soil_erosion
+2016,10.887245732828015,Soil Erosion Rate,t/ha/year,soil_erosion
+2017,10.915020117795866,Soil Erosion Rate,t/ha/year,soil_erosion
+2018,10.890082413622062,Soil Erosion Rate,t/ha/year,soil_erosion
+2019,11.134663699604765,Soil Erosion Rate,t/ha/year,soil_erosion
+2020,10.892991523367385,Soil Erosion Rate,t/ha/year,soil_erosion
+2021,10.897447482907527,Soil Erosion Rate,t/ha/year,soil_erosion
+2022,11.030809193011875,Soil Erosion Rate,t/ha/year,soil_erosion
+2023,11.14544139836445,Soil Erosion Rate,t/ha/year,soil_erosion
+2024,11.224333944932269,Soil Erosion Rate,t/ha/year,soil_erosion
+2000,89.90350557685747,Biodiversity Intactness Index,%,biodiversity_idx
+2001,89.94082215860571,Biodiversity Intactness Index,%,biodiversity_idx
+2002,89.09938423032382,Biodiversity Intactness Index,%,biodiversity_idx
+2003,89.97750584162931,Biodiversity Intactness Index,%,biodiversity_idx
+2004,89.16713952864298,Biodiversity Intactness Index,%,biodiversity_idx
+2005,89.44691833263525,Biodiversity Intactness Index,%,biodiversity_idx
+2006,88.93709013855108,Biodiversity Intactness Index,%,biodiversity_idx
+2007,88.78270128766151,Biodiversity Intactness Index,%,biodiversity_idx
+2008,88.62790691209288,Biodiversity Intactness Index,%,biodiversity_idx
+2009,88.37908342400694,Biodiversity Intactness Index,%,biodiversity_idx
+2010,88.25708910394702,Biodiversity Intactness Index,%,biodiversity_idx
+2011,88.33166101205298,Biodiversity Intactness Index,%,biodiversity_idx
+2012,87.67860846788058,Biodiversity Intactness Index,%,biodiversity_idx
+2013,87.6836015030354,Biodiversity Intactness Index,%,biodiversity_idx
+2014,87.16410572228511,Biodiversity Intactness Index,%,biodiversity_idx
+2015,87.5760468861798,Biodiversity Intactness Index,%,biodiversity_idx
+2016,86.52944307917629,Biodiversity Intactness Index,%,biodiversity_idx
+2017,87.32037617316432,Biodiversity Intactness Index,%,biodiversity_idx
+2018,86.38393681974227,Biodiversity Intactness Index,%,biodiversity_idx
+2019,85.62768995915279,Biodiversity Intactness Index,%,biodiversity_idx
+2020,86.05124176596432,Biodiversity Intactness Index,%,biodiversity_idx
+2021,85.52757933701004,Biodiversity Intactness Index,%,biodiversity_idx
+2022,85.93625741959548,Biodiversity Intactness Index,%,biodiversity_idx
+2023,85.13895040827904,Biodiversity Intactness Index,%,biodiversity_idx
+2024,85.02152662671409,Biodiversity Intactness Index,%,biodiversity_idx
+2000,424.41837076217877,Invasive Species Count,count,invasive_species
+2001,501.90774723003693,Invasive Species Count,count,invasive_species
+2002,443.04482693484175,Invasive Species Count,count,invasive_species
+2003,496.64388706057105,Invasive Species Count,count,invasive_species
+2004,610.4165862457719,Invasive Species Count,count,invasive_species
+2005,631.4320063460333,Invasive Species Count,count,invasive_species
+2006,637.0183024713986,Invasive Species Count,count,invasive_species
+2007,601.3209542748315,Invasive Species Count,count,invasive_species
+2008,658.0915457543208,Invasive Species Count,count,invasive_species
+2009,679.8558984363773,Invasive Species Count,count,invasive_species
+2010,653.6654124322982,Invasive Species Count,count,invasive_species
+2011,780.1359320706861,Invasive Species Count,count,invasive_species
+2012,775.0944916230269,Invasive Species Count,count,invasive_species
+2013,751.1614330468135,Invasive Species Count,count,invasive_species
+2014,781.0754335597812,Invasive Species Count,count,invasive_species
+2015,808.3353123179021,Invasive Species Count,count,invasive_species
+2016,738.3306052630284,Invasive Species Count,count,invasive_species
+2017,830.1129046991762,Invasive Species Count,count,invasive_species
+2018,832.7206300800881,Invasive Species Count,count,invasive_species
+2019,839.9351996042034,Invasive Species Count,count,invasive_species
+2020,888.7559882845618,Invasive Species Count,count,invasive_species
+2021,991.9074610739809,Invasive Species Count,count,invasive_species
+2022,965.6337144506804,Invasive Species Count,count,invasive_species
+2023,937.1528404086881,Invasive Species Count,count,invasive_species
+2024,1002.9033112542463,Invasive Species Count,count,invasive_species
+2000,121.399355436586,Wetland Area,Mha,wetland_area
+2001,120.42463368291277,Wetland Area,Mha,wetland_area
+2002,119.05963036992017,Wetland Area,Mha,wetland_area
+2003,117.85306322229442,Wetland Area,Mha,wetland_area
+2004,118.6982233136136,Wetland Area,Mha,wetland_area
+2005,117.89348538542176,Wetland Area,Mha,wetland_area
+2006,117.89519322002774,Wetland Area,Mha,wetland_area
+2007,117.13517180168196,Wetland Area,Mha,wetland_area
+2008,117.04955271531934,Wetland Area,Mha,wetland_area
+2009,114.96476478843944,Wetland Area,Mha,wetland_area
+2010,116.31739406563433,Wetland Area,Mha,wetland_area
+2011,114.6975996046924,Wetland Area,Mha,wetland_area
+2012,116.07526087262526,Wetland Area,Mha,wetland_area
+2013,112.81081218191044,Wetland Area,Mha,wetland_area
+2014,114.73596380316525,Wetland Area,Mha,wetland_area
+2015,112.69791078346265,Wetland Area,Mha,wetland_area
+2016,111.34858199638555,Wetland Area,Mha,wetland_area
+2017,111.01611416594568,Wetland Area,Mha,wetland_area
+2018,110.67965269180569,Wetland Area,Mha,wetland_area
+2019,110.92416594640191,Wetland Area,Mha,wetland_area
+2020,110.5228354880355,Wetland Area,Mha,wetland_area
+2021,108.92629999606142,Wetland Area,Mha,wetland_area
+2022,108.97564540773902,Wetland Area,Mha,wetland_area
+2023,110.64227035861187,Wetland Area,Mha,wetland_area
+2024,109.72754317010072,Wetland Area,Mha,wetland_area
+2000,10.349058935739226,Peatland Degradation,%,peatland_deg
+2001,10.43040278253456,Peatland Degradation,%,peatland_deg
+2002,10.89602506137461,Peatland Degradation,%,peatland_deg
+2003,11.690814378184333,Peatland Degradation,%,peatland_deg
+2004,10.781765947841276,Peatland Degradation,%,peatland_deg
+2005,11.794098770061323,Peatland Degradation,%,peatland_deg
+2006,11.065132740897928,Peatland Degradation,%,peatland_deg
+2007,13.119378498084224,Peatland Degradation,%,peatland_deg
+2008,13.717756751762192,Peatland Degradation,%,peatland_deg
+2009,13.2134508301605,Peatland Degradation,%,peatland_deg
+2010,15.259189410632025,Peatland Degradation,%,peatland_deg
+2011,13.419387469598128,Peatland Degradation,%,peatland_deg
+2012,13.628500095832145,Peatland Degradation,%,peatland_deg
+2013,15.379561454847977,Peatland Degradation,%,peatland_deg
+2014,16.437678642089725,Peatland Degradation,%,peatland_deg
+2015,17.347142153166295,Peatland Degradation,%,peatland_deg
+2016,16.032892589704847,Peatland Degradation,%,peatland_deg
+2017,17.662944666745037,Peatland Degradation,%,peatland_deg
+2018,17.169193224399432,Peatland Degradation,%,peatland_deg
+2019,17.461898160047344,Peatland Degradation,%,peatland_deg
+2020,18.70692794998934,Peatland Degradation,%,peatland_deg
+2021,18.921858302730733,Peatland Degradation,%,peatland_deg
+2022,17.5388862744126,Peatland Degradation,%,peatland_deg
+2023,20.38123227978072,Peatland Degradation,%,peatland_deg
+2024,20.70407308331796,Peatland Degradation,%,peatland_deg
+2000,993.7443729849047,River Discharge,m3/s,river_discharge
+2001,998.9580353343741,River Discharge,m3/s,river_discharge
+2002,994.9403018628274,River Discharge,m3/s,river_discharge
+2003,987.6067376582391,River Discharge,m3/s,river_discharge
+2004,974.4969484615458,River Discharge,m3/s,river_discharge
+2005,968.2837663206195,River Discharge,m3/s,river_discharge
+2006,969.7444592900855,River Discharge,m3/s,river_discharge
+2007,976.7272901925936,River Discharge,m3/s,river_discharge
+2008,965.4360015459444,River Discharge,m3/s,river_discharge
+2009,951.2938566791389,River Discharge,m3/s,river_discharge
+2010,957.7169871064834,River Discharge,m3/s,river_discharge
+2011,916.5145737936992,River Discharge,m3/s,river_discharge
+2012,951.487657003721,River Discharge,m3/s,river_discharge
+2013,917.602862212219,River Discharge,m3/s,river_discharge
+2014,926.3755905859687,River Discharge,m3/s,river_discharge
+2015,913.8033010537386,River Discharge,m3/s,river_discharge
+2016,907.053185242791,River Discharge,m3/s,river_discharge
+2017,926.6082678737852,River Discharge,m3/s,river_discharge
+2018,905.3229879868811,River Discharge,m3/s,river_discharge
+2019,908.4650388173071,River Discharge,m3/s,river_discharge
+2020,899.5307942112081,River Discharge,m3/s,river_discharge
+2021,899.7704082722312,River Discharge,m3/s,river_discharge
+2022,890.7682189106025,River Discharge,m3/s,river_discharge
+2023,872.1700777581143,River Discharge,m3/s,river_discharge
+2024,889.9626681944713,River Discharge,m3/s,river_discharge
+2000,99.98024973667354,Lake Levels,m,lake_levels
+2001,99.91773672405361,Lake Levels,m,lake_levels
+2002,99.94287539356135,Lake Levels,m,lake_levels
+2003,100.00003039162537,Lake Levels,m,lake_levels
+2004,99.95400886968454,Lake Levels,m,lake_levels
+2005,99.88605391462369,Lake Levels,m,lake_levels
+2006,99.86602969182726,Lake Levels,m,lake_levels
+2007,99.84713459795131,Lake Levels,m,lake_levels
+2008,99.92306991934244,Lake Levels,m,lake_levels
+2009,99.83527741808926,Lake Levels,m,lake_levels
+2010,99.81720166588764,Lake Levels,m,lake_levels
+2011,99.82121133816128,Lake Levels,m,lake_levels
+2012,99.76955156636106,Lake Levels,m,lake_levels
+2013,99.72963831416716,Lake Levels,m,lake_levels
+2014,99.7121460060366,Lake Levels,m,lake_levels
+2015,99.69713594962344,Lake Levels,m,lake_levels
+2016,99.67851111053962,Lake Levels,m,lake_levels
+2017,99.68910518174548,Lake Levels,m,lake_levels
+2018,99.64207783543229,Lake Levels,m,lake_levels
+2019,99.64930560308862,Lake Levels,m,lake_levels
+2020,99.59677133679565,Lake Levels,m,lake_levels
+2021,99.58314540761265,Lake Levels,m,lake_levels
+2022,99.48007197261872,Lake Levels,m,lake_levels
+2023,99.5766531069881,Lake Levels,m,lake_levels
+2024,99.53385953903592,Lake Levels,m,lake_levels
+2000,3.992040439438609,Groundwater Depletion,km3,groundwater_dep
+2001,-9.585021512774757,Groundwater Depletion,km3,groundwater_dep
+2002,12.35349881912291,Groundwater Depletion,km3,groundwater_dep
+2003,5.441641487379305,Groundwater Depletion,km3,groundwater_dep
+2004,12.432731266950066,Groundwater Depletion,km3,groundwater_dep
+2005,5.8403762914978765,Groundwater Depletion,km3,groundwater_dep
+2006,14.451095620250278,Groundwater Depletion,km3,groundwater_dep
+2007,9.786337747305375,Groundwater Depletion,km3,groundwater_dep
+2008,13.504924157216779,Groundwater Depletion,km3,groundwater_dep
+2009,25.656125415467145,Groundwater Depletion,km3,groundwater_dep
+2010,19.237270396946613,Groundwater Depletion,km3,groundwater_dep
+2011,22.86973149271889,Groundwater Depletion,km3,groundwater_dep
+2012,27.480270922755018,Groundwater Depletion,km3,groundwater_dep
+2013,27.98272755189042,Groundwater Depletion,km3,groundwater_dep
+2014,28.601675620574305,Groundwater Depletion,km3,groundwater_dep
+2015,31.459844009864902,Groundwater Depletion,km3,groundwater_dep
+2016,41.6136623409531,Groundwater Depletion,km3,groundwater_dep
+2017,33.76952481186566,Groundwater Depletion,km3,groundwater_dep
+2018,36.80439618685987,Groundwater Depletion,km3,groundwater_dep
+2019,42.20261758403045,Groundwater Depletion,km3,groundwater_dep
+2020,44.42210373183194,Groundwater Depletion,km3,groundwater_dep
+2021,46.74812122224152,Groundwater Depletion,km3,groundwater_dep
+2022,46.55492088811674,Groundwater Depletion,km3,groundwater_dep
+2023,41.42798034907807,Groundwater Depletion,km3,groundwater_dep
+2024,54.53372612920438,Groundwater Depletion,km3,groundwater_dep
+2000,496.5609638209439,Evapotranspiration,mm/year,evapotranspiration
+2001,502.4079063957171,Evapotranspiration,mm/year,evapotranspiration
+2002,500.7371724499419,Evapotranspiration,mm/year,evapotranspiration
+2003,504.30758496022105,Evapotranspiration,mm/year,evapotranspiration
+2004,506.9862872309104,Evapotranspiration,mm/year,evapotranspiration
+2005,508.4640716463508,Evapotranspiration,mm/year,evapotranspiration
+2006,510.26576226270583,Evapotranspiration,mm/year,evapotranspiration
+2007,515.341133807176,Evapotranspiration,mm/year,evapotranspiration
+2008,513.3606029045419,Evapotranspiration,mm/year,evapotranspiration
+2009,512.767530094128,Evapotranspiration,mm/year,evapotranspiration
+2010,517.892261504865,Evapotranspiration,mm/year,evapotranspiration
+2011,520.0684114667739,Evapotranspiration,mm/year,evapotranspiration
+2012,514.317176554589,Evapotranspiration,mm/year,evapotranspiration
+2013,521.2922002095496,Evapotranspiration,mm/year,evapotranspiration
+2014,523.1035182269327,Evapotranspiration,mm/year,evapotranspiration
+2015,521.60730948992,Evapotranspiration,mm/year,evapotranspiration
+2016,528.1271204399349,Evapotranspiration,mm/year,evapotranspiration
+2017,525.0498332389025,Evapotranspiration,mm/year,evapotranspiration
+2018,527.3767293604146,Evapotranspiration,mm/year,evapotranspiration
+2019,527.9807845271484,Evapotranspiration,mm/year,evapotranspiration
+2020,530.0467371427444,Evapotranspiration,mm/year,evapotranspiration
+2021,528.2111747393144,Evapotranspiration,mm/year,evapotranspiration
+2022,528.6798473522172,Evapotranspiration,mm/year,evapotranspiration
+2023,539.283515189675,Evapotranspiration,mm/year,evapotranspiration
+2024,533.459115955045,Evapotranspiration,mm/year,evapotranspiration
+2000,-0.19827846989126144,Drought Severity (PDSI),index,drought_severity
+2001,-0.5306780227207429,Drought Severity (PDSI),index,drought_severity
+2002,-0.3277923495379005,Drought Severity (PDSI),index,drought_severity
+2003,-0.5646179586814997,Drought Severity (PDSI),index,drought_severity
+2004,-0.07159696797272619,Drought Severity (PDSI),index,drought_severity
+2005,-0.29803658213147316,Drought Severity (PDSI),index,drought_severity
+2006,-0.7376300690355448,Drought Severity (PDSI),index,drought_severity
+2007,-0.2495128389311383,Drought Severity (PDSI),index,drought_severity
+2008,-0.6036469026016812,Drought Severity (PDSI),index,drought_severity
+2009,-0.9649662767017245,Drought Severity (PDSI),index,drought_severity
+2010,-1.4998811429747145,Drought Severity (PDSI),index,drought_severity
+2011,-0.6418114854818517,Drought Severity (PDSI),index,drought_severity
+2012,-1.4779144933527193,Drought Severity (PDSI),index,drought_severity
+2013,-1.6290797493913785,Drought Severity (PDSI),index,drought_severity
+2014,-1.195485913598072,Drought Severity (PDSI),index,drought_severity
+2015,-1.0120495187321454,Drought Severity (PDSI),index,drought_severity
+2016,-1.3231454362978965,Drought Severity (PDSI),index,drought_severity
+2017,-1.5872181759895283,Drought Severity (PDSI),index,drought_severity
+2018,-1.681049131666943,Drought Severity (PDSI),index,drought_severity
+2019,-1.7293168882439387,Drought Severity (PDSI),index,drought_severity
+2020,-1.848214282042647,Drought Severity (PDSI),index,drought_severity
+2021,-2.043761715206125,Drought Severity (PDSI),index,drought_severity
+2022,-2.179159779209625,Drought Severity (PDSI),index,drought_severity
+2023,-2.3125186255799046,Drought Severity (PDSI),index,drought_severity
+2024,-2.5507929177733355,Drought Severity (PDSI),index,drought_severity
+2000,14.550919877013161,Flood Frequency,events/year,flood_freq
+2001,13.091269097287384,Flood Frequency,events/year,flood_freq
+2002,16.4426565971284,Flood Frequency,events/year,flood_freq
+2003,15.81825422855853,Flood Frequency,events/year,flood_freq
+2004,16.434257092454764,Flood Frequency,events/year,flood_freq
+2005,19.287830641845567,Flood Frequency,events/year,flood_freq
+2006,22.02720365815136,Flood Frequency,events/year,flood_freq
+2007,22.069306569603704,Flood Frequency,events/year,flood_freq
+2008,18.887199034202915,Flood Frequency,events/year,flood_freq
+2009,20.61659498148746,Flood Frequency,events/year,flood_freq
+2010,24.505233900781146,Flood Frequency,events/year,flood_freq
+2011,22.228020170338706,Flood Frequency,events/year,flood_freq
+2012,24.240586960004762,Flood Frequency,events/year,flood_freq
+2013,26.28008335843928,Flood Frequency,events/year,flood_freq
+2014,24.650648872218188,Flood Frequency,events/year,flood_freq
+2015,27.168600809833535,Flood Frequency,events/year,flood_freq
+2016,25.665559208130873,Flood Frequency,events/year,flood_freq
+2017,27.63781176967806,Flood Frequency,events/year,flood_freq
+2018,29.91165109462806,Flood Frequency,events/year,flood_freq
+2019,27.651210026349332,Flood Frequency,events/year,flood_freq
+2020,31.70475958073664,Flood Frequency,events/year,flood_freq
+2021,31.76857952171731,Flood Frequency,events/year,flood_freq
+2022,33.483983927067435,Flood Frequency,events/year,flood_freq
+2023,33.758262614503465,Flood Frequency,events/year,flood_freq
+2024,36.382624687958156,Flood Frequency,events/year,flood_freq
+2000,20.125224502647907,Water Scarcity Index,%,water_scarcity
+2001,20.070594458874748,Water Scarcity Index,%,water_scarcity
+2002,21.122297503032282,Water Scarcity Index,%,water_scarcity
+2003,22.04329802903639,Water Scarcity Index,%,water_scarcity
+2004,22.048860070325706,Water Scarcity Index,%,water_scarcity
+2005,22.540591691203883,Water Scarcity Index,%,water_scarcity
+2006,22.298008312193243,Water Scarcity Index,%,water_scarcity
+2007,22.83709908244905,Water Scarcity Index,%,water_scarcity
+2008,22.597394728200307,Water Scarcity Index,%,water_scarcity
+2009,26.24957674318694,Water Scarcity Index,%,water_scarcity
+2010,23.756136764608716,Water Scarcity Index,%,water_scarcity
+2011,24.80709480220409,Water Scarcity Index,%,water_scarcity
+2012,25.281592734430802,Water Scarcity Index,%,water_scarcity
+2013,27.39492437694444,Water Scarcity Index,%,water_scarcity
+2014,26.705050321707972,Water Scarcity Index,%,water_scarcity
+2015,28.747742072673734,Water Scarcity Index,%,water_scarcity
+2016,27.32650937575613,Water Scarcity Index,%,water_scarcity
+2017,28.778994162223803,Water Scarcity Index,%,water_scarcity
+2018,28.164652946740244,Water Scarcity Index,%,water_scarcity
+2019,31.645149127773387,Water Scarcity Index,%,water_scarcity
+2020,28.812401580970487,Water Scarcity Index,%,water_scarcity
+2021,30.809820710227026,Water Scarcity Index,%,water_scarcity
+2022,31.6337768809321,Water Scarcity Index,%,water_scarcity
+2023,31.9137990974515,Water Scarcity Index,%,water_scarcity
+2024,31.81471234112229,Water Scarcity Index,%,water_scarcity
+2000,4.870179300266574,Heatwave Duration,days,heatwave_dur
+2001,5.54381147197911,Heatwave Duration,days,heatwave_dur
+2002,5.852997998371511,Heatwave Duration,days,heatwave_dur
+2003,7.46387911679491,Heatwave Duration,days,heatwave_dur
+2004,9.210523001591351,Heatwave Duration,days,heatwave_dur
+2005,6.942508214992166,Heatwave Duration,days,heatwave_dur
+2006,6.630197020420923,Heatwave Duration,days,heatwave_dur
+2007,8.411717951648745,Heatwave Duration,days,heatwave_dur
+2008,11.579709337654318,Heatwave Duration,days,heatwave_dur
+2009,8.69632543203027,Heatwave Duration,days,heatwave_dur
+2010,11.639116805444068,Heatwave Duration,days,heatwave_dur
+2011,12.177700814076442,Heatwave Duration,days,heatwave_dur
+2012,10.446411758292005,Heatwave Duration,days,heatwave_dur
+2013,12.068983079185275,Heatwave Duration,days,heatwave_dur
+2014,13.628396623128538,Heatwave Duration,days,heatwave_dur
+2015,12.120872259012513,Heatwave Duration,days,heatwave_dur
+2016,12.796419639897639,Heatwave Duration,days,heatwave_dur
+2017,12.918319086051357,Heatwave Duration,days,heatwave_dur
+2018,12.985243269307134,Heatwave Duration,days,heatwave_dur
+2019,13.850722454933994,Heatwave Duration,days,heatwave_dur
+2020,13.776059733237744,Heatwave Duration,days,heatwave_dur
+2021,15.534083468259226,Heatwave Duration,days,heatwave_dur
+2022,15.230026768941357,Heatwave Duration,days,heatwave_dur
+2023,16.733785911790747,Heatwave Duration,days,heatwave_dur
+2024,15.444104353796373,Heatwave Duration,days,heatwave_dur
+2000,8.132352092885784,Cold Wave Frequency,events/year,cold_freq
+2001,8.13341158464357,Cold Wave Frequency,events/year,cold_freq
+2002,6.802505742971418,Cold Wave Frequency,events/year,cold_freq
+2003,7.549622627939029,Cold Wave Frequency,events/year,cold_freq
+2004,7.691067596989317,Cold Wave Frequency,events/year,cold_freq
+2005,6.516143592523518,Cold Wave Frequency,events/year,cold_freq
+2006,7.469028954735081,Cold Wave Frequency,events/year,cold_freq
+2007,6.767607603746418,Cold Wave Frequency,events/year,cold_freq
+2008,6.117995257696637,Cold Wave Frequency,events/year,cold_freq
+2009,6.177692368936918,Cold Wave Frequency,events/year,cold_freq
+2010,6.223330765008689,Cold Wave Frequency,events/year,cold_freq
+2011,5.830402156564965,Cold Wave Frequency,events/year,cold_freq
+2012,5.815502396978547,Cold Wave Frequency,events/year,cold_freq
+2013,5.031730562768254,Cold Wave Frequency,events/year,cold_freq
+2014,5.26774432961443,Cold Wave Frequency,events/year,cold_freq
+2015,4.434514201238008,Cold Wave Frequency,events/year,cold_freq
+2016,4.75550957546052,Cold Wave Frequency,events/year,cold_freq
+2017,4.238436943414084,Cold Wave Frequency,events/year,cold_freq
+2018,4.105788022964093,Cold Wave Frequency,events/year,cold_freq
+2019,4.694437270084174,Cold Wave Frequency,events/year,cold_freq
+2020,4.4365240482377075,Cold Wave Frequency,events/year,cold_freq
+2021,4.043655248362871,Cold Wave Frequency,events/year,cold_freq
+2022,3.163074894130968,Cold Wave Frequency,events/year,cold_freq
+2023,3.273436620122079,Cold Wave Frequency,events/year,cold_freq
+2024,3.6852390799916726,Cold Wave Frequency,events/year,cold_freq
+2000,10.014171691363991,Tropical Cyclone Intensity,index,cyclone_int
+2001,10.28193295399817,Tropical Cyclone Intensity,index,cyclone_int
+2002,10.139331783939436,Tropical Cyclone Intensity,index,cyclone_int
+2003,10.169204911649004,Tropical Cyclone Intensity,index,cyclone_int
+2004,10.169088353579749,Tropical Cyclone Intensity,index,cyclone_int
+2005,10.263354090478229,Tropical Cyclone Intensity,index,cyclone_int
+2006,10.284753016361947,Tropical Cyclone Intensity,index,cyclone_int
+2007,10.420810867668859,Tropical Cyclone Intensity,index,cyclone_int
+2008,10.495670231679458,Tropical Cyclone Intensity,index,cyclone_int
+2009,10.371401053949205,Tropical Cyclone Intensity,index,cyclone_int
+2010,10.366876704644222,Tropical Cyclone Intensity,index,cyclone_int
+2011,10.366379462689672,Tropical Cyclone Intensity,index,cyclone_int
+2012,10.650799132691255,Tropical Cyclone Intensity,index,cyclone_int
+2013,10.539663339382614,Tropical Cyclone Intensity,index,cyclone_int
+2014,10.484710940704751,Tropical Cyclone Intensity,index,cyclone_int
+2015,10.788857860453096,Tropical Cyclone Intensity,index,cyclone_int
+2016,11.04929995174328,Tropical Cyclone Intensity,index,cyclone_int
+2017,10.84939290884601,Tropical Cyclone Intensity,index,cyclone_int
+2018,10.983849077445164,Tropical Cyclone Intensity,index,cyclone_int
+2019,10.958182935854756,Tropical Cyclone Intensity,index,cyclone_int
+2020,10.990111034680886,Tropical Cyclone Intensity,index,cyclone_int
+2021,11.141907648298778,Tropical Cyclone Intensity,index,cyclone_int
+2022,11.070972545581135,Tropical Cyclone Intensity,index,cyclone_int
+2023,11.17673923140719,Tropical Cyclone Intensity,index,cyclone_int
+2024,11.2321697806196,Tropical Cyclone Intensity,index,cyclone_int
+2000,3.5991457278141707,Wildfire Burned Area,Mha,wildfire_area
+2001,4.895225409721913,Wildfire Burned Area,Mha,wildfire_area
+2002,4.495024145982755,Wildfire Burned Area,Mha,wildfire_area
+2003,4.446552904304293,Wildfire Burned Area,Mha,wildfire_area
+2004,5.521905906142242,Wildfire Burned Area,Mha,wildfire_area
+2005,4.960919210925377,Wildfire Burned Area,Mha,wildfire_area
+2006,5.8169086944214765,Wildfire Burned Area,Mha,wildfire_area
+2007,6.094528602013478,Wildfire Burned Area,Mha,wildfire_area
+2008,7.051537339498947,Wildfire Burned Area,Mha,wildfire_area
+2009,6.984818939727971,Wildfire Burned Area,Mha,wildfire_area
+2010,6.984983824752914,Wildfire Burned Area,Mha,wildfire_area
+2011,7.790659779520172,Wildfire Burned Area,Mha,wildfire_area
+2012,8.434124529410388,Wildfire Burned Area,Mha,wildfire_area
+2013,8.234686183811117,Wildfire Burned Area,Mha,wildfire_area
+2014,8.206211571906028,Wildfire Burned Area,Mha,wildfire_area
+2015,7.712898260589904,Wildfire Burned Area,Mha,wildfire_area
+2016,8.160931802154778,Wildfire Burned Area,Mha,wildfire_area
+2017,8.9168651773872,Wildfire Burned Area,Mha,wildfire_area
+2018,9.034292678704428,Wildfire Burned Area,Mha,wildfire_area
+2019,9.587817218208732,Wildfire Burned Area,Mha,wildfire_area
+2020,10.033989954938264,Wildfire Burned Area,Mha,wildfire_area
+2021,10.61781565261404,Wildfire Burned Area,Mha,wildfire_area
+2022,10.557700733164545,Wildfire Burned Area,Mha,wildfire_area
+2023,11.19190098629572,Wildfire Burned Area,Mha,wildfire_area
+2024,11.238684648886071,Wildfire Burned Area,Mha,wildfire_area
+2000,10.419626746916903,Extreme Rainfall Events,count,extreme_rain
+2001,11.648531684944997,Extreme Rainfall Events,count,extreme_rain
+2002,12.684729955422709,Extreme Rainfall Events,count,extreme_rain
+2003,12.232244205727113,Extreme Rainfall Events,count,extreme_rain
+2004,14.079942983996963,Extreme Rainfall Events,count,extreme_rain
+2005,15.224600665874958,Extreme Rainfall Events,count,extreme_rain
+2006,15.375009481357854,Extreme Rainfall Events,count,extreme_rain
+2007,14.629245703255835,Extreme Rainfall Events,count,extreme_rain
+2008,16.39258090947996,Extreme Rainfall Events,count,extreme_rain
+2009,15.718933965761689,Extreme Rainfall Events,count,extreme_rain
+2010,15.73033122310557,Extreme Rainfall Events,count,extreme_rain
+2011,15.909277869167246,Extreme Rainfall Events,count,extreme_rain
+2012,16.5580242508095,Extreme Rainfall Events,count,extreme_rain
+2013,16.889458545167017,Extreme Rainfall Events,count,extreme_rain
+2014,17.736332977900393,Extreme Rainfall Events,count,extreme_rain
+2015,18.12845918483989,Extreme Rainfall Events,count,extreme_rain
+2016,18.40243681612273,Extreme Rainfall Events,count,extreme_rain
+2017,19.14955053579708,Extreme Rainfall Events,count,extreme_rain
+2018,20.152517019829073,Extreme Rainfall Events,count,extreme_rain
+2019,20.35964330835306,Extreme Rainfall Events,count,extreme_rain
+2020,18.812081625240076,Extreme Rainfall Events,count,extreme_rain
+2021,18.356863092078434,Extreme Rainfall Events,count,extreme_rain
+2022,21.54745592899142,Extreme Rainfall Events,count,extreme_rain
+2023,20.106497041267666,Extreme Rainfall Events,count,extreme_rain
+2024,21.420187678485856,Extreme Rainfall Events,count,extreme_rain
+2000,4.531954789576256,Dust Storm Frequency,events/year,dust_storms
+2001,4.479207824967992,Dust Storm Frequency,events/year,dust_storms
+2002,5.616585091281916,Dust Storm Frequency,events/year,dust_storms
+2003,5.903662064121058,Dust Storm Frequency,events/year,dust_storms
+2004,5.569395839709312,Dust Storm Frequency,events/year,dust_storms
+2005,4.963583083142036,Dust Storm Frequency,events/year,dust_storms
+2006,5.981502220699007,Dust Storm Frequency,events/year,dust_storms
+2007,6.556721602161019,Dust Storm Frequency,events/year,dust_storms
+2008,6.008435372490348,Dust Storm Frequency,events/year,dust_storms
+2009,6.873343967911662,Dust Storm Frequency,events/year,dust_storms
+2010,6.993876060330802,Dust Storm Frequency,events/year,dust_storms
+2011,7.431716599840436,Dust Storm Frequency,events/year,dust_storms
+2012,7.447832147365662,Dust Storm Frequency,events/year,dust_storms
+2013,7.210772423647377,Dust Storm Frequency,events/year,dust_storms
+2014,8.278628600665797,Dust Storm Frequency,events/year,dust_storms
+2015,7.936588170789212,Dust Storm Frequency,events/year,dust_storms
+2016,8.189078184196026,Dust Storm Frequency,events/year,dust_storms
+2017,8.026692816370723,Dust Storm Frequency,events/year,dust_storms
+2018,8.422687099523396,Dust Storm Frequency,events/year,dust_storms
+2019,8.44607891438924,Dust Storm Frequency,events/year,dust_storms
+2020,8.930821576030631,Dust Storm Frequency,events/year,dust_storms
+2021,9.884683392056937,Dust Storm Frequency,events/year,dust_storms
+2022,8.851239542827457,Dust Storm Frequency,events/year,dust_storms
+2023,8.954575440849306,Dust Storm Frequency,events/year,dust_storms
+2024,10.388468130997444,Dust Storm Frequency,events/year,dust_storms
+2000,4.916270529139253,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2001,4.932370904536033,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2002,5.815961874958431,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2003,5.357753784105254,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2004,6.5304038854187745,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2005,6.2711703485357075,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2006,6.004835436741719,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2007,7.262923285306202,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2008,6.357714030798665,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2009,7.096838148803722,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2010,7.119717032162597,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2011,7.72069651575952,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2012,8.024604478690742,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2013,7.612801659626307,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2014,7.498632851861528,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2015,8.183988857175647,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2016,7.928913852099157,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2017,9.205354899010649,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2018,8.654614132433094,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2019,8.653871379475158,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2020,9.073872122345964,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2021,8.66114948418812,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2022,9.01135438459574,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2023,10.080165563177772,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2024,9.537242288411443,GDP Exposure to Climate Risk,%,gdp_climate_risk
+2000,-0.046910982681939606,Climate Refugees Count,millions,climate_refugees
+2001,2.036652752527286,Climate Refugees Count,millions,climate_refugees
+2002,3.185704154662997,Climate Refugees Count,millions,climate_refugees
+2003,3.218953310665067,Climate Refugees Count,millions,climate_refugees
+2004,3.9960476858058165,Climate Refugees Count,millions,climate_refugees
+2005,2.7432049114305395,Climate Refugees Count,millions,climate_refugees
+2006,2.5781893332581562,Climate Refugees Count,millions,climate_refugees
+2007,6.001333651955487,Climate Refugees Count,millions,climate_refugees
+2008,4.677320161157864,Climate Refugees Count,millions,climate_refugees
+2009,5.249166983544953,Climate Refugees Count,millions,climate_refugees
+2010,7.328194141849058,Climate Refugees Count,millions,climate_refugees
+2011,7.05623000940066,Climate Refugees Count,millions,climate_refugees
+2012,7.455887772081607,Climate Refugees Count,millions,climate_refugees
+2013,9.665002344901083,Climate Refugees Count,millions,climate_refugees
+2014,7.356481769619857,Climate Refugees Count,millions,climate_refugees
+2015,9.427840128081238,Climate Refugees Count,millions,climate_refugees
+2016,9.057013124897084,Climate Refugees Count,millions,climate_refugees
+2017,9.768592278863258,Climate Refugees Count,millions,climate_refugees
+2018,11.528468426412532,Climate Refugees Count,millions,climate_refugees
+2019,11.007835756289623,Climate Refugees Count,millions,climate_refugees
+2020,11.538296079049633,Climate Refugees Count,millions,climate_refugees
+2021,12.572507337309801,Climate Refugees Count,millions,climate_refugees
+2022,11.635047270457115,Climate Refugees Count,millions,climate_refugees
+2023,11.660790332660994,Climate Refugees Count,millions,climate_refugees
+2024,11.955190805978967,Climate Refugees Count,millions,climate_refugees
+2000,98.8201860463744,Agricultural Yield Change,%,agri_yield
+2001,100.9337242779642,Agricultural Yield Change,%,agri_yield
+2002,98.73807498056699,Agricultural Yield Change,%,agri_yield
+2003,98.96724782584853,Agricultural Yield Change,%,agri_yield
+2004,98.63391202006665,Agricultural Yield Change,%,agri_yield
+2005,98.68444401868545,Agricultural Yield Change,%,agri_yield
+2006,98.68944232752358,Agricultural Yield Change,%,agri_yield
+2007,98.41628409301585,Agricultural Yield Change,%,agri_yield
+2008,97.25015353685863,Agricultural Yield Change,%,agri_yield
+2009,97.19972697172815,Agricultural Yield Change,%,agri_yield
+2010,97.16954797029298,Agricultural Yield Change,%,agri_yield
+2011,96.55078532428988,Agricultural Yield Change,%,agri_yield
+2012,97.364407345612,Agricultural Yield Change,%,agri_yield
+2013,96.39458497098295,Agricultural Yield Change,%,agri_yield
+2014,96.2409266716299,Agricultural Yield Change,%,agri_yield
+2015,95.89772876120045,Agricultural Yield Change,%,agri_yield
+2016,95.9040843144912,Agricultural Yield Change,%,agri_yield
+2017,95.00861293522223,Agricultural Yield Change,%,agri_yield
+2018,93.82190083122649,Agricultural Yield Change,%,agri_yield
+2019,94.53981277105159,Agricultural Yield Change,%,agri_yield
+2020,93.6091858637249,Agricultural Yield Change,%,agri_yield
+2021,93.38282999095014,Agricultural Yield Change,%,agri_yield
+2022,93.75181841125305,Agricultural Yield Change,%,agri_yield
+2023,93.84296984286017,Agricultural Yield Change,%,agri_yield
+2024,92.81276294604163,Agricultural Yield Change,%,agri_yield
+2000,1506.1766602519792,Water Stress per Capita,m3,water_stress
+2001,1524.0442988927048,Water Stress per Capita,m3,water_stress
+2002,1484.8150635897714,Water Stress per Capita,m3,water_stress
+2003,1522.033662283608,Water Stress per Capita,m3,water_stress
+2004,1471.3101929126308,Water Stress per Capita,m3,water_stress
+2005,1414.7847448168836,Water Stress per Capita,m3,water_stress
+2006,1455.0668324220906,Water Stress per Capita,m3,water_stress
+2007,1437.6231676976556,Water Stress per Capita,m3,water_stress
+2008,1445.795055081655,Water Stress per Capita,m3,water_stress
+2009,1423.463627025399,Water Stress per Capita,m3,water_stress
+2010,1397.2308803203246,Water Stress per Capita,m3,water_stress
+2011,1365.5140352742126,Water Stress per Capita,m3,water_stress
+2012,1375.8195348542795,Water Stress per Capita,m3,water_stress
+2013,1352.989590915814,Water Stress per Capita,m3,water_stress
+2014,1348.3895310039056,Water Stress per Capita,m3,water_stress
+2015,1361.771568088412,Water Stress per Capita,m3,water_stress
+2016,1373.398090087028,Water Stress per Capita,m3,water_stress
+2017,1337.8934305964597,Water Stress per Capita,m3,water_stress
+2018,1296.0823387592964,Water Stress per Capita,m3,water_stress
+2019,1318.8920533644027,Water Stress per Capita,m3,water_stress
+2020,1323.932629732913,Water Stress per Capita,m3,water_stress
+2021,1277.8043419136125,Water Stress per Capita,m3,water_stress
+2022,1277.3196566665417,Water Stress per Capita,m3,water_stress
+2023,1270.293763894584,Water Stress per Capita,m3,water_stress
+2024,1244.3020337383552,Water Stress per Capita,m3,water_stress
+2000,202.59312173537543,Cooling Degree Days,days,energy_cooling
+2001,201.51620740556888,Cooling Degree Days,days,energy_cooling
+2002,205.67812977562812,Cooling Degree Days,days,energy_cooling
+2003,202.4500312887916,Cooling Degree Days,days,energy_cooling
+2004,206.25016679870635,Cooling Degree Days,days,energy_cooling
+2005,212.88952543131109,Cooling Degree Days,days,energy_cooling
+2006,210.50866739163294,Cooling Degree Days,days,energy_cooling
+2007,220.90785540493363,Cooling Degree Days,days,energy_cooling
+2008,214.40145525754158,Cooling Degree Days,days,energy_cooling
+2009,218.89873890300754,Cooling Degree Days,days,energy_cooling
+2010,223.73036332749237,Cooling Degree Days,days,energy_cooling
+2011,216.32653706826787,Cooling Degree Days,days,energy_cooling
+2012,216.9567647520769,Cooling Degree Days,days,energy_cooling
+2013,219.89737474171963,Cooling Degree Days,days,energy_cooling
+2014,233.05033641370872,Cooling Degree Days,days,energy_cooling
+2015,227.79256741643022,Cooling Degree Days,days,energy_cooling
+2016,242.232797142673,Cooling Degree Days,days,energy_cooling
+2017,231.74300960537045,Cooling Degree Days,days,energy_cooling
+2018,236.73820521278816,Cooling Degree Days,days,energy_cooling
+2019,244.1684398102715,Cooling Degree Days,days,energy_cooling
+2020,248.0243715526365,Cooling Degree Days,days,energy_cooling
+2021,250.2460143065456,Cooling Degree Days,days,energy_cooling
+2022,248.83346492237257,Cooling Degree Days,days,energy_cooling
+2023,250.09625010324584,Cooling Degree Days,days,energy_cooling
+2024,250.37010779680475,Cooling Degree Days,days,energy_cooling
+2000,6.868066582799931,Carbon Tax Revenue,Billion USD,carbon_tax
+2001,4.87715428081152,Carbon Tax Revenue,Billion USD,carbon_tax
+2002,5.436322679786463,Carbon Tax Revenue,Billion USD,carbon_tax
+2003,8.591901302213715,Carbon Tax Revenue,Billion USD,carbon_tax
+2004,9.391556905940172,Carbon Tax Revenue,Billion USD,carbon_tax
+2005,9.91225268161454,Carbon Tax Revenue,Billion USD,carbon_tax
+2006,13.871329873896116,Carbon Tax Revenue,Billion USD,carbon_tax
+2007,15.692732500569226,Carbon Tax Revenue,Billion USD,carbon_tax
+2008,14.812176527100434,Carbon Tax Revenue,Billion USD,carbon_tax
+2009,19.346072194532628,Carbon Tax Revenue,Billion USD,carbon_tax
+2010,14.259946126079587,Carbon Tax Revenue,Billion USD,carbon_tax
+2011,17.735217297728674,Carbon Tax Revenue,Billion USD,carbon_tax
+2012,17.679626430553267,Carbon Tax Revenue,Billion USD,carbon_tax
+2013,16.120312119024657,Carbon Tax Revenue,Billion USD,carbon_tax
+2014,21.60156635397752,Carbon Tax Revenue,Billion USD,carbon_tax
+2015,22.70780597988012,Carbon Tax Revenue,Billion USD,carbon_tax
+2016,27.832279383781113,Carbon Tax Revenue,Billion USD,carbon_tax
+2017,26.913948042931466,Carbon Tax Revenue,Billion USD,carbon_tax
+2018,24.141951621609905,Carbon Tax Revenue,Billion USD,carbon_tax
+2019,32.249822159202054,Carbon Tax Revenue,Billion USD,carbon_tax
+2020,31.930480869260847,Carbon Tax Revenue,Billion USD,carbon_tax
+2021,31.597034488324677,Carbon Tax Revenue,Billion USD,carbon_tax
+2022,30.8564381627604,Carbon Tax Revenue,Billion USD,carbon_tax
+2023,30.297345831863645,Carbon Tax Revenue,Billion USD,carbon_tax
+2024,32.90670373742947,Carbon Tax Revenue,Billion USD,carbon_tax
+2000,82.66245859112558,Green Bonds Issued,Billion USD,green_bonds
+2001,121.53758917803827,Green Bonds Issued,Billion USD,green_bonds
+2002,126.29730584816568,Green Bonds Issued,Billion USD,green_bonds
+2003,80.33451734641177,Green Bonds Issued,Billion USD,green_bonds
+2004,76.41147700132967,Green Bonds Issued,Billion USD,green_bonds
+2005,129.22658740733613,Green Bonds Issued,Billion USD,green_bonds
+2006,86.94681903311445,Green Bonds Issued,Billion USD,green_bonds
+2007,164.69503142554345,Green Bonds Issued,Billion USD,green_bonds
+2008,165.57192241103994,Green Bonds Issued,Billion USD,green_bonds
+2009,171.01890494395272,Green Bonds Issued,Billion USD,green_bonds
+2010,152.15890798199615,Green Bonds Issued,Billion USD,green_bonds
+2011,230.4080031970915,Green Bonds Issued,Billion USD,green_bonds
+2012,214.01897481014265,Green Bonds Issued,Billion USD,green_bonds
+2013,209.90249492869137,Green Bonds Issued,Billion USD,green_bonds
+2014,173.83213360155054,Green Bonds Issued,Billion USD,green_bonds
+2015,274.1745528484809,Green Bonds Issued,Billion USD,green_bonds
+2016,343.1675479000923,Green Bonds Issued,Billion USD,green_bonds
+2017,354.8377764364361,Green Bonds Issued,Billion USD,green_bonds
+2018,306.28711230241186,Green Bonds Issued,Billion USD,green_bonds
+2019,316.93363818914656,Green Bonds Issued,Billion USD,green_bonds
+2020,364.0632276822507,Green Bonds Issued,Billion USD,green_bonds
+2021,335.04843682435126,Green Bonds Issued,Billion USD,green_bonds
+2022,389.053756994584,Green Bonds Issued,Billion USD,green_bonds
+2023,417.9824083515407,Green Bonds Issued,Billion USD,green_bonds
+2024,446.8079967165292,Green Bonds Issued,Billion USD,green_bonds
+2000,39.499229617600236,Insurance Losses (Climate),Billion USD,insurance_losses
+2001,41.48163124911517,Insurance Losses (Climate),Billion USD,insurance_losses
+2002,40.6100870662172,Insurance Losses (Climate),Billion USD,insurance_losses
+2003,43.365598229800696,Insurance Losses (Climate),Billion USD,insurance_losses
+2004,48.86760554049236,Insurance Losses (Climate),Billion USD,insurance_losses
+2005,54.33682753408089,Insurance Losses (Climate),Billion USD,insurance_losses
+2006,59.567923131166246,Insurance Losses (Climate),Billion USD,insurance_losses
+2007,53.484105246598276,Insurance Losses (Climate),Billion USD,insurance_losses
+2008,67.46344284479761,Insurance Losses (Climate),Billion USD,insurance_losses
+2009,61.14438199478715,Insurance Losses (Climate),Billion USD,insurance_losses
+2010,64.89316352825782,Insurance Losses (Climate),Billion USD,insurance_losses
+2011,63.763941604260886,Insurance Losses (Climate),Billion USD,insurance_losses
+2012,57.87879869863529,Insurance Losses (Climate),Billion USD,insurance_losses
+2013,76.92022698180524,Insurance Losses (Climate),Billion USD,insurance_losses
+2014,78.68421948546217,Insurance Losses (Climate),Billion USD,insurance_losses
+2015,76.09336221440893,Insurance Losses (Climate),Billion USD,insurance_losses
+2016,80.33495358612436,Insurance Losses (Climate),Billion USD,insurance_losses
+2017,85.07969608852049,Insurance Losses (Climate),Billion USD,insurance_losses
+2018,77.18727071556728,Insurance Losses (Climate),Billion USD,insurance_losses
+2019,84.85473661326853,Insurance Losses (Climate),Billion USD,insurance_losses
+2020,93.97132339810913,Insurance Losses (Climate),Billion USD,insurance_losses
+2021,86.22855288415376,Insurance Losses (Climate),Billion USD,insurance_losses
+2022,96.46778966083315,Insurance Losses (Climate),Billion USD,insurance_losses
+2023,90.71709097688297,Insurance Losses (Climate),Billion USD,insurance_losses
+2024,102.33214991216764,Insurance Losses (Climate),Billion USD,insurance_losses
+2000,14.914460442486039,Renewable Energy Share,%,renewable_share
+2001,12.323683641826776,Renewable Energy Share,%,renewable_share
+2002,20.19537445069721,Renewable Energy Share,%,renewable_share
+2003,16.836980215684683,Renewable Energy Share,%,renewable_share
+2004,17.855394151165488,Renewable Energy Share,%,renewable_share
+2005,21.481366073354263,Renewable Energy Share,%,renewable_share
+2006,24.956729638628914,Renewable Energy Share,%,renewable_share
+2007,20.962027634451847,Renewable Energy Share,%,renewable_share
+2008,24.748031639635133,Renewable Energy Share,%,renewable_share
+2009,26.82915960079337,Renewable Energy Share,%,renewable_share
+2010,28.663453457431547,Renewable Energy Share,%,renewable_share
+2011,28.62345973266534,Renewable Energy Share,%,renewable_share
+2012,28.519133186200026,Renewable Energy Share,%,renewable_share
+2013,28.613783470443074,Renewable Energy Share,%,renewable_share
+2014,32.0067453193113,Renewable Energy Share,%,renewable_share
+2015,30.426866371234542,Renewable Energy Share,%,renewable_share
+2016,27.188758839612944,Renewable Energy Share,%,renewable_share
+2017,36.4477435299784,Renewable Energy Share,%,renewable_share
+2018,38.769443618606864,Renewable Energy Share,%,renewable_share
+2019,32.128962154699586,Renewable Energy Share,%,renewable_share
+2020,36.57664630869615,Renewable Energy Share,%,renewable_share
+2021,41.68597022641248,Renewable Energy Share,%,renewable_share
+2022,46.33798912730808,Renewable Energy Share,%,renewable_share
+2023,42.64990489842097,Renewable Energy Share,%,renewable_share
+2024,42.05279294105007,Renewable Energy Share,%,renewable_share
+2000,159.92684142355807,Coal Consumption,EJ,coal_cons
+2001,160.34995056765928,Coal Consumption,EJ,coal_cons
+2002,159.34161432835018,Coal Consumption,EJ,coal_cons
+2003,159.0803231973399,Coal Consumption,EJ,coal_cons
+2004,159.0069025911272,Coal Consumption,EJ,coal_cons
+2005,158.61866855669652,Coal Consumption,EJ,coal_cons
+2006,158.84906812639792,Coal Consumption,EJ,coal_cons
+2007,159.2498713833878,Coal Consumption,EJ,coal_cons
+2008,158.5292317092464,Coal Consumption,EJ,coal_cons
+2009,158.0990585991495,Coal Consumption,EJ,coal_cons
+2010,157.8832754924338,Coal Consumption,EJ,coal_cons
+2011,157.17472367652135,Coal Consumption,EJ,coal_cons
+2012,157.95324391085884,Coal Consumption,EJ,coal_cons
+2013,157.3688651211949,Coal Consumption,EJ,coal_cons
+2014,157.12780803456374,Coal Consumption,EJ,coal_cons
+2015,158.27724302713796,Coal Consumption,EJ,coal_cons
+2016,156.9195011633463,Coal Consumption,EJ,coal_cons
+2017,156.29928357996192,Coal Consumption,EJ,coal_cons
+2018,156.2294569615178,Coal Consumption,EJ,coal_cons
+2019,156.65937828367868,Coal Consumption,EJ,coal_cons
+2020,156.0453081642151,Coal Consumption,EJ,coal_cons
+2021,155.22468880867305,Coal Consumption,EJ,coal_cons
+2022,155.96769157383008,Coal Consumption,EJ,coal_cons
+2023,155.1327423657844,Coal Consumption,EJ,coal_cons
+2024,155.949319110487,Coal Consumption,EJ,coal_cons
+2000,180.21600961314292,Oil Consumption,EJ,oil_cons
+2001,180.01053562086824,Oil Consumption,EJ,oil_cons
+2002,180.456203272347,Oil Consumption,EJ,oil_cons
+2003,180.3135711021055,Oil Consumption,EJ,oil_cons
+2004,180.57055473502444,Oil Consumption,EJ,oil_cons
+2005,180.59694656345889,Oil Consumption,EJ,oil_cons
+2006,180.4307286690018,Oil Consumption,EJ,oil_cons
+2007,180.57129003353648,Oil Consumption,EJ,oil_cons
+2008,181.00599216351625,Oil Consumption,EJ,oil_cons
+2009,180.8330449335787,Oil Consumption,EJ,oil_cons
+2010,180.9192703073516,Oil Consumption,EJ,oil_cons
+2011,180.9089754841301,Oil Consumption,EJ,oil_cons
+2012,181.28471981311867,Oil Consumption,EJ,oil_cons
+2013,181.71250498384865,Oil Consumption,EJ,oil_cons
+2014,181.18649341714914,Oil Consumption,EJ,oil_cons
+2015,181.50484389133456,Oil Consumption,EJ,oil_cons
+2016,181.8824441110831,Oil Consumption,EJ,oil_cons
+2017,181.68407172175085,Oil Consumption,EJ,oil_cons
+2018,181.89047435924996,Oil Consumption,EJ,oil_cons
+2019,181.68752129437064,Oil Consumption,EJ,oil_cons
+2020,182.08566141944152,Oil Consumption,EJ,oil_cons
+2021,182.0625711469991,Oil Consumption,EJ,oil_cons
+2022,182.39714599913597,Oil Consumption,EJ,oil_cons
+2023,182.53747721031297,Oil Consumption,EJ,oil_cons
+2024,182.91791272840373,Oil Consumption,EJ,oil_cons
+2000,130.34777990392814,Gas Consumption,EJ,gas_cons
+2001,130.49547778994932,Gas Consumption,EJ,gas_cons
+2002,130.7166305809464,Gas Consumption,EJ,gas_cons
+2003,130.6881002243136,Gas Consumption,EJ,gas_cons
+2004,131.403090306077,Gas Consumption,EJ,gas_cons
+2005,131.3227591539166,Gas Consumption,EJ,gas_cons
+2006,131.90107658576179,Gas Consumption,EJ,gas_cons
+2007,132.89055852136477,Gas Consumption,EJ,gas_cons
+2008,131.79607446083222,Gas Consumption,EJ,gas_cons
+2009,133.3839271366774,Gas Consumption,EJ,gas_cons
+2010,133.79026904040393,Gas Consumption,EJ,gas_cons
+2011,133.22915888380535,Gas Consumption,EJ,gas_cons
+2012,132.32688706059483,Gas Consumption,EJ,gas_cons
+2013,133.53530680774335,Gas Consumption,EJ,gas_cons
+2014,134.97819672793665,Gas Consumption,EJ,gas_cons
+2015,134.48627916262066,Gas Consumption,EJ,gas_cons
+2016,134.20041866062306,Gas Consumption,EJ,gas_cons
+2017,134.79713504726305,Gas Consumption,EJ,gas_cons
+2018,135.90437201590274,Gas Consumption,EJ,gas_cons
+2019,136.0280401409208,Gas Consumption,EJ,gas_cons
+2020,135.8566407404982,Gas Consumption,EJ,gas_cons
+2021,136.0799053529112,Gas Consumption,EJ,gas_cons
+2022,136.3649451105737,Gas Consumption,EJ,gas_cons
+2023,136.3465538893009,Gas Consumption,EJ,gas_cons
+2024,138.16922541368166,Gas Consumption,EJ,gas_cons
+2000,84.74214362463093,Electricity Access Rate,%,elect_access
+2001,86.37372681666041,Electricity Access Rate,%,elect_access
+2002,87.01705284153796,Electricity Access Rate,%,elect_access
+2003,86.99864871851837,Electricity Access Rate,%,elect_access
+2004,86.25470374982555,Electricity Access Rate,%,elect_access
+2005,87.32298407226929,Electricity Access Rate,%,elect_access
+2006,87.38064351488727,Electricity Access Rate,%,elect_access
+2007,87.07703851141589,Electricity Access Rate,%,elect_access
+2008,88.45948742537729,Electricity Access Rate,%,elect_access
+2009,87.65676816707216,Electricity Access Rate,%,elect_access
+2010,89.95014351076925,Electricity Access Rate,%,elect_access
+2011,89.02830616216129,Electricity Access Rate,%,elect_access
+2012,89.96092772469827,Electricity Access Rate,%,elect_access
+2013,90.42663029723691,Electricity Access Rate,%,elect_access
+2014,90.39287602103673,Electricity Access Rate,%,elect_access
+2015,91.46935504118022,Electricity Access Rate,%,elect_access
+2016,91.02007707470199,Electricity Access Rate,%,elect_access
+2017,92.49703783796579,Electricity Access Rate,%,elect_access
+2018,91.1232162558026,Electricity Access Rate,%,elect_access
+2019,92.70110366363713,Electricity Access Rate,%,elect_access
+2020,94.55114319924662,Electricity Access Rate,%,elect_access
+2021,92.59973494031554,Electricity Access Rate,%,elect_access
+2022,93.25780402358012,Electricity Access Rate,%,elect_access
+2023,94.61112627972713,Electricity Access Rate,%,elect_access
+2024,94.74366542555167,Electricity Access Rate,%,elect_access
+2000,0.5070126019854712,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2001,0.4997837426029533,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2002,0.49269442937123537,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2003,0.49219399683912446,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2004,0.46819637313857027,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2005,0.44517484690762915,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2006,0.4534514740240546,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2007,0.4679976386979043,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2008,0.4173473250723485,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2009,0.3905094139065872,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2010,0.42214161338573947,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2011,0.38759237672092806,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2012,0.3365466090797193,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2013,0.38694843354300845,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2014,0.3492934362809215,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2015,0.34818933435391675,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2016,0.34663960661138027,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2017,0.3338099935955813,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2018,0.3341890363427808,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2019,0.30129027258860314,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2020,0.31026211596352166,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2021,0.2848090664483217,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2022,0.2947762096177501,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2023,0.2823073496802611,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2024,0.2412912259591081,Carbon Intensity of GDP,kg/USD,carbon_intensity
+2000,510.85982116175035,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2001,489.6403655488595,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2002,498.08057798281146,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2003,488.6728731340134,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2004,498.3818367679512,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2005,472.7653401762815,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2006,466.506832038818,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2007,464.8058039411227,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2008,456.96820217165725,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2009,462.9994190194205,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2010,433.8368939156341,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2011,434.46317580853645,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2012,429.3219707842081,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2013,444.50307591973575,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2014,447.10613372581923,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2015,423.95550781462526,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2016,418.3117827680999,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2017,415.70052163113183,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2018,421.6187830260819,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2019,395.72646865809423,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2020,402.38368982734784,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2021,404.7519762978243,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2022,395.0109416993985,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2023,386.8958161659874,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2024,390.0104609256714,Fossil Fuel Subsidies,Billion USD,fossil_subsidies
+2000,-3.32517166879878,EV Market Share,%,ev_market_share
+2001,2.8846005112494524,EV Market Share,%,ev_market_share
+2002,1.553478906996122,EV Market Share,%,ev_market_share
+2003,0.4709873650296692,EV Market Share,%,ev_market_share
+2004,5.0179241592399695,EV Market Share,%,ev_market_share
+2005,7.197853672260733,EV Market Share,%,ev_market_share
+2006,5.580082376595694,EV Market Share,%,ev_market_share
+2007,8.124599275524703,EV Market Share,%,ev_market_share
+2008,9.979645212781833,EV Market Share,%,ev_market_share
+2009,10.303863125734475,EV Market Share,%,ev_market_share
+2010,11.623943246994228,EV Market Share,%,ev_market_share
+2011,10.987403985715028,EV Market Share,%,ev_market_share
+2012,10.72069382224255,EV Market Share,%,ev_market_share
+2013,8.83685470096453,EV Market Share,%,ev_market_share
+2014,11.806300018992083,EV Market Share,%,ev_market_share
+2015,11.650805447494093,EV Market Share,%,ev_market_share
+2016,17.273508347996504,EV Market Share,%,ev_market_share
+2017,14.318582700108262,EV Market Share,%,ev_market_share
+2018,15.597127690855178,EV Market Share,%,ev_market_share
+2019,17.082376601664752,EV Market Share,%,ev_market_share
+2020,17.069763914195924,EV Market Share,%,ev_market_share
+2021,20.512081664689205,EV Market Share,%,ev_market_share
+2022,17.603761021224877,EV Market Share,%,ev_market_share
+2023,19.71137192837959,EV Market Share,%,ev_market_share
+2024,19.012047062883127,EV Market Share,%,ev_market_share
+2000,-95.60180089765646,Solar Installed Capacity,GW,solar_cap
+2001,1.0584727275771684,Solar Installed Capacity,GW,solar_cap
+2002,87.03705623612704,Solar Installed Capacity,GW,solar_cap
+2003,95.6558220386192,Solar Installed Capacity,GW,solar_cap
+2004,114.60632161009153,Solar Installed Capacity,GW,solar_cap
+2005,97.49460290625329,Solar Installed Capacity,GW,solar_cap
+2006,243.35155418970442,Solar Installed Capacity,GW,solar_cap
+2007,169.6223700775198,Solar Installed Capacity,GW,solar_cap
+2008,390.8044770951682,Solar Installed Capacity,GW,solar_cap
+2009,376.5951802347603,Solar Installed Capacity,GW,solar_cap
+2010,293.3958800428056,Solar Installed Capacity,GW,solar_cap
+2011,425.2632738360109,Solar Installed Capacity,GW,solar_cap
+2012,429.8274875527533,Solar Installed Capacity,GW,solar_cap
+2013,555.5339608335345,Solar Installed Capacity,GW,solar_cap
+2014,677.2360356818516,Solar Installed Capacity,GW,solar_cap
+2015,459.98620242834045,Solar Installed Capacity,GW,solar_cap
+2016,659.2020863317933,Solar Installed Capacity,GW,solar_cap
+2017,677.1893763546688,Solar Installed Capacity,GW,solar_cap
+2018,783.7072061160372,Solar Installed Capacity,GW,solar_cap
+2019,787.0557302590151,Solar Installed Capacity,GW,solar_cap
+2020,749.8424534608945,Solar Installed Capacity,GW,solar_cap
+2021,824.4756851466706,Solar Installed Capacity,GW,solar_cap
+2022,826.3179314557209,Solar Installed Capacity,GW,solar_cap
+2023,1016.0805710878878,Solar Installed Capacity,GW,solar_cap
+2024,971.7049318937554,Solar Installed Capacity,GW,solar_cap
+2000,153.08334800271052,Wind Installed Capacity,GW,wind_cap
+2001,50.753743032976544,Wind Installed Capacity,GW,wind_cap
+2002,40.411526316267604,Wind Installed Capacity,GW,wind_cap
+2003,19.039992517102107,Wind Installed Capacity,GW,wind_cap
+2004,33.780222662083844,Wind Installed Capacity,GW,wind_cap
+2005,84.11048398961572,Wind Installed Capacity,GW,wind_cap
+2006,248.69886557080383,Wind Installed Capacity,GW,wind_cap
+2007,300.61075162609535,Wind Installed Capacity,GW,wind_cap
+2008,189.31665085775066,Wind Installed Capacity,GW,wind_cap
+2009,397.65268198532806,Wind Installed Capacity,GW,wind_cap
+2010,336.18572638215926,Wind Installed Capacity,GW,wind_cap
+2011,415.27551083898845,Wind Installed Capacity,GW,wind_cap
+2012,552.8554439778798,Wind Installed Capacity,GW,wind_cap
+2013,537.7787521105872,Wind Installed Capacity,GW,wind_cap
+2014,491.20285464659173,Wind Installed Capacity,GW,wind_cap
+2015,482.6165442209299,Wind Installed Capacity,GW,wind_cap
+2016,429.37292190694865,Wind Installed Capacity,GW,wind_cap
+2017,564.6592676530306,Wind Installed Capacity,GW,wind_cap
+2018,635.2208832820614,Wind Installed Capacity,GW,wind_cap
+2019,615.8974330994172,Wind Installed Capacity,GW,wind_cap
+2020,710.8120123035387,Wind Installed Capacity,GW,wind_cap
+2021,760.3796318071138,Wind Installed Capacity,GW,wind_cap
+2022,774.2600812734345,Wind Installed Capacity,GW,wind_cap
+2023,779.4998193423578,Wind Installed Capacity,GW,wind_cap
+2024,871.805827037671,Wind Installed Capacity,GW,wind_cap
+2000,808.8388129913882,Hydropower Capacity,GW,hydro_cap
+2001,788.1920184511431,Hydropower Capacity,GW,hydro_cap
+2002,848.2186475949254,Hydropower Capacity,GW,hydro_cap
+2003,828.0282373543148,Hydropower Capacity,GW,hydro_cap
+2004,840.376992458897,Hydropower Capacity,GW,hydro_cap
+2005,864.1642884651311,Hydropower Capacity,GW,hydro_cap
+2006,864.6643226252701,Hydropower Capacity,GW,hydro_cap
+2007,889.0627326782649,Hydropower Capacity,GW,hydro_cap
+2008,885.7424833040365,Hydropower Capacity,GW,hydro_cap
+2009,877.7512525071912,Hydropower Capacity,GW,hydro_cap
+2010,907.2300705041221,Hydropower Capacity,GW,hydro_cap
+2011,887.1254758535867,Hydropower Capacity,GW,hydro_cap
+2012,922.1711941155305,Hydropower Capacity,GW,hydro_cap
+2013,929.3354001871107,Hydropower Capacity,GW,hydro_cap
+2014,935.8376628545492,Hydropower Capacity,GW,hydro_cap
+2015,947.4292497712214,Hydropower Capacity,GW,hydro_cap
+2016,922.3630190900473,Hydropower Capacity,GW,hydro_cap
+2017,959.0255018451808,Hydropower Capacity,GW,hydro_cap
+2018,981.8568980228223,Hydropower Capacity,GW,hydro_cap
+2019,993.197127839948,Hydropower Capacity,GW,hydro_cap
+2020,979.4464971814808,Hydropower Capacity,GW,hydro_cap
+2021,1035.314156817294,Hydropower Capacity,GW,hydro_cap
+2022,1002.67650303571,Hydropower Capacity,GW,hydro_cap
+2023,1049.3891440105347,Hydropower Capacity,GW,hydro_cap
+2024,1048.5438872374336,Hydropower Capacity,GW,hydro_cap
+2000,9.870754538031239,Nuclear Energy Share,%,nuclear_share
+2001,10.255062178521904,Nuclear Energy Share,%,nuclear_share
+2002,9.561272633648704,Nuclear Energy Share,%,nuclear_share
+2003,9.883830834722,Nuclear Energy Share,%,nuclear_share
+2004,9.800116463608596,Nuclear Energy Share,%,nuclear_share
+2005,9.36587595818467,Nuclear Energy Share,%,nuclear_share
+2006,9.678493060012865,Nuclear Energy Share,%,nuclear_share
+2007,9.24999069708021,Nuclear Energy Share,%,nuclear_share
+2008,9.25773872585597,Nuclear Energy Share,%,nuclear_share
+2009,9.152064367754244,Nuclear Energy Share,%,nuclear_share
+2010,8.97313825170589,Nuclear Energy Share,%,nuclear_share
+2011,9.062161654631957,Nuclear Energy Share,%,nuclear_share
+2012,8.958697744110443,Nuclear Energy Share,%,nuclear_share
+2013,8.350293605352363,Nuclear Energy Share,%,nuclear_share
+2014,8.86086804857563,Nuclear Energy Share,%,nuclear_share
+2015,8.167501602392866,Nuclear Energy Share,%,nuclear_share
+2016,8.606509240868332,Nuclear Energy Share,%,nuclear_share
+2017,8.525341027365517,Nuclear Energy Share,%,nuclear_share
+2018,7.98180671395696,Nuclear Energy Share,%,nuclear_share
+2019,8.017837142409082,Nuclear Energy Share,%,nuclear_share
+2020,7.778859066302813,Nuclear Energy Share,%,nuclear_share
+2021,7.857015793942253,Nuclear Energy Share,%,nuclear_share
+2022,7.738393143162852,Nuclear Energy Share,%,nuclear_share
+2023,7.855932106453867,Nuclear Energy Share,%,nuclear_share
+2024,7.862061749223921,Nuclear Energy Share,%,nuclear_share
+2000,101.39568381078996,Energy Efficiency Index,index,energy_eff
+2001,99.9378319734217,Energy Efficiency Index,index,energy_eff
+2002,100.79077812625547,Energy Efficiency Index,index,energy_eff
+2003,99.81656180777905,Energy Efficiency Index,index,energy_eff
+2004,101.19412993350382,Energy Efficiency Index,index,energy_eff
+2005,103.46485163309745,Energy Efficiency Index,index,energy_eff
+2006,104.61558282354824,Energy Efficiency Index,index,energy_eff
+2007,102.26565112812008,Energy Efficiency Index,index,energy_eff
+2008,103.40753574084711,Energy Efficiency Index,index,energy_eff
+2009,104.47359424304108,Energy Efficiency Index,index,energy_eff
+2010,105.28016115881961,Energy Efficiency Index,index,energy_eff
+2011,104.69039648007835,Energy Efficiency Index,index,energy_eff
+2012,106.4240610444641,Energy Efficiency Index,index,energy_eff
+2013,106.02616065292908,Energy Efficiency Index,index,energy_eff
+2014,106.98554772912172,Energy Efficiency Index,index,energy_eff
+2015,108.0462842480037,Energy Efficiency Index,index,energy_eff
+2016,108.00642226981094,Energy Efficiency Index,index,energy_eff
+2017,108.06361410947343,Energy Efficiency Index,index,energy_eff
+2018,108.89039019607416,Energy Efficiency Index,index,energy_eff
+2019,109.41163704079466,Energy Efficiency Index,index,energy_eff
+2020,109.62998897011788,Energy Efficiency Index,index,energy_eff
+2021,110.2412039373329,Energy Efficiency Index,index,energy_eff
+2022,112.59864717050472,Energy Efficiency Index,index,energy_eff
+2023,112.06091944794125,Energy Efficiency Index,index,energy_eff
+2024,111.70451968197084,Energy Efficiency Index,index,energy_eff
+2000,6.069695440451073,Transport Emissions,GtCO2,transport_emis
+2001,6.016618051024399,Transport Emissions,GtCO2,transport_emis
+2002,6.217312463758664,Transport Emissions,GtCO2,transport_emis
+2003,6.18696421921981,Transport Emissions,GtCO2,transport_emis
+2004,6.189269785599577,Transport Emissions,GtCO2,transport_emis
+2005,6.294771692581028,Transport Emissions,GtCO2,transport_emis
+2006,6.14291238479315,Transport Emissions,GtCO2,transport_emis
+2007,6.237323253109019,Transport Emissions,GtCO2,transport_emis
+2008,6.280607499360094,Transport Emissions,GtCO2,transport_emis
+2009,6.4642943094763705,Transport Emissions,GtCO2,transport_emis
+2010,6.673251499948509,Transport Emissions,GtCO2,transport_emis
+2011,6.773130014619263,Transport Emissions,GtCO2,transport_emis
+2012,6.663805110144075,Transport Emissions,GtCO2,transport_emis
+2013,6.700084447494446,Transport Emissions,GtCO2,transport_emis
+2014,6.519894226584726,Transport Emissions,GtCO2,transport_emis
+2015,6.695732620026598,Transport Emissions,GtCO2,transport_emis
+2016,6.721221624809176,Transport Emissions,GtCO2,transport_emis
+2017,6.787915240174888,Transport Emissions,GtCO2,transport_emis
+2018,6.883185618141521,Transport Emissions,GtCO2,transport_emis
+2019,6.902790942230287,Transport Emissions,GtCO2,transport_emis
+2020,6.8020700189624215,Transport Emissions,GtCO2,transport_emis
+2021,7.124791025611753,Transport Emissions,GtCO2,transport_emis
+2022,6.992725697426019,Transport Emissions,GtCO2,transport_emis
+2023,7.173924686411115,Transport Emissions,GtCO2,transport_emis
+2024,7.407408266974998,Transport Emissions,GtCO2,transport_emis
+2000,11.963224616336543,Industrial Emissions,GtCO2,industry_emis
+2001,11.918788499090146,Industrial Emissions,GtCO2,industry_emis
+2002,12.028559831124795,Industrial Emissions,GtCO2,industry_emis
+2003,12.104038385399944,Industrial Emissions,GtCO2,industry_emis
+2004,12.158333898168824,Industrial Emissions,GtCO2,industry_emis
+2005,12.050818016221903,Industrial Emissions,GtCO2,industry_emis
+2006,12.13986796892946,Industrial Emissions,GtCO2,industry_emis
+2007,12.121387581728799,Industrial Emissions,GtCO2,industry_emis
+2008,12.155762065827835,Industrial Emissions,GtCO2,industry_emis
+2009,12.285773733880681,Industrial Emissions,GtCO2,industry_emis
+2010,12.139881186864192,Industrial Emissions,GtCO2,industry_emis
+2011,12.230149586459783,Industrial Emissions,GtCO2,industry_emis
+2012,12.258707726870618,Industrial Emissions,GtCO2,industry_emis
+2013,12.303431452997573,Industrial Emissions,GtCO2,industry_emis
+2014,12.283919326138836,Industrial Emissions,GtCO2,industry_emis
+2015,12.312322021580165,Industrial Emissions,GtCO2,industry_emis
+2016,12.304334057303128,Industrial Emissions,GtCO2,industry_emis
+2017,12.350765077649804,Industrial Emissions,GtCO2,industry_emis
+2018,12.346272308980103,Industrial Emissions,GtCO2,industry_emis
+2019,12.404862875594242,Industrial Emissions,GtCO2,industry_emis
+2020,12.385215586558255,Industrial Emissions,GtCO2,industry_emis
+2021,12.435084015756088,Industrial Emissions,GtCO2,industry_emis
+2022,12.438829487452601,Industrial Emissions,GtCO2,industry_emis
+2023,12.505042010030888,Industrial Emissions,GtCO2,industry_emis
+2024,12.477944251056462,Industrial Emissions,GtCO2,industry_emis
+2000,3.9645393506358624,Residential Emissions,GtCO2,resid_emis
+2001,4.03523843001428,Residential Emissions,GtCO2,resid_emis
+2002,4.001885353982747,Residential Emissions,GtCO2,resid_emis
+2003,4.016924673227024,Residential Emissions,GtCO2,resid_emis
+2004,4.028086774119131,Residential Emissions,GtCO2,resid_emis
+2005,4.077488761863417,Residential Emissions,GtCO2,resid_emis
+2006,4.017286515720426,Residential Emissions,GtCO2,resid_emis
+2007,4.1327549706732,Residential Emissions,GtCO2,resid_emis
+2008,4.101121136181321,Residential Emissions,GtCO2,resid_emis
+2009,4.094464778282583,Residential Emissions,GtCO2,resid_emis
+2010,4.098902119987674,Residential Emissions,GtCO2,resid_emis
+2011,4.115711081497153,Residential Emissions,GtCO2,resid_emis
+2012,4.130422448567587,Residential Emissions,GtCO2,resid_emis
+2013,4.142904311719001,Residential Emissions,GtCO2,resid_emis
+2014,4.151112089320069,Residential Emissions,GtCO2,resid_emis
+2015,4.151791613625106,Residential Emissions,GtCO2,resid_emis
+2016,4.156053231593853,Residential Emissions,GtCO2,resid_emis
+2017,4.16697453432693,Residential Emissions,GtCO2,resid_emis
+2018,4.176101834392946,Residential Emissions,GtCO2,resid_emis
+2019,4.212675401937342,Residential Emissions,GtCO2,resid_emis
+2020,4.211871134445618,Residential Emissions,GtCO2,resid_emis
+2021,4.151192227306715,Residential Emissions,GtCO2,resid_emis
+2022,4.233118015530595,Residential Emissions,GtCO2,resid_emis
+2023,4.233894723894376,Residential Emissions,GtCO2,resid_emis
+2024,4.239625824871082,Residential Emissions,GtCO2,resid_emis
+2000,1.496114815469111,Waste Management Emissions,GtCO2,waste_emis
+2001,1.51624112719986,Waste Management Emissions,GtCO2,waste_emis
+2002,1.5194752646212286,Waste Management Emissions,GtCO2,waste_emis
+2003,1.5072712233217638,Waste Management Emissions,GtCO2,waste_emis
+2004,1.5240705228712454,Waste Management Emissions,GtCO2,waste_emis
+2005,1.515283432654587,Waste Management Emissions,GtCO2,waste_emis
+2006,1.5162038183521107,Waste Management Emissions,GtCO2,waste_emis
+2007,1.5287328277541004,Waste Management Emissions,GtCO2,waste_emis
+2008,1.5486239347238275,Waste Management Emissions,GtCO2,waste_emis
+2009,1.5545312504537607,Waste Management Emissions,GtCO2,waste_emis
+2010,1.555130854200973,Waste Management Emissions,GtCO2,waste_emis
+2011,1.56225095786848,Waste Management Emissions,GtCO2,waste_emis
+2012,1.5651617828711497,Waste Management Emissions,GtCO2,waste_emis
+2013,1.5585851840477705,Waste Management Emissions,GtCO2,waste_emis
+2014,1.5743192254467395,Waste Management Emissions,GtCO2,waste_emis
+2015,1.5830040952522768,Waste Management Emissions,GtCO2,waste_emis
+2016,1.5875429132981358,Waste Management Emissions,GtCO2,waste_emis
+2017,1.5968891337147464,Waste Management Emissions,GtCO2,waste_emis
+2018,1.5970830384720107,Waste Management Emissions,GtCO2,waste_emis
+2019,1.5985144820754158,Waste Management Emissions,GtCO2,waste_emis
+2020,1.6107015023831643,Waste Management Emissions,GtCO2,waste_emis
+2021,1.6047347874075093,Waste Management Emissions,GtCO2,waste_emis
+2022,1.601181253487723,Waste Management Emissions,GtCO2,waste_emis
+2023,1.6133693303605623,Waste Management Emissions,GtCO2,waste_emis
+2024,1.6125509735519357,Waste Management Emissions,GtCO2,waste_emis
+2000,0.9972992869001025,Fugitive Emissions,GtCO2,fugitive_emis
+2001,1.001421925317138,Fugitive Emissions,GtCO2,fugitive_emis
+2002,1.000830320316,Fugitive Emissions,GtCO2,fugitive_emis
+2003,1.004768153881444,Fugitive Emissions,GtCO2,fugitive_emis
+2004,1.0004255413321848,Fugitive Emissions,GtCO2,fugitive_emis
+2005,1.0108531748294918,Fugitive Emissions,GtCO2,fugitive_emis
+2006,1.0120048219014488,Fugitive Emissions,GtCO2,fugitive_emis
+2007,1.0107316454757274,Fugitive Emissions,GtCO2,fugitive_emis
+2008,1.0186369826737296,Fugitive Emissions,GtCO2,fugitive_emis
+2009,1.0217502805505063,Fugitive Emissions,GtCO2,fugitive_emis
+2010,1.013569760542524,Fugitive Emissions,GtCO2,fugitive_emis
+2011,1.0189491008857352,Fugitive Emissions,GtCO2,fugitive_emis
+2012,1.0209234306008508,Fugitive Emissions,GtCO2,fugitive_emis
+2013,1.0222403875955646,Fugitive Emissions,GtCO2,fugitive_emis
+2014,1.031317899367727,Fugitive Emissions,GtCO2,fugitive_emis
+2015,1.029224695444909,Fugitive Emissions,GtCO2,fugitive_emis
+2016,1.0309419406347575,Fugitive Emissions,GtCO2,fugitive_emis
+2017,1.025984550542373,Fugitive Emissions,GtCO2,fugitive_emis
+2018,1.038541672120837,Fugitive Emissions,GtCO2,fugitive_emis
+2019,1.0330429664205862,Fugitive Emissions,GtCO2,fugitive_emis
+2020,1.0402397305210653,Fugitive Emissions,GtCO2,fugitive_emis
+2021,1.0431095077518329,Fugitive Emissions,GtCO2,fugitive_emis
+2022,1.0494426343833547,Fugitive Emissions,GtCO2,fugitive_emis
+2023,1.0407647184035236,Fugitive Emissions,GtCO2,fugitive_emis
+2024,1.0359219513767168,Fugitive Emissions,GtCO2,fugitive_emis
+2000,307.35398179014777,Climate Laws Count,count,climate_laws
+2001,392.02044726043414,Climate Laws Count,count,climate_laws
+2002,389.5578541175775,Climate Laws Count,count,climate_laws
+2003,368.38637661098505,Climate Laws Count,count,climate_laws
+2004,360.3345525747181,Climate Laws Count,count,climate_laws
+2005,432.2849038654924,Climate Laws Count,count,climate_laws
+2006,381.0581520118213,Climate Laws Count,count,climate_laws
+2007,459.0543107742488,Climate Laws Count,count,climate_laws
+2008,480.2188063666651,Climate Laws Count,count,climate_laws
+2009,522.4083962999551,Climate Laws Count,count,climate_laws
+2010,610.3864015564432,Climate Laws Count,count,climate_laws
+2011,535.6966386871507,Climate Laws Count,count,climate_laws
+2012,519.6414549717,Climate Laws Count,count,climate_laws
+2013,558.9770275123202,Climate Laws Count,count,climate_laws
+2014,509.2369638044353,Climate Laws Count,count,climate_laws
+2015,572.2114747564377,Climate Laws Count,count,climate_laws
+2016,603.6287024754758,Climate Laws Count,count,climate_laws
+2017,619.0364640826162,Climate Laws Count,count,climate_laws
+2018,666.0941948813489,Climate Laws Count,count,climate_laws
+2019,647.103202704712,Climate Laws Count,count,climate_laws
+2020,744.8412266929788,Climate Laws Count,count,climate_laws
+2021,720.0082825967279,Climate Laws Count,count,climate_laws
+2022,739.6279871544555,Climate Laws Count,count,climate_laws
+2023,746.8842113394833,Climate Laws Count,count,climate_laws
+2024,786.2076273543591,Climate Laws Count,count,climate_laws
+2000,42.475294794002906,NDC Ambition Score,index,ndc_ambition
+2001,38.8986093528673,NDC Ambition Score,index,ndc_ambition
+2002,41.02565053277423,NDC Ambition Score,index,ndc_ambition
+2003,43.58882191367,NDC Ambition Score,index,ndc_ambition
+2004,41.96238722958036,NDC Ambition Score,index,ndc_ambition
+2005,45.042226420835505,NDC Ambition Score,index,ndc_ambition
+2006,47.57133737936602,NDC Ambition Score,index,ndc_ambition
+2007,53.123167542138184,NDC Ambition Score,index,ndc_ambition
+2008,52.78768398700578,NDC Ambition Score,index,ndc_ambition
+2009,54.08076973410263,NDC Ambition Score,index,ndc_ambition
+2010,57.55269388650392,NDC Ambition Score,index,ndc_ambition
+2011,56.08788463480181,NDC Ambition Score,index,ndc_ambition
+2012,59.17139454978667,NDC Ambition Score,index,ndc_ambition
+2013,59.19033474120251,NDC Ambition Score,index,ndc_ambition
+2014,61.796087048198885,NDC Ambition Score,index,ndc_ambition
+2015,60.75172402716525,NDC Ambition Score,index,ndc_ambition
+2016,56.683548525170714,NDC Ambition Score,index,ndc_ambition
+2017,65.09716251344109,NDC Ambition Score,index,ndc_ambition
+2018,71.26824440829982,NDC Ambition Score,index,ndc_ambition
+2019,71.27864620672477,NDC Ambition Score,index,ndc_ambition
+2020,72.89619245377351,NDC Ambition Score,index,ndc_ambition
+2021,75.20839216541866,NDC Ambition Score,index,ndc_ambition
+2022,73.26597277288431,NDC Ambition Score,index,ndc_ambition
+2023,75.09194712221678,NDC Ambition Score,index,ndc_ambition
+2024,74.14704431369695,NDC Ambition Score,index,ndc_ambition
+2000,8.7357085758918,Adaptation Funding,Billion USD,adapt_funding
+2001,14.463084599084567,Adaptation Funding,Billion USD,adapt_funding
+2002,18.815537748675265,Adaptation Funding,Billion USD,adapt_funding
+2003,15.442214897276003,Adaptation Funding,Billion USD,adapt_funding
+2004,16.199242940594353,Adaptation Funding,Billion USD,adapt_funding
+2005,20.00211183542639,Adaptation Funding,Billion USD,adapt_funding
+2006,24.40482699571646,Adaptation Funding,Billion USD,adapt_funding
+2007,18.224580735465832,Adaptation Funding,Billion USD,adapt_funding
+2008,16.815276187451047,Adaptation Funding,Billion USD,adapt_funding
+2009,25.797852602033664,Adaptation Funding,Billion USD,adapt_funding
+2010,25.117150296343365,Adaptation Funding,Billion USD,adapt_funding
+2011,29.967439209410756,Adaptation Funding,Billion USD,adapt_funding
+2012,33.408878724730116,Adaptation Funding,Billion USD,adapt_funding
+2013,34.18700636390795,Adaptation Funding,Billion USD,adapt_funding
+2014,43.80987013788298,Adaptation Funding,Billion USD,adapt_funding
+2015,41.30697905840928,Adaptation Funding,Billion USD,adapt_funding
+2016,43.20189743844331,Adaptation Funding,Billion USD,adapt_funding
+2017,46.48882857617361,Adaptation Funding,Billion USD,adapt_funding
+2018,41.44466752887692,Adaptation Funding,Billion USD,adapt_funding
+2019,52.15644714968107,Adaptation Funding,Billion USD,adapt_funding
+2020,49.69694285385816,Adaptation Funding,Billion USD,adapt_funding
+2021,54.68192246896485,Adaptation Funding,Billion USD,adapt_funding
+2022,49.71257106783938,Adaptation Funding,Billion USD,adapt_funding
+2023,49.78496493593574,Adaptation Funding,Billion USD,adapt_funding
+2024,61.27155863210012,Adaptation Funding,Billion USD,adapt_funding
+2000,20.376409526097518,Paris Agreement Compliance,%,paris_compliance
+2001,19.59794844564249,Paris Agreement Compliance,%,paris_compliance
+2002,20.130336918725305,Paris Agreement Compliance,%,paris_compliance
+2003,22.625434784414768,Paris Agreement Compliance,%,paris_compliance
+2004,20.810588107132673,Paris Agreement Compliance,%,paris_compliance
+2005,24.142672953255964,Paris Agreement Compliance,%,paris_compliance
+2006,22.09937926535213,Paris Agreement Compliance,%,paris_compliance
+2007,24.13839192560838,Paris Agreement Compliance,%,paris_compliance
+2008,23.671381524251014,Paris Agreement Compliance,%,paris_compliance
+2009,25.103187431082343,Paris Agreement Compliance,%,paris_compliance
+2010,24.455885997885808,Paris Agreement Compliance,%,paris_compliance
+2011,25.337207093927706,Paris Agreement Compliance,%,paris_compliance
+2012,26.04091917539572,Paris Agreement Compliance,%,paris_compliance
+2013,25.497812544218526,Paris Agreement Compliance,%,paris_compliance
+2014,27.740824345420126,Paris Agreement Compliance,%,paris_compliance
+2015,26.986786433528415,Paris Agreement Compliance,%,paris_compliance
+2016,27.77140008465998,Paris Agreement Compliance,%,paris_compliance
+2017,27.50565062539149,Paris Agreement Compliance,%,paris_compliance
+2018,26.43766634120469,Paris Agreement Compliance,%,paris_compliance
+2019,29.308972237399832,Paris Agreement Compliance,%,paris_compliance
+2020,32.41261542161291,Paris Agreement Compliance,%,paris_compliance
+2021,31.284604287898024,Paris Agreement Compliance,%,paris_compliance
+2022,30.980739620265606,Paris Agreement Compliance,%,paris_compliance
+2023,31.237109170791733,Paris Agreement Compliance,%,paris_compliance
+2024,32.02246589281204,Paris Agreement Compliance,%,paris_compliance
+2000,17.18847646070084,Corporate ESG Reporting Rate,%,esg_reporting
+2001,12.27674873876462,Corporate ESG Reporting Rate,%,esg_reporting
+2002,23.45728677867549,Corporate ESG Reporting Rate,%,esg_reporting
+2003,23.861525261764974,Corporate ESG Reporting Rate,%,esg_reporting
+2004,25.87274290283174,Corporate ESG Reporting Rate,%,esg_reporting
+2005,26.75390295523891,Corporate ESG Reporting Rate,%,esg_reporting
+2006,27.07846663077596,Corporate ESG Reporting Rate,%,esg_reporting
+2007,31.69144494386728,Corporate ESG Reporting Rate,%,esg_reporting
+2008,33.36725653496551,Corporate ESG Reporting Rate,%,esg_reporting
+2009,31.583837156235905,Corporate ESG Reporting Rate,%,esg_reporting
+2010,32.7055929084124,Corporate ESG Reporting Rate,%,esg_reporting
+2011,37.40742518104795,Corporate ESG Reporting Rate,%,esg_reporting
+2012,45.19608060598075,Corporate ESG Reporting Rate,%,esg_reporting
+2013,36.043571697384394,Corporate ESG Reporting Rate,%,esg_reporting
+2014,37.12989893699024,Corporate ESG Reporting Rate,%,esg_reporting
+2015,45.659043364946065,Corporate ESG Reporting Rate,%,esg_reporting
+2016,47.20355080742407,Corporate ESG Reporting Rate,%,esg_reporting
+2017,49.69336665748163,Corporate ESG Reporting Rate,%,esg_reporting
+2018,51.975812791634,Corporate ESG Reporting Rate,%,esg_reporting
+2019,52.10719098146078,Corporate ESG Reporting Rate,%,esg_reporting
+2020,60.95945375440833,Corporate ESG Reporting Rate,%,esg_reporting
+2021,50.596384086093934,Corporate ESG Reporting Rate,%,esg_reporting
+2022,55.686011900879016,Corporate ESG Reporting Rate,%,esg_reporting
+2023,60.58698095940381,Corporate ESG Reporting Rate,%,esg_reporting
+2024,56.42724475538333,Corporate ESG Reporting Rate,%,esg_reporting
+2000,1.9824145595567928,Urban Heat Island Intensity,C,urban_heat
+2001,2.2161470165728017,Urban Heat Island Intensity,C,urban_heat
+2002,2.1020886488295965,Urban Heat Island Intensity,C,urban_heat
+2003,2.1730700905718683,Urban Heat Island Intensity,C,urban_heat
+2004,2.073983523482742,Urban Heat Island Intensity,C,urban_heat
+2005,2.1883638591960524,Urban Heat Island Intensity,C,urban_heat
+2006,2.262480361967606,Urban Heat Island Intensity,C,urban_heat
+2007,2.3182284903243766,Urban Heat Island Intensity,C,urban_heat
+2008,2.5281643795003768,Urban Heat Island Intensity,C,urban_heat
+2009,2.5057691060725125,Urban Heat Island Intensity,C,urban_heat
+2010,2.3888542043062966,Urban Heat Island Intensity,C,urban_heat
+2011,2.5746504778432002,Urban Heat Island Intensity,C,urban_heat
+2012,2.6498221748496786,Urban Heat Island Intensity,C,urban_heat
+2013,2.7640149038521264,Urban Heat Island Intensity,C,urban_heat
+2014,2.8580540686568376,Urban Heat Island Intensity,C,urban_heat
+2015,2.6484905808172132,Urban Heat Island Intensity,C,urban_heat
+2016,2.718914248878966,Urban Heat Island Intensity,C,urban_heat
+2017,2.7242422141085383,Urban Heat Island Intensity,C,urban_heat
+2018,2.8765980140893017,Urban Heat Island Intensity,C,urban_heat
+2019,2.9966358374446336,Urban Heat Island Intensity,C,urban_heat
+2020,3.09873345165891,Urban Heat Island Intensity,C,urban_heat
+2021,3.0424048976357474,Urban Heat Island Intensity,C,urban_heat
+2022,3.0680152476745155,Urban Heat Island Intensity,C,urban_heat
+2023,3.1651757992248744,Urban Heat Island Intensity,C,urban_heat
+2024,3.116485709836998,Urban Heat Island Intensity,C,urban_heat
+2000,20.417907744338955,Green Space Ratio,%,green_space
+2001,19.578467794576387,Green Space Ratio,%,green_space
+2002,19.836948115779144,Green Space Ratio,%,green_space
+2003,20.104721243845926,Green Space Ratio,%,green_space
+2004,19.601359968912,Green Space Ratio,%,green_space
+2005,19.461992192999702,Green Space Ratio,%,green_space
+2006,19.328510915437914,Green Space Ratio,%,green_space
+2007,19.26392166364752,Green Space Ratio,%,green_space
+2008,19.474569694935305,Green Space Ratio,%,green_space
+2009,18.6576276177341,Green Space Ratio,%,green_space
+2010,19.306686740259266,Green Space Ratio,%,green_space
+2011,18.61520856950997,Green Space Ratio,%,green_space
+2012,18.746669534153117,Green Space Ratio,%,green_space
+2013,18.614151115940267,Green Space Ratio,%,green_space
+2014,18.717710653954146,Green Space Ratio,%,green_space
+2015,18.18037512962325,Green Space Ratio,%,green_space
+2016,18.492434533216386,Green Space Ratio,%,green_space
+2017,18.704861924657372,Green Space Ratio,%,green_space
+2018,17.927365199081436,Green Space Ratio,%,green_space
+2019,18.13794123352208,Green Space Ratio,%,green_space
+2020,17.867603564440678,Green Space Ratio,%,green_space
+2021,17.985177441238605,Green Space Ratio,%,green_space
+2022,17.80382955548315,Green Space Ratio,%,green_space
+2023,17.571702618191136,Green Space Ratio,%,green_space
+2024,17.697574456974216,Green Space Ratio,%,green_space
+2000,31.443478487829395,Urban Flood Risk,index,urban_flood
+2001,30.24727696661816,Urban Flood Risk,index,urban_flood
+2002,31.375806353718545,Urban Flood Risk,index,urban_flood
+2003,30.165381633703067,Urban Flood Risk,index,urban_flood
+2004,30.834850898545593,Urban Flood Risk,index,urban_flood
+2005,32.377925022304304,Urban Flood Risk,index,urban_flood
+2006,33.58729282282877,Urban Flood Risk,index,urban_flood
+2007,33.08449067902853,Urban Flood Risk,index,urban_flood
+2008,32.94955357558148,Urban Flood Risk,index,urban_flood
+2009,33.59943312433869,Urban Flood Risk,index,urban_flood
+2010,32.99967381282423,Urban Flood Risk,index,urban_flood
+2011,34.883612261084295,Urban Flood Risk,index,urban_flood
+2012,35.50586644985872,Urban Flood Risk,index,urban_flood
+2013,34.838327733733536,Urban Flood Risk,index,urban_flood
+2014,35.2239662817924,Urban Flood Risk,index,urban_flood
+2015,36.21270258372164,Urban Flood Risk,index,urban_flood
+2016,36.05062421116752,Urban Flood Risk,index,urban_flood
+2017,36.74709390829934,Urban Flood Risk,index,urban_flood
+2018,38.87977743133322,Urban Flood Risk,index,urban_flood
+2019,37.402379439403205,Urban Flood Risk,index,urban_flood
+2020,37.71332787838302,Urban Flood Risk,index,urban_flood
+2021,37.88196655549187,Urban Flood Risk,index,urban_flood
+2022,39.39535357719995,Urban Flood Risk,index,urban_flood
+2023,39.05502066142552,Urban Flood Risk,index,urban_flood
+2024,39.08050156934286,Urban Flood Risk,index,urban_flood
+2000,25.528521612909206,Public Transport Usage,%,public_transport
+2001,25.767841201805453,Public Transport Usage,%,public_transport
+2002,25.159830573704518,Public Transport Usage,%,public_transport
+2003,24.853384019455756,Public Transport Usage,%,public_transport
+2004,26.20300547593477,Public Transport Usage,%,public_transport
+2005,25.726148069696,Public Transport Usage,%,public_transport
+2006,26.516250239665105,Public Transport Usage,%,public_transport
+2007,25.611958472915266,Public Transport Usage,%,public_transport
+2008,26.957038935319726,Public Transport Usage,%,public_transport
+2009,26.31553122828769,Public Transport Usage,%,public_transport
+2010,27.29230564762661,Public Transport Usage,%,public_transport
+2011,27.205709227134573,Public Transport Usage,%,public_transport
+2012,27.01842423224134,Public Transport Usage,%,public_transport
+2013,27.43718547482929,Public Transport Usage,%,public_transport
+2014,28.07452738278268,Public Transport Usage,%,public_transport
+2015,28.042357781246093,Public Transport Usage,%,public_transport
+2016,28.433765192188993,Public Transport Usage,%,public_transport
+2017,29.190576233806194,Public Transport Usage,%,public_transport
+2018,27.97430335531558,Public Transport Usage,%,public_transport
+2019,29.44688502998745,Public Transport Usage,%,public_transport
+2020,29.041742375009285,Public Transport Usage,%,public_transport
+2021,28.840486380670747,Public Transport Usage,%,public_transport
+2022,28.867874549704403,Public Transport Usage,%,public_transport
+2023,29.52435184368919,Public Transport Usage,%,public_transport
+2024,30.168660044769783,Public Transport Usage,%,public_transport
+2000,9.872450879622466,Heat-related Mortality,per 100k,heat_mortality
+2001,12.011154930247347,Heat-related Mortality,per 100k,heat_mortality
+2002,9.548824309948442,Heat-related Mortality,per 100k,heat_mortality
+2003,11.487911052153946,Heat-related Mortality,per 100k,heat_mortality
+2004,10.74760655558688,Heat-related Mortality,per 100k,heat_mortality
+2005,12.863631882624968,Heat-related Mortality,per 100k,heat_mortality
+2006,13.8868873900973,Heat-related Mortality,per 100k,heat_mortality
+2007,13.079238206318946,Heat-related Mortality,per 100k,heat_mortality
+2008,11.395786143372867,Heat-related Mortality,per 100k,heat_mortality
+2009,14.698948146796495,Heat-related Mortality,per 100k,heat_mortality
+2010,15.436738551733509,Heat-related Mortality,per 100k,heat_mortality
+2011,15.904294754961697,Heat-related Mortality,per 100k,heat_mortality
+2012,17.235782191822153,Heat-related Mortality,per 100k,heat_mortality
+2013,15.428946320350951,Heat-related Mortality,per 100k,heat_mortality
+2014,17.680216105450448,Heat-related Mortality,per 100k,heat_mortality
+2015,18.692507512477974,Heat-related Mortality,per 100k,heat_mortality
+2016,16.221412415993484,Heat-related Mortality,per 100k,heat_mortality
+2017,18.819651825918978,Heat-related Mortality,per 100k,heat_mortality
+2018,18.495820168992328,Heat-related Mortality,per 100k,heat_mortality
+2019,19.418477326898355,Heat-related Mortality,per 100k,heat_mortality
+2020,20.347676483538336,Heat-related Mortality,per 100k,heat_mortality
+2021,20.01277143588645,Heat-related Mortality,per 100k,heat_mortality
+2022,20.324291920838387,Heat-related Mortality,per 100k,heat_mortality
+2023,21.534152417488023,Heat-related Mortality,per 100k,heat_mortality
+2024,20.912754061137196,Heat-related Mortality,per 100k,heat_mortality
+2000,47.394019690675556,Vector-borne Disease Incidence,per 100k,vector_disease
+2001,52.83049587909561,Vector-borne Disease Incidence,per 100k,vector_disease
+2002,49.64289431561922,Vector-borne Disease Incidence,per 100k,vector_disease
+2003,55.19915000218211,Vector-borne Disease Incidence,per 100k,vector_disease
+2004,55.91021910284948,Vector-borne Disease Incidence,per 100k,vector_disease
+2005,51.85806385090257,Vector-borne Disease Incidence,per 100k,vector_disease
+2006,55.57384483439443,Vector-borne Disease Incidence,per 100k,vector_disease
+2007,61.26586256731369,Vector-borne Disease Incidence,per 100k,vector_disease
+2008,57.24520272526477,Vector-borne Disease Incidence,per 100k,vector_disease
+2009,59.68542977045747,Vector-borne Disease Incidence,per 100k,vector_disease
+2010,63.10894614380455,Vector-borne Disease Incidence,per 100k,vector_disease
+2011,65.08013722227824,Vector-borne Disease Incidence,per 100k,vector_disease
+2012,63.79630667349321,Vector-borne Disease Incidence,per 100k,vector_disease
+2013,64.16597553274005,Vector-borne Disease Incidence,per 100k,vector_disease
+2014,70.21368766807642,Vector-borne Disease Incidence,per 100k,vector_disease
+2015,72.1733591931142,Vector-borne Disease Incidence,per 100k,vector_disease
+2016,71.5492593218763,Vector-borne Disease Incidence,per 100k,vector_disease
+2017,70.60476354215606,Vector-borne Disease Incidence,per 100k,vector_disease
+2018,69.66016226806177,Vector-borne Disease Incidence,per 100k,vector_disease
+2019,70.80693342426424,Vector-borne Disease Incidence,per 100k,vector_disease
+2020,75.25403385263782,Vector-borne Disease Incidence,per 100k,vector_disease
+2021,76.20415573013284,Vector-borne Disease Incidence,per 100k,vector_disease
+2022,79.76383662307144,Vector-borne Disease Incidence,per 100k,vector_disease
+2023,79.16108022208672,Vector-borne Disease Incidence,per 100k,vector_disease
+2024,75.19260727577644,Vector-borne Disease Incidence,per 100k,vector_disease
+2000,4.1051947617722915,Air Pollution Deaths,millions,aq_deaths
+2001,3.9501939372685584,Air Pollution Deaths,millions,aq_deaths
+2002,4.061602872804764,Air Pollution Deaths,millions,aq_deaths
+2003,4.17502002062517,Air Pollution Deaths,millions,aq_deaths
+2004,4.399566748978397,Air Pollution Deaths,millions,aq_deaths
+2005,4.560991855600536,Air Pollution Deaths,millions,aq_deaths
+2006,4.360672305913618,Air Pollution Deaths,millions,aq_deaths
+2007,4.331680338127961,Air Pollution Deaths,millions,aq_deaths
+2008,4.453450564848056,Air Pollution Deaths,millions,aq_deaths
+2009,4.538765542587384,Air Pollution Deaths,millions,aq_deaths
+2010,4.467933237444281,Air Pollution Deaths,millions,aq_deaths
+2011,4.729521135591232,Air Pollution Deaths,millions,aq_deaths
+2012,4.62300707591914,Air Pollution Deaths,millions,aq_deaths
+2013,4.69977430890914,Air Pollution Deaths,millions,aq_deaths
+2014,4.766592425205446,Air Pollution Deaths,millions,aq_deaths
+2015,4.792158661061445,Air Pollution Deaths,millions,aq_deaths
+2016,4.883894050046961,Air Pollution Deaths,millions,aq_deaths
+2017,4.788274681345308,Air Pollution Deaths,millions,aq_deaths
+2018,4.844169824605397,Air Pollution Deaths,millions,aq_deaths
+2019,4.839984576702831,Air Pollution Deaths,millions,aq_deaths
+2020,5.0439501230620225,Air Pollution Deaths,millions,aq_deaths
+2021,5.127893650351211,Air Pollution Deaths,millions,aq_deaths
+2022,5.145777286615188,Air Pollution Deaths,millions,aq_deaths
+2023,5.317449243334754,Air Pollution Deaths,millions,aq_deaths
+2024,5.199440398117096,Air Pollution Deaths,millions,aq_deaths
+2000,12.133748331118502,Malnutrition (Climate-linked),%,malnutrition
+2001,11.881659824772136,Malnutrition (Climate-linked),%,malnutrition
+2002,12.122580059505118,Malnutrition (Climate-linked),%,malnutrition
+2003,12.439107551513157,Malnutrition (Climate-linked),%,malnutrition
+2004,12.569820422148629,Malnutrition (Climate-linked),%,malnutrition
+2005,12.441206610467164,Malnutrition (Climate-linked),%,malnutrition
+2006,12.585680149628386,Malnutrition (Climate-linked),%,malnutrition
+2007,12.396425250663837,Malnutrition (Climate-linked),%,malnutrition
+2008,12.728594159838678,Malnutrition (Climate-linked),%,malnutrition
+2009,13.078076632703958,Malnutrition (Climate-linked),%,malnutrition
+2010,13.115041003221313,Malnutrition (Climate-linked),%,malnutrition
+2011,13.200133144276242,Malnutrition (Climate-linked),%,malnutrition
+2012,13.209954737436192,Malnutrition (Climate-linked),%,malnutrition
+2013,13.301412631725636,Malnutrition (Climate-linked),%,malnutrition
+2014,13.26793577210531,Malnutrition (Climate-linked),%,malnutrition
+2015,13.639765684040507,Malnutrition (Climate-linked),%,malnutrition
+2016,13.684194588877878,Malnutrition (Climate-linked),%,malnutrition
+2017,13.79840376959856,Malnutrition (Climate-linked),%,malnutrition
+2018,13.694793031466485,Malnutrition (Climate-linked),%,malnutrition
+2019,13.469331416025751,Malnutrition (Climate-linked),%,malnutrition
+2020,14.21943054235074,Malnutrition (Climate-linked),%,malnutrition
+2021,14.004232508798319,Malnutrition (Climate-linked),%,malnutrition
+2022,14.027444847191376,Malnutrition (Climate-linked),%,malnutrition
+2023,14.4386957823828,Malnutrition (Climate-linked),%,malnutrition
+2024,14.321597472016174,Malnutrition (Climate-linked),%,malnutrition
+2000,20.599363840466218,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2001,21.170059495766974,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2002,26.835693232004775,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2003,11.340442887994657,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2004,42.11943985386401,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2005,37.61250531233856,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2006,36.307228607537965,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2007,46.43388467342251,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2008,32.2376476710168,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2009,59.08652811480671,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2010,49.706284918179286,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2011,51.47329714156466,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2012,54.77640813782109,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2013,86.12688374989925,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2014,73.70736606307212,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2015,100.337277099165,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2016,84.64198536947703,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2017,77.92642042407053,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2018,88.8347556005134,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2019,117.35811620006939,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2020,108.44101822063332,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2021,109.51712703509399,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2022,121.60018225852788,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2023,130.01782736167544,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2024,141.17398815902462,Carbon Capture Capacity (CCUS),MtCO2,ccus_capacity
+2000,1.5484992298929263,Green Hydrogen Production,Mt,hydrogen_prod
+2001,0.24023135421091424,Green Hydrogen Production,Mt,hydrogen_prod
+2002,-0.22604768608203818,Green Hydrogen Production,Mt,hydrogen_prod
+2003,1.186534838876724,Green Hydrogen Production,Mt,hydrogen_prod
+2004,2.3602805065828862,Green Hydrogen Production,Mt,hydrogen_prod
+2005,1.6362410737893893,Green Hydrogen Production,Mt,hydrogen_prod
+2006,2.1428490851049573,Green Hydrogen Production,Mt,hydrogen_prod
+2007,3.9437878815498855,Green Hydrogen Production,Mt,hydrogen_prod
+2008,4.051347648429548,Green Hydrogen Production,Mt,hydrogen_prod
+2009,4.632796995411586,Green Hydrogen Production,Mt,hydrogen_prod
+2010,4.34150466529993,Green Hydrogen Production,Mt,hydrogen_prod
+2011,5.369599285794233,Green Hydrogen Production,Mt,hydrogen_prod
+2012,5.175766855731696,Green Hydrogen Production,Mt,hydrogen_prod
+2013,7.490198411124786,Green Hydrogen Production,Mt,hydrogen_prod
+2014,8.135249334723753,Green Hydrogen Production,Mt,hydrogen_prod
+2015,5.753812137761906,Green Hydrogen Production,Mt,hydrogen_prod
+2016,7.170489139807589,Green Hydrogen Production,Mt,hydrogen_prod
+2017,7.10347074490992,Green Hydrogen Production,Mt,hydrogen_prod
+2018,8.449976065593102,Green Hydrogen Production,Mt,hydrogen_prod
+2019,9.51656203020964,Green Hydrogen Production,Mt,hydrogen_prod
+2020,8.65035478030147,Green Hydrogen Production,Mt,hydrogen_prod
+2021,9.678140186874687,Green Hydrogen Production,Mt,hydrogen_prod
+2022,10.096042627918502,Green Hydrogen Production,Mt,hydrogen_prod
+2023,11.807267329398943,Green Hydrogen Production,Mt,hydrogen_prod
+2024,12.16934433703625,Green Hydrogen Production,Mt,hydrogen_prod
+2000,7.113049786650986,Climate Patents Count,thousands,climate_patents
+2001,12.707283488557591,Climate Patents Count,thousands,climate_patents
+2002,11.813279661650938,Climate Patents Count,thousands,climate_patents
+2003,14.913379558695787,Climate Patents Count,thousands,climate_patents
+2004,24.693808361194147,Climate Patents Count,thousands,climate_patents
+2005,25.36184420716139,Climate Patents Count,thousands,climate_patents
+2006,16.80167505228961,Climate Patents Count,thousands,climate_patents
+2007,27.3189296715167,Climate Patents Count,thousands,climate_patents
+2008,29.24558621796637,Climate Patents Count,thousands,climate_patents
+2009,23.406946844989527,Climate Patents Count,thousands,climate_patents
+2010,33.27511057501944,Climate Patents Count,thousands,climate_patents
+2011,38.151727673650214,Climate Patents Count,thousands,climate_patents
+2012,29.509820775022344,Climate Patents Count,thousands,climate_patents
+2013,32.329988715942946,Climate Patents Count,thousands,climate_patents
+2014,42.07064586737401,Climate Patents Count,thousands,climate_patents
+2015,41.08598124330259,Climate Patents Count,thousands,climate_patents
+2016,44.20590510095809,Climate Patents Count,thousands,climate_patents
+2017,45.36235686560199,Climate Patents Count,thousands,climate_patents
+2018,47.562783683712574,Climate Patents Count,thousands,climate_patents
+2019,42.694111486755666,Climate Patents Count,thousands,climate_patents
+2020,54.189270826485796,Climate Patents Count,thousands,climate_patents
+2021,56.678359969711096,Climate Patents Count,thousands,climate_patents
+2022,53.08243702372789,Climate Patents Count,thousands,climate_patents
+2023,55.82609220074455,Climate Patents Count,thousands,climate_patents
+2024,51.87556998977711,Climate Patents Count,thousands,climate_patents
+2000,20.427642680535044,Battery Storage Capacity,GWh,battery_storage
+2001,37.16172325142432,Battery Storage Capacity,GWh,battery_storage
+2002,33.13426949002067,Battery Storage Capacity,GWh,battery_storage
+2003,83.73060079611508,Battery Storage Capacity,GWh,battery_storage
+2004,54.977683070601785,Battery Storage Capacity,GWh,battery_storage
+2005,96.938177776808,Battery Storage Capacity,GWh,battery_storage
+2006,64.41006983923653,Battery Storage Capacity,GWh,battery_storage
+2007,109.29343547377286,Battery Storage Capacity,GWh,battery_storage
+2008,119.76937226291493,Battery Storage Capacity,GWh,battery_storage
+2009,146.75923766122824,Battery Storage Capacity,GWh,battery_storage
+2010,143.91419213499924,Battery Storage Capacity,GWh,battery_storage
+2011,166.05582212984996,Battery Storage Capacity,GWh,battery_storage
+2012,209.7814151432452,Battery Storage Capacity,GWh,battery_storage
+2013,186.89707288285348,Battery Storage Capacity,GWh,battery_storage
+2014,166.8026869778396,Battery Storage Capacity,GWh,battery_storage
+2015,282.48751712616263,Battery Storage Capacity,GWh,battery_storage
+2016,286.4436223607146,Battery Storage Capacity,GWh,battery_storage
+2017,221.23211914683145,Battery Storage Capacity,GWh,battery_storage
+2018,295.69123415735584,Battery Storage Capacity,GWh,battery_storage
+2019,274.9107568834597,Battery Storage Capacity,GWh,battery_storage
+2020,312.9046164599318,Battery Storage Capacity,GWh,battery_storage
+2021,328.8267238704048,Battery Storage Capacity,GWh,battery_storage
+2022,327.9677659905103,Battery Storage Capacity,GWh,battery_storage
+2023,326.4870300324081,Battery Storage Capacity,GWh,battery_storage
+2024,344.2837684305122,Battery Storage Capacity,GWh,battery_storage
+2000,0.9816761616903752,Species Extinction Rate,index,extinction_rate
+2001,0.9933635558353912,Species Extinction Rate,index,extinction_rate
+2002,1.018656434199013,Species Extinction Rate,index,extinction_rate
+2003,1.015684800217785,Species Extinction Rate,index,extinction_rate
+2004,1.0536410413142525,Species Extinction Rate,index,extinction_rate
+2005,1.0797449231067187,Species Extinction Rate,index,extinction_rate
+2006,1.0483989351725993,Species Extinction Rate,index,extinction_rate
+2007,1.0747880900107076,Species Extinction Rate,index,extinction_rate
+2008,1.0899937022060588,Species Extinction Rate,index,extinction_rate
+2009,1.0994400454183855,Species Extinction Rate,index,extinction_rate
+2010,1.1015191053583218,Species Extinction Rate,index,extinction_rate
+2011,1.1248536483671945,Species Extinction Rate,index,extinction_rate
+2012,1.1296449790536132,Species Extinction Rate,index,extinction_rate
+2013,1.1052467515534539,Species Extinction Rate,index,extinction_rate
+2014,1.1573831212877856,Species Extinction Rate,index,extinction_rate
+2015,1.1677458167453347,Species Extinction Rate,index,extinction_rate
+2016,1.1447342779164282,Species Extinction Rate,index,extinction_rate
+2017,1.170758756708952,Species Extinction Rate,index,extinction_rate
+2018,1.1936665798562214,Species Extinction Rate,index,extinction_rate
+2019,1.1858137236084128,Species Extinction Rate,index,extinction_rate
+2020,1.2214595609553203,Species Extinction Rate,index,extinction_rate
+2021,1.257277449892387,Species Extinction Rate,index,extinction_rate
+2022,1.2042802793473004,Species Extinction Rate,index,extinction_rate
+2023,1.2023791079369244,Species Extinction Rate,index,extinction_rate
+2024,1.2460763719120975,Species Extinction Rate,index,extinction_rate
+2000,12.432937503075687,Protected Area Coverage,%,protected_area
+2001,12.16148017569314,Protected Area Coverage,%,protected_area
+2002,13.47195639799262,Protected Area Coverage,%,protected_area
+2003,12.09683652016605,Protected Area Coverage,%,protected_area
+2004,13.615751173818966,Protected Area Coverage,%,protected_area
+2005,13.136483507544664,Protected Area Coverage,%,protected_area
+2006,14.831626743724378,Protected Area Coverage,%,protected_area
+2007,15.295509211900871,Protected Area Coverage,%,protected_area
+2008,13.940006047329991,Protected Area Coverage,%,protected_area
+2009,14.370265718454851,Protected Area Coverage,%,protected_area
+2010,15.515752732187881,Protected Area Coverage,%,protected_area
+2011,15.067721610126291,Protected Area Coverage,%,protected_area
+2012,15.572753269240657,Protected Area Coverage,%,protected_area
+2013,15.915233052325446,Protected Area Coverage,%,protected_area
+2014,15.048196106281406,Protected Area Coverage,%,protected_area
+2015,16.491697352343458,Protected Area Coverage,%,protected_area
+2016,16.386163335561495,Protected Area Coverage,%,protected_area
+2017,16.80412630656014,Protected Area Coverage,%,protected_area
+2018,18.266179202081286,Protected Area Coverage,%,protected_area
+2019,16.946095863432447,Protected Area Coverage,%,protected_area
+2020,18.487923112048787,Protected Area Coverage,%,protected_area
+2021,18.132622241800917,Protected Area Coverage,%,protected_area
+2022,18.4321438989025,Protected Area Coverage,%,protected_area
+2023,19.374223137631024,Protected Area Coverage,%,protected_area
+2024,19.404030776741333,Protected Area Coverage,%,protected_area

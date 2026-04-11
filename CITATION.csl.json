@@ -1,0 +1,22 @@
+[
+  {
+    "id": "delaserna2024_climate_change_spain_lati",
+    "type": "dataset",
+    "title": "Climate Change in Spain and Latin America (2000-2024)",
+    "author": [
+      {
+        "family": "de la Serna",
+        "given": "Juan Moisés"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.19145316",
+    "URL": "https://github.com/juanmoisesd/climate-change-spain-latin-america"
+  }
+]

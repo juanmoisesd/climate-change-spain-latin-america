@@ -1,0 +1,8 @@
+{
+  "@context": "http://www.w3.org/ns/prov-o#",
+  "@id": "lineage:climate_data",
+  "wasGeneratedBy": {
+    "@type": "Activity",
+    "startedAtTime": "2024-11-20T10:00:00Z"
+  }
+}

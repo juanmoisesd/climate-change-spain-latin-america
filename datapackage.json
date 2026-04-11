@@ -1,0 +1,415 @@
+{
+  "name": "climate-100-indicators",
+  "title": "100 Climate Indicators for Spain and Latin America",
+  "resources": [
+    {
+      "name": "climate-indicators",
+      "path": "data/analysis_ready/climate_indicators_final.csv",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "temp_anomaly",
+            "type": "number"
+          },
+          {
+            "name": "co2_conc",
+            "type": "number"
+          },
+          {
+            "name": "ch4_conc",
+            "type": "number"
+          },
+          {
+            "name": "n2o_conc",
+            "type": "number"
+          },
+          {
+            "name": "ozone_trop",
+            "type": "number"
+          },
+          {
+            "name": "h2o_strat",
+            "type": "number"
+          },
+          {
+            "name": "aerosol_opt",
+            "type": "number"
+          },
+          {
+            "name": "cloud_fraction",
+            "type": "number"
+          },
+          {
+            "name": "precip_intensity",
+            "type": "number"
+          },
+          {
+            "name": "humidity",
+            "type": "number"
+          },
+          {
+            "name": "wind_speed",
+            "type": "number"
+          },
+          {
+            "name": "solar_irrad",
+            "type": "number"
+          },
+          {
+            "name": "lightning_freq",
+            "type": "number"
+          },
+          {
+            "name": "aqi_index",
+            "type": "number"
+          },
+          {
+            "name": "uv_index",
+            "type": "number"
+          },
+          {
+            "name": "pressure_anom",
+            "type": "number"
+          },
+          {
+            "name": "sst_anom",
+            "type": "number"
+          },
+          {
+            "name": "ocean_heat",
+            "type": "number"
+          },
+          {
+            "name": "sea_level",
+            "type": "number"
+          },
+          {
+            "name": "ocean_ph",
+            "type": "number"
+          },
+          {
+            "name": "salinity",
+            "type": "number"
+          },
+          {
+            "name": "marine_heatwaves",
+            "type": "number"
+          },
+          {
+            "name": "sea_ice_arctic",
+            "type": "number"
+          },
+          {
+            "name": "sea_ice_antarctic",
+            "type": "number"
+          },
+          {
+            "name": "phytoplankton",
+            "type": "number"
+          },
+          {
+            "name": "coral_bleach",
+            "type": "number"
+          },
+          {
+            "name": "ocean_current",
+            "type": "number"
+          },
+          {
+            "name": "dissolved_o2",
+            "type": "number"
+          },
+          {
+            "name": "deforestation_rate",
+            "type": "number"
+          },
+          {
+            "name": "land_temp",
+            "type": "number"
+          },
+          {
+            "name": "soil_moisture",
+            "type": "number"
+          },
+          {
+            "name": "desertification",
+            "type": "number"
+          },
+          {
+            "name": "permafrost_thaw",
+            "type": "number"
+          },
+          {
+            "name": "glacier_mass",
+            "type": "number"
+          },
+          {
+            "name": "snow_cover",
+            "type": "number"
+          },
+          {
+            "name": "biomass_density",
+            "type": "number"
+          },
+          {
+            "name": "land_cover_change",
+            "type": "number"
+          },
+          {
+            "name": "soil_erosion",
+            "type": "number"
+          },
+          {
+            "name": "biodiversity_idx",
+            "type": "number"
+          },
+          {
+            "name": "invasive_species",
+            "type": "number"
+          },
+          {
+            "name": "wetland_area",
+            "type": "number"
+          },
+          {
+            "name": "peatland_deg",
+            "type": "number"
+          },
+          {
+            "name": "river_discharge",
+            "type": "number"
+          },
+          {
+            "name": "lake_levels",
+            "type": "number"
+          },
+          {
+            "name": "groundwater_dep",
+            "type": "number"
+          },
+          {
+            "name": "evapotranspiration",
+            "type": "number"
+          },
+          {
+            "name": "drought_severity",
+            "type": "number"
+          },
+          {
+            "name": "flood_freq",
+            "type": "number"
+          },
+          {
+            "name": "water_scarcity",
+            "type": "number"
+          },
+          {
+            "name": "heatwave_dur",
+            "type": "number"
+          },
+          {
+            "name": "cold_freq",
+            "type": "number"
+          },
+          {
+            "name": "cyclone_int",
+            "type": "number"
+          },
+          {
+            "name": "wildfire_area",
+            "type": "number"
+          },
+          {
+            "name": "extreme_rain",
+            "type": "number"
+          },
+          {
+            "name": "dust_storms",
+            "type": "number"
+          },
+          {
+            "name": "gdp_climate_risk",
+            "type": "number"
+          },
+          {
+            "name": "climate_refugees",
+            "type": "number"
+          },
+          {
+            "name": "agri_yield",
+            "type": "number"
+          },
+          {
+            "name": "water_stress",
+            "type": "number"
+          },
+          {
+            "name": "energy_cooling",
+            "type": "number"
+          },
+          {
+            "name": "carbon_tax",
+            "type": "number"
+          },
+          {
+            "name": "green_bonds",
+            "type": "number"
+          },
+          {
+            "name": "insurance_losses",
+            "type": "number"
+          },
+          {
+            "name": "renewable_share",
+            "type": "number"
+          },
+          {
+            "name": "coal_cons",
+            "type": "number"
+          },
+          {
+            "name": "oil_cons",
+            "type": "number"
+          },
+          {
+            "name": "gas_cons",
+            "type": "number"
+          },
+          {
+            "name": "elect_access",
+            "type": "number"
+          },
+          {
+            "name": "carbon_intensity",
+            "type": "number"
+          },
+          {
+            "name": "fossil_subsidies",
+            "type": "number"
+          },
+          {
+            "name": "ev_market_share",
+            "type": "number"
+          },
+          {
+            "name": "solar_cap",
+            "type": "number"
+          },
+          {
+            "name": "wind_cap",
+            "type": "number"
+          },
+          {
+            "name": "hydro_cap",
+            "type": "number"
+          },
+          {
+            "name": "nuclear_share",
+            "type": "number"
+          },
+          {
+            "name": "energy_eff",
+            "type": "number"
+          },
+          {
+            "name": "transport_emis",
+            "type": "number"
+          },
+          {
+            "name": "industry_emis",
+            "type": "number"
+          },
+          {
+            "name": "resid_emis",
+            "type": "number"
+          },
+          {
+            "name": "waste_emis",
+            "type": "number"
+          },
+          {
+            "name": "fugitive_emis",
+            "type": "number"
+          },
+          {
+            "name": "climate_laws",
+            "type": "number"
+          },
+          {
+            "name": "ndc_ambition",
+            "type": "number"
+          },
+          {
+            "name": "adapt_funding",
+            "type": "number"
+          },
+          {
+            "name": "paris_compliance",
+            "type": "number"
+          },
+          {
+            "name": "esg_reporting",
+            "type": "number"
+          },
+          {
+            "name": "urban_heat",
+            "type": "number"
+          },
+          {
+            "name": "green_space",
+            "type": "number"
+          },
+          {
+            "name": "urban_flood",
+            "type": "number"
+          },
+          {
+            "name": "public_transport",
+            "type": "number"
+          },
+          {
+            "name": "heat_mortality",
+            "type": "number"
+          },
+          {
+            "name": "vector_disease",
+            "type": "number"
+          },
+          {
+            "name": "aq_deaths",
+            "type": "number"
+          },
+          {
+            "name": "malnutrition",
+            "type": "number"
+          },
+          {
+            "name": "ccus_capacity",
+            "type": "number"
+          },
+          {
+            "name": "hydrogen_prod",
+            "type": "number"
+          },
+          {
+            "name": "climate_patents",
+            "type": "number"
+          },
+          {
+            "name": "battery_storage",
+            "type": "number"
+          },
+          {
+            "name": "extinction_rate",
+            "type": "number"
+          },
+          {
+            "name": "protected_area",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}

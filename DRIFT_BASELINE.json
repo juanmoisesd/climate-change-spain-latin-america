@@ -1,0 +1,7 @@
+{
+  "baseline_period": "2000-2024",
+  "expected_ranges": {
+    "CO2_ppm": [360, 430],
+    "Temp_Anomaly": [-1.0, 3.0]
+  }
+}

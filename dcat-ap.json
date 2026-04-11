@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "vcard": "http://www.w3.org/2006/vcard/ns#"
+  },
+  "@type": "dcat:Dataset",
+  "dct:title": "Climate Change in Spain and Latin America (2000-2024)",
+  "dct:description": "Climate and environmental data for Spain and Latin America (2000-2024).",
+  "dcat:keyword": ["Climate Change", "Spain", "Latin America"],
+  "dct:publisher": {
+    "@type": "foaf:Organization",
+    "foaf:name": "Zenodo"
+  },
+  "dcat:distribution": {
+    "@type": "dcat:Distribution",
+    "dcat:accessURL": "https://github.com/juanmoisesd/climate-change-spain-latin-america",
+    "dct:format": "CSV"
+  }
+}

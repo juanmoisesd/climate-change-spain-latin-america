@@ -1,0 +1,6 @@
+source_id,organization,url,data_type
+AEMET,Agencia Estatal de Meteorología,https://www.aemet.es/,Climate
+Copernicus,Copernicus Climate Change Service,https://climate.copernicus.eu/,Climate
+SENAMHI,Servicio Nacional de Meteorología e Hidrología,https://www.senamhi.gob.pe/,Glaciers
+GCP,Global Carbon Project,https://www.globalcarbonproject.org/,Emissions
+INPE,Instituto Nacional de Pesquisas Espaciais,http://www.inpe.br/,Deforestation

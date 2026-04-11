@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinations - Climate Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+    <nav class="border-b border-slate-800 p-4 sticky top-0 bg-slate-950/80 backdrop-blur-md z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold text-blue-400">Climate Dashboard</h1>
+            <div class="space-x-6 text-sm">
+                <a href="index.html" class="hover:text-blue-400">Overview</a>
+                <a href="variables.html" class="hover:text-blue-400">Variables</a>
+                <a href="combinations.html" class="text-blue-400">Combinations</a>
+                <a href="insights.html" class="hover:text-blue-400">Insights</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto p-6 space-y-12">
+        <section class="space-y-6">
+            <h2 class="text-3xl font-bold text-white">Relationship: Renewables vs CO2 Emissions (2024)</h2>
+            <div class="card rounded-2xl p-6">
+                <canvas id="correlationChart" height="150"></canvas>
+            </div>
+            <p class="text-slate-400 italic text-sm">Bubble size represents the country's relative influence in the region.</p>
+        </section>
+    </main>
+
+    <script>
+        async function loadCorrelation() {
+            const [co2Res, renRes] = await Promise.all([
+                fetch('data/co2_emissions.json'),
+                fetch('data/renewable_energy.json')
+            ]);
+            const co2Data = await co2Res.json();
+            const renData = await renRes.json();
+
+            const correlationData = co2Data.map(c => {
+                const r = renData.find(ren => ren.Country === c.Country);
+                return {
+                    x: r['2024'],
+                    y: c['2024'],
+                    label: c.Country
+                };
+            });
+
+            const ctx = document.getElementById('correlationChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Country Indicators',
+                        data: correlationData,
+                        backgroundColor: 'rgba(59, 130, 246, 0.6)',
+                        borderColor: '#fff',
+                        borderWidth: 1,
+                        pointRadius: 10,
+                        pointHoverRadius: 12
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: (ctx) => `${ctx.raw.label}: ${ctx.raw.x}% Renewables, ${ctx.raw.y}t CO2`
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: { display: true, text: 'Renewable Share (%)', color: '#94a3b8' },
+                            grid: { color: 'rgba(255,255,255,0.05)' },
+                            ticks: { color: '#94a3b8' }
+                        },
+                        y: {
+                            title: { display: true, text: 'CO2 per Capita (t)', color: '#94a3b8' },
+                            grid: { color: 'rgba(255,255,255,0.05)' },
+                            ticks: { color: '#94a3b8' }
+                        }
+                    }
+                }
+            });
+        }
+        loadCorrelation();
+    </script>
+</body>
+</html>
