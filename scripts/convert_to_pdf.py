@@ -47,7 +47,7 @@ def convert_md_to_pdf(md_file, pdf_file):
              pdf.ln(1)
         else:
             pdf.set_font("Helvetica", size=11)
-            # Handle UTF-8 safely for both English and Spanish
+            # Handle UTF-8 safely for multilingual content
             text = line.encode('latin-1', 'replace').decode('latin-1')
             pdf.multi_cell(0, 8, text)
             pdf.ln(1)
@@ -55,9 +55,9 @@ def convert_md_to_pdf(md_file, pdf_file):
     pdf.output(pdf_file)
 
 if __name__ == "__main__":
-    # Convert all .md files in manuscripts/ and manuscripts/en/
-    folders = ["manuscripts", "manuscripts/en"]
+    folders = ["manuscripts", "manuscripts/en", "manuscripts/fr"]
     for folder in folders:
+        if not os.path.exists(folder): continue
         md_files = glob.glob(os.path.join(folder, "*.md"))
         for md_file in sorted(md_files):
             pdf_file = md_file.replace(".md", ".pdf")
